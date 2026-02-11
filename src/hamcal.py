@@ -151,10 +151,19 @@ def build_ics(calendar_name: str, events: List[Event]) -> str:
         lines.append(f"DTSTART:{dt_to_ics(e.start)}")
         lines.append(f"DTEND:{dt_to_ics(e.end)}")
         lines.append(f"SUMMARY:{ics_escape(e.title)}")
+                # Always include the URL field when present
         if e.url:
             lines.append(f"URL:{ics_escape(e.url)}")
-        if e.description:
-            lines.append(f"DESCRIPTION:{ics_escape(e.description)}")
+
+        # Make the link visible in Description too (some calendar apps hide URL)
+        desc_out = (e.description or "").strip()
+        if e.url and (e.url not in desc_out):
+            if desc_out:
+                desc_out += "\n\n"
+            desc_out += f"Rules & details:\n{e.url}"
+          
+        if desc_out:
+            lines.append(f"DESCRIPTION:{ics_escape(desc_out)}")
         if e.categories:
             lines.append(f"CATEGORIES:{ics_escape(','.join(e.categories))}")
         lines.append("END:VEVENT")
