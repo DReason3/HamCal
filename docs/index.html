@@ -3,62 +3,32 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>HAMCAL – P.A.R.A. Subscribe</title>
+  <title>HAMCAL – Subscribe</title>
   <style>
     body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 24px; line-height: 1.4; }
-    .box { border: 1px solid #ddd; border-radius: 10px; padding: 16px; max-width: 820px; }
-    h1 { margin: 0 0 6px 0; }
-    .banner {
-      border: 2px solid #000;
-      border-radius: 12px;
-      padding: 14px 14px;
-      margin: 12px 0 18px 0;
-      background: #fff;
-    }
-    .banner strong { font-size: 1.05em; }
-    .note { color: #222; font-size: 1.0em; margin: 10px 0; }
-    .small { color: #444; font-size: 0.95em; }
+    .box { border: 1px solid #ddd; border-radius: 10px; padding: 16px; max-width: 760px; }
+    h1 { margin-top: 0; }
     .row { display: flex; gap: 12px; align-items: center; margin: 10px 0; }
     code { padding: 2px 6px; background: #f6f6f6; border-radius: 6px; }
     .url { display:none; margin-left: 28px; }
-    .quicklinks a { display: inline-block; margin-right: 14px; }
-    hr { border: 0; border-top: 1px solid #eee; margin: 16px 0; }
+    .note { color: #444; font-size: 0.95em; }
   </style>
 </head>
 <body>
   <div class="box">
     <h1>HAMCAL</h1>
-    <div class="small">P.A.R.A. (Paducah Area Radio Club) – Contest + Hamfest Calendars</div>
+    <p class="note">
+      Subscribe to one or more calendars below, then set notifications inside your calendar app (Google/Apple/Outlook).
+    </p>
 
-    <div class="banner">
-      <strong>CLICK HERE FIRST:</strong>
-      <div class="note">
-        1) Pick what you want below (All / CW / Phone / Digital / Hamfests / Field Day).<br/>
-        2) Click the link that appears.<br/>
-        3) When your calendar asks, choose <strong>Subscribe</strong> (recommended).<br/>
-        <span class="small">Subscribing keeps it updated automatically. No downloads needed.</span>
-      </div>
-      <div class="quicklinks">
-        <a href="./how-to-subscribe.html"><strong>Printable 1-page “How to Subscribe”</strong></a>
-        &nbsp;|&nbsp;
-        <a href="./summary.html"><strong>Printable Monthly Summary (UTC + Central + Duration)</strong></a>
-      </div>
-    </div>
-
-    <div class="note">
-      <strong>What you’re doing:</strong> you’re adding a calendar feed so contest &amp; hamfest dates appear on your phone/computer calendar.
-      Then you set reminders (like “1 day before”) inside your calendar app.
-    </div>
-
-    <hr />
+    <p><strong>Printable:</strong> <a href="./summary.html">Monthly Summary (UTC + Central + Duration)</a></p>
 
     <div class="row">
       <input type="checkbox" id="all" data-target="u-all" />
       <label for="all"><strong>All events</strong> (contests + hamfests + Field Day)</label>
     </div>
     <div id="u-all" class="url">
-      <div><a href="./all.ics"><strong>Subscribe to All Events</strong></a> <span class="small">(auto-updates)</span></div>
-      <div class="small">File: <code>all.ics</code></div>
+      <div><code>all.ics</code> — <a href="./all.ics">open</a></div>
     </div>
 
     <div class="row">
@@ -66,8 +36,7 @@
       <label for="cw"><strong>CW contests</strong></label>
     </div>
     <div id="u-cw" class="url">
-      <div><a href="./cw.ics"><strong>Subscribe to CW Contests</strong></a> <span class="small">(auto-updates)</span></div>
-      <div class="small">File: <code>cw.ics</code></div>
+      <div><code>cw.ics</code> — <a href="./cw.ics">open</a></div>
     </div>
 
     <div class="row">
@@ -75,8 +44,7 @@
       <label for="phone"><strong>Phone contests</strong> (SSB/AM/FM)</label>
     </div>
     <div id="u-phone" class="url">
-      <div><a href="./phone.ics"><strong>Subscribe to Phone Contests</strong></a> <span class="small">(auto-updates)</span></div>
-      <div class="small">File: <code>phone.ics</code></div>
+      <div><code>phone.ics</code> — <a href="./phone.ics">open</a></div>
     </div>
 
     <div class="row">
@@ -84,8 +52,7 @@
       <label for="digital"><strong>Digital contests</strong> (RTTY/FT8/etc)</label>
     </div>
     <div id="u-digital" class="url">
-      <div><a href="./digital.ics"><strong>Subscribe to Digital Contests</strong></a> <span class="small">(auto-updates)</span></div>
-      <div class="small">File: <code>digital.ics</code></div>
+      <div><code>digital.ics</code> — <a href="./digital.ics">open</a></div>
     </div>
 
     <div class="row">
@@ -93,8 +60,7 @@
       <label for="hamfests"><strong>Hamfests</strong></label>
     </div>
     <div id="u-hamfests" class="url">
-      <div><a href="./hamfests.ics"><strong>Subscribe to Hamfests</strong></a> <span class="small">(auto-updates)</span></div>
-      <div class="small">File: <code>hamfests.ics</code></div>
+      <div><code>hamfests.ics</code> — <a href="./hamfests.ics">open</a></div>
     </div>
 
     <div class="row">
@@ -102,15 +68,13 @@
       <label for="fieldday"><strong>Field Day</strong></label>
     </div>
     <div id="u-fieldday" class="url">
-      <div><a href="./field-day.ics"><strong>Subscribe to Field Day</strong></a> <span class="small">(auto-updates)</span></div>
-      <div class="small">File: <code>field-day.ics</code></div>
+      <div><code>field-day.ics</code> — <a href="./field-day.ics">open</a></div>
     </div>
 
     <hr />
-
-    <div class="small">
-      Tip: After you subscribe, set reminders in your calendar app (example: “1 day before” and “1 hour before”).
-    </div>
+    <p class="note">
+      Notes: rolling ~2-month lookahead. Times in the summary show both UTC (Zulu) and Central (CST/CDT auto).
+    </p>
   </div>
 
 <script>
