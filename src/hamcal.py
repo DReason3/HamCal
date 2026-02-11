@@ -151,7 +151,8 @@ def build_ics(calendar_name: str, events: List[Event]) -> str:
         lines.append(f"DTSTART:{dt_to_ics(e.start)}")
         lines.append(f"DTEND:{dt_to_ics(e.end)}")
         lines.append(f"SUMMARY:{ics_escape(e.title)}")
-                # Always include the URL field when present
+
+        # Always include the URL field when present
         if e.url:
             lines.append(f"URL:{ics_escape(e.url)}")
 
@@ -161,14 +162,14 @@ def build_ics(calendar_name: str, events: List[Event]) -> str:
             if desc_out:
                 desc_out += "\n\n"
             desc_out += f"Rules & details:\n{e.url}"
-          
+
         if desc_out:
             lines.append(f"DESCRIPTION:{ics_escape(desc_out)}")
+
         if e.categories:
             lines.append(f"CATEGORIES:{ics_escape(','.join(e.categories))}")
-        lines.append("END:VEVENT")
 
-    lines.append("END:VCALENDAR")
+        lines.append("END:VEVENT")
     return "\r\n".join(lines) + "\r\n"
 
 
