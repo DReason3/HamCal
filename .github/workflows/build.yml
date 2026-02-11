@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -35,6 +37,11 @@ jobs:
         run: |
           git config user.name "hamcal-bot"
           git config user.email "hamcal-bot@users.noreply.github.com"
+
           git add docs/*.ics docs/index.html docs/summary.html docs/how-to-subscribe.html
           git commit -m "Update HAMCAL calendars" || echo "No changes to commit"
+
+          # IMPORTANT: bring in any new commits that happened while this job was running
+          git pull --rebase origin main
+
           git push
