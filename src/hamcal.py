@@ -719,7 +719,7 @@ def main() -> int:
     cals = split_calendars(all_events)
 
     write_file(os.path.join(OUT_DIR, "all.ics"), build_ics("HAMCAL – All", cals["all"]))
-        export_all_json(cals["all"], os.path.join(OUT_DIR, "all.json"))
+    export_all_json(cals["all"], os.path.join(OUT_DIR, "all.json"))
 
     write_file(os.path.join(OUT_DIR, "cw.ics"), build_ics("HAMCAL – CW Contests", cals["cw"]))
     write_file(os.path.join(OUT_DIR, "phone.ics"), build_ics("HAMCAL – Phone Contests", cals["phone"]))
