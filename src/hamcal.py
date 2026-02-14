@@ -27,6 +27,7 @@ import html
 import os
 import re
 import sys
+import json
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone, date
 from typing import List, Optional, Dict, Tuple
@@ -82,6 +83,63 @@ class Event:
     def add_category(self, c: str) -> None:
         if c not in self.categories:
             self.categories.append(c)
+          
+# ---------------- JSON export (for client-side search/filter) ----------------
+
+_CALLSIGN_RE = re.compile(r"\b([A-Z]{1,2}\d[A-Z]{1,3}|[A-Z]\d[A-Z]{1,3})\b", re.IGNORECASE)
+
+def _iso_z(dt: datetime) -> str:
+    return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+def _infer_callsign(summary: str, description: str) -> str:
+    hay = f"{summary or ''} {description or ''}".strip()
+    if not hay:
+        return ""
+    m = _CALLSIGN_RE.search(hay)
+    return (m.group(1) or "").upper() if m else ""
+
+def export_all_json(all_events: List["Event"], out_path: str) -> None:
+    payload = []
+
+    for e in all_events:
+        mode = ""
+        if "cw" in e.categories:
+            mode = "CW"
+        elif "phone" in e.categories:
+            mode = "PHONE"
+        elif "digital" in e.categories:
+            mode = "DIGITAL"
+        elif "hamfest" in e.categories:
+            mode = "HAMFEST"
+        elif "field-day" in e.categories:
+            mode = "FIELD-DAY"
+
+        sponsor = ""
+        if e.source.startswith("wa7bnm"):
+            sponsor = "WA7BNM"
+        elif e.source.startswith("arrl"):
+            sponsor = "ARRL"
+
+        callsign = _infer_callsign(e.title, e.description or "")
+
+        payload.append({
+            "uid": e.uid(),
+            "summary": e.title,
+            "description": e.description or "",
+            "url": e.url or "",
+            "location": "",
+            "categories": list(e.categories),
+            "mode": mode,
+            "sponsor": sponsor,
+            "callsign": callsign,
+            "start_utc": _iso_z(e.start),
+            "end_utc": _iso_z(e.end),
+            "source": e.source,
+        })
+
+    os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
 
 
 # ---------------- Dual time + duration helpers ----------------
@@ -661,6 +719,8 @@ def main() -> int:
     cals = split_calendars(all_events)
 
     write_file(os.path.join(OUT_DIR, "all.ics"), build_ics("HAMCAL – All", cals["all"]))
+    export_all_json(cals["all"], os.path.join(OUT_DIR, "all.json"))
+
     write_file(os.path.join(OUT_DIR, "cw.ics"), build_ics("HAMCAL – CW Contests", cals["cw"]))
     write_file(os.path.join(OUT_DIR, "phone.ics"), build_ics("HAMCAL – Phone Contests", cals["phone"]))
     write_file(os.path.join(OUT_DIR, "digital.ics"), build_ics("HAMCAL – Digital Contests", cals["digital"]))
