@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>HamCal Events</title>
+    <link rel="stylesheet" href="./app.css" />
+</head>
+
+<body>
+    <header class="topbar">
+        <div class="brand">
+            <div class="brand-title">HamCal</div>
+            <div class="brand-subtitle">Contests + Hamfests — browse, filter, select, export</div>
+        </div>
+
+        <div class="controls">
+            <div class="control">
+                <label for="viewMode">View</label>
+                <select id="viewMode">
+                    <option value="list">List</option>
+                    <option value="month">Month</option>
+                </select>
+            </div>
+
+            <div class="control">
+                <label for="q">Search</label>
+                <input id="q" type="search" placeholder="Title, sponsor, callsign, etc…" />
+            </div>
+
+            <div class="control">
+                <label for="mode">Mode</label>
+                <select id="mode">
+                    <option value="">All modes</option>
+                    <option value="cw">CW</option>
+                    <option value="phone">Phone</option>
+                    <option value="digital">Digital</option>
+                </select>
+            </div>
+
+            <div class="control">
+                <label for="source">Source</label>
+                <select id="source">
+                    <option value="">All sources</option>
+                    <option value="wa7bnm-gcal">WA7BNM (gcal)</option>
+                    <option value="arrl-contest">ARRL Contest Calendar</option>
+                    <option value="arrl-hamfest">ARRL Hamfests</option>
+                    <option value="field-day">Field Day</option>
+                </select>
+            </div>
+
+            <div class="control">
+                <label for="when">When</label>
+                <select id="when">
+                    <option value="all">All</option>
+                    <option value="upcoming">Upcoming</option>
+                    <option value="past">Past</option>
+                </select>
+            </div>
+
+            <div class="control">
+                <label for="tz">Time</label>
+                <select id="tz">
+                    <option value="local">Local</option>
+                    <option value="utc">UTC</option>
+                </select>
+            </div>
+
+            <div class="control btnrow">
+                <button id="resetFilters" class="btn secondary" type="button">Reset</button>
+            </div>
+        </div>
+    </header>
+
+    <main class="layout">
+        <section class="panel results">
+            <div class="panel-header">
+                <div class="panel-header-left">
+                    <div class="panel-title">Results</div>
+                    <div class="panel-meta">
+                        <span id="resultCount">0</span>
+                        <span class="muted">events</span>
+                    </div>
+                </div>
+
+                <div class="panel-header-right">
+                    <button id="addAllFiltered" class="btn primary" type="button">Add all filtered</button>
+                </div>
+            </div>
+
+            <div id="listView" class="view">
+                <div id="listContainer" class="list"></div>
+            </div>
+
+            <div id="monthView" class="view hidden">
+                <div class="monthbar">
+                    <button id="monthPrev" class="btn secondary" type="button">◀</button>
+                    <div class="monthtitle" id="monthTitle">Month</div>
+                    <button id="monthNext" class="btn secondary" type="button">▶</button>
+                </div>
+                <div id="monthGrid" class="monthgrid"></div>
+            </div>
+
+            <div class="panel-footer">
+                <div class="hint">
+                    Tip: use <span class="kbd">Add</span> to pin events into your Selected list. Selected persists in
+                    your browser.
+                </div>
+            </div>
+        </section>
+
+        <aside class="panel selected">
+            <div class="panel-header">
+                <div class="panel-header-left">
+                    <div class="panel-title">Selected Events</div>
+                    <div class="panel-meta">
+                        <span id="selectedCount">0</span>
+                        <span class="muted">selected</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="selected-controls">
+                <div class="control">
+                    <label for="selectedSearch">Search Selected</label>
+                    <input id="selectedSearch" type="search" placeholder="Search only selected events…" />
+                </div>
+
+                <div class="control">
+                    <label for="exportMode">Export</label>
+                    <select id="exportMode">
+                        <option value="selected_visible">Selected (visible)</option>
+                        <option value="selected_all">Selected (all)</option>
+                        <option value="filtered">Filtered results</option>
+                        <option value="union">Selected + Filtered (union)</option>
+                    </select>
+                </div>
+
+                <div class="selected-actions">
+                    <button id="downloadCustomIcs" class="btn primary" type="button">Make calendar (.ics)</button>
+                    <button id="copyShareLink" class="btn secondary" type="button">Copy share link</button>
+                    <button id="clearSelected" class="btn danger" type="button">Clear selected</button>
+                </div>
+
+                <div class="muted small">
+                    Static mode: your selection stays in your browser. Share links recreate your selection for someone
+                    else.
+                </div>
+            </div>
+
+            <div id="selectedContainer" class="selected-list"></div>
+        </aside>
+    </main>
+
+    <footer class="footer">
+        <div class="muted small">
+            Data source: <code>docs/all.json</code> (generated). Client-side selection + custom .ics.
+        </div>
+    </footer>
+
+    <!-- IMPORTANT: must be present and not commented out -->
+    <script src="./app.js"></script>
+</body>
+
+</html>
