@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from pathlib import Path
-from typing import Any, Dict, List, Tuple, Optional
+from typing import Any, Dict, List, Tuple
 import json
 
 from .types import (
@@ -33,7 +33,12 @@ def write_staging_ndjson(path: Path, staged: List[StagedEventV1]) -> None:
 
 
 def _link_from_dict(d: Dict[str, Any]) -> LinkV1:
-    return LinkV1(rel=d["rel"], url=d["url"], title=d.get("title"))
+    return LinkV1(
+        rel=d["rel"],
+        url=d["url"],
+        title=d.get("title"),
+        authority=d.get("authority"),
+    )
 
 
 def _sponsor_from_dict(d: Dict[str, Any]) -> SponsorV1:
@@ -147,8 +152,6 @@ def read_canonical_ndjson(path: Path) -> List[HamCalEventV1]:
             for pair in (d.get("external_ids") or []):
                 if isinstance(pair, list) and len(pair) == 2:
                     external_ids.append((str(pair[0]), str(pair[1])))
-                elif isinstance(pair, tuple) and len(pair) == 2:
-                    external_ids.append((str(pair[0]), str(pair[1])))
 
             out.append(
                 HamCalEventV1(
@@ -158,6 +161,7 @@ def read_canonical_ndjson(path: Path) -> List[HamCalEventV1]:
                     start_utc=d["start_utc"],
                     end_utc=d["end_utc"],
                     status=d["status"],
+                    primary_link=d.get("primary_link"),
                     timezone_hint=d.get("timezone_hint"),
                     sponsor=sponsor,
                     modes=list(d.get("modes") or []),
@@ -175,5 +179,4 @@ def read_canonical_ndjson(path: Path) -> List[HamCalEventV1]:
                     last_modified_utc=d.get("last_modified_utc", ""),
                 )
             )
-
     return out

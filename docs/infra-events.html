@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>HamCal Infra — Events</title>
+  <link rel="stylesheet" href="infra.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <div class="title">HamCal Infra</div>
+      <div class="sub">Origin-link preference + contest summaries (v1)</div>
+    </div>
+
+    <div class="controls">
+      <input id="q" class="input" placeholder="Search (name, exchange, scoring, notes)..." />
+      <select id="type" class="select">
+        <option value="">All types</option>
+        <option value="contest">Contest</option>
+        <option value="hamfest">Hamfest</option>
+        <option value="club">Club</option>
+        <option value="activation">Activation</option>
+        <option value="field_day">Field Day</option>
+        <option value="other">Other</option>
+      </select>
+      <select id="status" class="select">
+        <option value="">All status</option>
+        <option value="scheduled">Scheduled</option>
+        <option value="tentative">Tentative</option>
+        <option value="cancelled">Cancelled</option>
+      </select>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div id="meta" class="meta"></div>
+    <div id="list" class="list"></div>
+  </main>
+
+  <script src="infra-app.js"></script>
+</body>
+</html>

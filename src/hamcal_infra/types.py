@@ -13,6 +13,7 @@ EventStatus = Literal["scheduled", "tentative", "cancelled"]
 GeoScope = Literal["worldwide", "region", "country", "state", "local", "unknown"]
 
 LinkRel = Literal["rules", "sponsor", "log-upload", "announcement", "results", "info", "other"]
+LinkAuthority = Literal["originator", "authority", "directory", "unknown"]
 
 
 def utc_now_iso() -> str:
@@ -54,6 +55,7 @@ class LinkV1:
     rel: LinkRel
     url: str
     title: Optional[str] = None
+    authority: Optional[LinkAuthority] = None  # computed/assigned by policy
 
 
 @dataclass
@@ -132,6 +134,9 @@ class HamCalEventV1:
     start_utc: str
     end_utc: str
     status: EventStatus
+
+    # Link preference output:
+    primary_link: Optional[str] = None  # computed by link_policy.apply_primary_link()
 
     timezone_hint: Optional[str] = None
     sponsor: Optional[SponsorV1] = None
