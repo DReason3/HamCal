@@ -1,0 +1,57 @@
+# HamCal origin-link enrichment map (v1)
+#
+# Format (tiny YAML subset; keep it like this):
+#
+# rules:
+#   - match: "Some Contest Name"
+#     mode: "contains"         # only "contains" supported in v1
+#     rel: "rules"             # rules|sponsor|announcement|log-upload|results|info|other
+#     url: "https://example.com/rules"
+#     authority: "originator"  # originator|authority|directory|unknown
+#     title: "Optional link label"
+#
+# Notes:
+# - match is case-insensitive
+# - first match wins if "stop: true" is set; otherwise all matching rules apply
+# - keep this map small + high-value; it’s your “upstream override” layer
+
+rules:
+  - match: "ARRL Field Day"
+    mode: "contains"
+    rel: "rules"
+    url: "https://www.arrl.org/field-day"
+    authority: "originator"
+    title: "ARRL Field Day Rules"
+    stop: true
+
+  - match: "CQ WW SSB"
+    mode: "contains"
+    rel: "rules"
+    url: "https://cqww.com/"
+    authority: "originator"
+    title: "CQ WW Official Site"
+    stop: true
+
+  - match: "CQ WW CW"
+    mode: "contains"
+    rel: "rules"
+    url: "https://cqww.com/"
+    authority: "originator"
+    title: "CQ WW Official Site"
+    stop: true
+
+  - match: "IARU HF"
+    mode: "contains"
+    rel: "rules"
+    url: "https://www.iaru.org/"
+    authority: "authority"
+    title: "IARU"
+    stop: false
+
+  - match: "Winter Field Day"
+    mode: "contains"
+    rel: "rules"
+    url: "https://winterfieldday.org/"
+    authority: "originator"
+    title: "Winter Field Day Official"
+    stop: true
