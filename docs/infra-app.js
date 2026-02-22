@@ -6,9 +6,9 @@
   const statusEl = $("status");
   const listEl = $("list");
   const metaEl = $("meta");
+  const resourcesEl = $("resources");
 
   function fmtUtc(isoZ){
-    // isoZ expected "...Z"
     try{
       const d = new Date(isoZ);
       return d.toISOString().replace(".000Z","Z");
@@ -61,13 +61,36 @@
   }
 
   function linkSort(a,b){
-    // Put originator-ish links first visually.
     const order = {originator:0, authority:1, unknown:2, directory:3};
     const aa = order[(a.authority||"unknown").toLowerCase()] ?? 9;
     const bb = order[(b.authority||"unknown").toLowerCase()] ?? 9;
     if(aa!==bb) return aa-bb;
     return relLabel(a.rel).localeCompare(relLabel(b.rel));
   }
+
+  async function loadResources(){
+    if(!resourcesEl) return;
+    try{
+      const r = await fetch("./api/resources.v1.json", {cache:"no-store"});
+      const items = await r.json();
+      resourcesEl.innerHTML = (items||[]).map(it=>{
+        return `
+          <div class="resource">
+            <div class="rtop">
+              <a class="rtitle" href="${it.url}" target="_blank" rel="noopener noreferrer">${safe(it.title)}</a>
+              <span class="rtag">${safe(it.tag)}</span>
+            </div>
+            <div class="rnote">${safe(it.note)}</div>
+            <a class="rgo" href="${it.url}" target="_blank" rel="noopener noreferrer">Open ↗</a>
+          </div>
+        `;
+      }).join("");
+    }catch(e){
+      resourcesEl.innerHTML = `<div class="resource"><div class="rnote">Resources feed not found.</div></div>`;
+    }
+  }
+
+  await loadResources();
 
   const res = await fetch("./api/infra_events.v1.json", {cache:"no-store"});
   const all = await res.json();
@@ -114,7 +137,6 @@
         return `<a class="linkpill" href="${l.url}" target="_blank" rel="noopener noreferrer">${label}</a>`;
       }).join("");
 
-      // Contest Summary block (ND4X-style quick glance)
       return `
         <div class="card">
           <div class="row">

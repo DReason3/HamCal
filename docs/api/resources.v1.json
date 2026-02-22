@@ -1,0 +1,56 @@
+[
+  {
+    "title": "DXpeditions (Club Log)",
+    "url": "https://clublog.org/expeditions.php",
+    "tag": "Upstream portal",
+    "note": "Live expedition list + callsigns + log/QSL context (not contest-specific)."
+  },
+  {
+    "title": "FT8 / WSJT-X",
+    "url": "https://wsjt.sourceforge.io/wsjtx.html",
+    "tag": "Mode software",
+    "note": "WSJT-X is the primary reference implementation for FT8 and related weak-signal digital modes."
+  },
+  {
+    "title": "SSB Phone (Operating basics)",
+    "url": "https://www.arrl.org/operating",
+    "tag": "Operating guide",
+    "note": "ARRL operating reference (good upstream baseline for phone operating practices)."
+  },
+  {
+    "title": "ARRL Field Day",
+    "url": "https://www.arrl.org/field-day",
+    "tag": "Originator",
+    "note": "Field Day home (rules + info)."
+  },
+  {
+    "title": "ARRL Field Day Entry Portal",
+    "url": "https://field-day.arrl.org/",
+    "tag": "Submission",
+    "note": "Submit entries and view related Field Day resources."
+  },
+  {
+    "title": "Worked All States (WAS) Award",
+    "url": "https://www.arrl.org/was",
+    "tag": "Award program",
+    "note": "Official program info + how to apply."
+  },
+  {
+    "title": "CWops",
+    "url": "https://cwops.org/",
+    "tag": "Organization",
+    "note": "CWops home."
+  },
+  {
+    "title": "CWops Tests (CWT) / CW Open",
+    "url": "https://cwops.org/cwops-tests/cwops-test-cw-open/",
+    "tag": "Rules",
+    "note": "Official CWops test and CW Open information."
+  },
+  {
+    "title": "Winter Field Day",
+    "url": "https://winterfieldday.org/",
+    "tag": "Originator",
+    "note": "Official Winter Field Day site."
+  }
+]
