@@ -46,6 +46,12 @@
   const copyShareLinkEl = el("copyShareLink");
   const clearSelectedEl = el("clearSelected");
 
+  // NEW: results limiter + resources
+  const resultsMoreWrapEl = el("resultsMoreWrap");
+  const resultsMoreBtnEl = el("resultsMoreBtn");
+  const resultsMoreMetaEl = el("resultsMoreMeta");
+  const resourcesPillsEl = el("resourcesPills");
+
   // ---------- Storage ----------
   const LS_KEYS = {
     VIEW: "hamcal.viewMode",
@@ -54,16 +60,24 @@
     MONTH_CURSOR: "hamcal.monthCursorISO",
     SELECTED_SEARCH: "hamcal.selected.search",
     EXPORT_MODE: "hamcal.export.mode",
+    RESULTS_EXPANDED: "hamcal.results.expanded",
   };
 
   // ---------- Config ----------
   const MAX_ADD_ALL = 200;
+
+  // NEW: List view result limiter
+  const LIST_RESULTS_LIMIT = 7;
 
   // ---------- Data ----------
   let ALL = [];
   let FILTERED = [];
   let monthCursor = startOfMonth(new Date());
   let selectedUIDs = new Set();
+
+  // NEW state
+  let resultsExpanded = false;
+  let RESOURCES = null; // lazy loaded
 
   // ---------- Helpers ----------
   function safeString(x) {
@@ -240,12 +254,12 @@
       if (typeof f.source === "string") sourceEl.value = f.source;
       if (typeof f.when === "string") whenEl.value = f.when;
       if (typeof f.tz === "string") tzEl.value = f.tz;
-    } catch {}
+    } catch { }
 
     try {
       const arr = JSON.parse(localStorage.getItem(LS_KEYS.SELECTED) || "[]");
       if (Array.isArray(arr)) selectedUIDs = new Set(arr.filter((x) => typeof x === "string" && x.length));
-    } catch {}
+    } catch { }
 
     const mc = localStorage.getItem(LS_KEYS.MONTH_CURSOR);
     const d = mc ? new Date(mc) : null;
@@ -256,6 +270,9 @@
 
     const em = localStorage.getItem(LS_KEYS.EXPORT_MODE);
     if (em && exportModeEl) exportModeEl.value = em;
+
+    const re = localStorage.getItem(LS_KEYS.RESULTS_EXPANDED);
+    resultsExpanded = re === "1";
   }
 
   function saveView() {
@@ -282,6 +299,9 @@
   }
   function saveExportMode() {
     localStorage.setItem(LS_KEYS.EXPORT_MODE, exportModeEl.value || "selected_visible");
+  }
+  function saveResultsExpanded() {
+    localStorage.setItem(LS_KEYS.RESULTS_EXPANDED, resultsExpanded ? "1" : "0");
   }
 
   // ---------- Filtering ----------
@@ -335,6 +355,33 @@
     addAllFilteredEl.textContent = `Add all filtered (${n})`;
   }
 
+  // NEW: More/Less for list results
+  function updateResultsMoreUI() {
+    if (!resultsMoreWrapEl || !resultsMoreBtnEl || !resultsMoreMetaEl) return;
+
+    const view = viewModeEl.value;
+    if (view !== "list") {
+      resultsMoreWrapEl.classList.add("hidden");
+      return;
+    }
+
+    const total = FILTERED.length;
+    if (total <= LIST_RESULTS_LIMIT) {
+      resultsMoreWrapEl.classList.add("hidden");
+      return;
+    }
+
+    resultsMoreWrapEl.classList.remove("hidden");
+    resultsMoreBtnEl.textContent = resultsExpanded ? "Less" : "More";
+
+    if (!resultsExpanded) {
+      const hidden = total - LIST_RESULTS_LIMIT;
+      resultsMoreMetaEl.textContent = `Showing top ${LIST_RESULTS_LIMIT}. ${hidden} more hidden.`;
+    } else {
+      resultsMoreMetaEl.textContent = `Showing all ${total}.`;
+    }
+  }
+
   // ---------- Rendering ----------
   function detailsMarkup(url) {
     if (!url) {
@@ -361,12 +408,16 @@
     }
 
     renderSelected();
+    updateResultsMoreUI();
     saveView();
   }
 
   function renderList() {
     const tzMode = tzEl.value || "local";
-    const items = FILTERED.map((evt) => renderEventCard(evt, tzMode)).join("");
+
+    const data = resultsExpanded ? FILTERED : FILTERED.slice(0, LIST_RESULTS_LIMIT);
+    const items = data.map((evt) => renderEventCard(evt, tzMode)).join("");
+
     listContainerEl.innerHTML = items || `<div class="muted small" style="padding:10px;">No results.</div>`;
 
     listContainerEl.querySelectorAll("[data-add-uid]").forEach((btn) => {
@@ -376,6 +427,8 @@
         toggleSelected(uid);
       });
     });
+
+    updateResultsMoreUI();
   }
 
   function renderEventCard(evt, tzMode) {
@@ -875,6 +928,58 @@
     return `hamcal-${mode}-${stamp}-${h}.ics`;
   }
 
+  // ---------- Resources under Selected ----------
+  async function loadResourcesOnce() {
+    if (RESOURCES !== null) return RESOURCES;
+
+    const candidates = [
+      "./api/resources.v1.json",
+      "./resources.v1.json",
+      "./api/resources.json",
+    ];
+
+    for (const url of candidates) {
+      try {
+        const r = await fetch(url, { cache: "no-store" });
+        if (!r.ok) continue;
+        const data = await r.json();
+        if (Array.isArray(data)) {
+          RESOURCES = data;
+          return RESOURCES;
+        }
+      } catch { }
+    }
+
+    RESOURCES = [];
+    return RESOURCES;
+  }
+
+  function renderResources(items) {
+    if (!resourcesPillsEl) return;
+
+    if (!items || !items.length) {
+      resourcesPillsEl.innerHTML = `<div class="muted small">No resources feed found yet.</div>`;
+      return;
+    }
+
+    resourcesPillsEl.innerHTML = items.map((it) => {
+      const title = escapeHTML(it.title || "Resource");
+      const tag = escapeHTML(it.tag || "");
+      const url = escapeHTML(it.url || "#");
+      return `
+        <a class="resource-pill" href="${url}" target="_blank" rel="noopener noreferrer">
+          <span class="resource-pill-title">${title}</span>
+          ${tag ? `<span class="resource-pill-tag">${tag}</span>` : ``}
+        </a>
+      `;
+    }).join("");
+  }
+
+  async function bootResources() {
+    const items = await loadResourcesOnce();
+    renderResources(items);
+  }
+
   // ---------- Bind UI Events ----------
   function bindEvents() {
     viewModeEl.addEventListener("change", () => render());
@@ -921,6 +1026,15 @@
 
     monthPrevEl.addEventListener("click", () => { monthCursor = addMonths(monthCursor, -1); render(); });
     monthNextEl.addEventListener("click", () => { monthCursor = addMonths(monthCursor, 1); render(); });
+
+    // NEW: More/Less toggle
+    if (resultsMoreBtnEl) {
+      resultsMoreBtnEl.addEventListener("click", () => {
+        resultsExpanded = !resultsExpanded;
+        saveResultsExpanded();
+        renderList(); // list view only
+      });
+    }
   }
 
   // ---------- Load ----------
@@ -969,12 +1083,50 @@
 
       applySelectionFromHashIfPresent();
       render();
+      bootResources();
     } catch (err) {
       console.error(err);
       listContainerEl.innerHTML = `<div class="muted small" style="padding:10px;">Error loading events. See console.</div>`;
       resultCountEl.textContent = "0";
       renderSelected();
+      bootResources();
     }
+  }
+
+  // ---------- Month helpers (unchanged location; required above) ----------
+  function startOfMonth(d) {
+    const x = new Date(d);
+    x.setDate(1);
+    x.setHours(0, 0, 0, 0);
+    return x;
+  }
+
+  function addMonths(d, n) {
+    const x = new Date(d);
+    x.setMonth(x.getMonth() + n);
+    return startOfMonth(x);
+  }
+
+  function parseSelectionFromHash() {
+    const h = (location.hash || "").replace(/^#/, "");
+    if (!h) return null;
+
+    const parts = h.split("&");
+    for (const p of parts) {
+      const [k, v] = p.split("=");
+      if (k === "sel" && v) {
+        try {
+          const json = base64UrlDecodeUTF8(v);
+          const obj = JSON.parse(json);
+          if (obj && Array.isArray(obj.uids)) {
+            return obj.uids.filter((x) => typeof x === "string" && x.length);
+          }
+        } catch {
+          return null;
+        }
+      }
+    }
+    return null;
   }
 
   main();

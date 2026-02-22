@@ -91,6 +91,12 @@
 
             <div id="listView" class="view">
                 <div id="listContainer" class="list"></div>
+
+                <!-- NEW: More/Less for list results -->
+                <div id="resultsMoreWrap" class="results-more hidden">
+                    <button id="resultsMoreBtn" class="btn secondary" type="button">More</button>
+                    <div class="muted small" id="resultsMoreMeta"></div>
+                </div>
             </div>
 
             <div id="monthView" class="view hidden">
@@ -150,6 +156,17 @@
             </div>
 
             <div id="selectedContainer" class="selected-list"></div>
+
+            <!-- NEW: Resources under Selected (compact pills) -->
+            <div class="resources-under-selected">
+                <div class="resources-head">
+                    <div class="resources-title">Resources</div>
+                    <div class="resources-sub">Upstream-first links. Quick jump.</div>
+                </div>
+                <div id="resourcesPills" class="resources-pills">
+                    <div class="muted small">Loading…</div>
+                </div>
+            </div>
         </aside>
     </main>
 
