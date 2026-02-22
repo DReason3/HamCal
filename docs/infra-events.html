@@ -3,14 +3,14 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>HamCal Infra — Events</title>
+  <title>HamCal v3.1 — Events</title>
   <link rel="stylesheet" href="infra.css" />
 </head>
 <body>
   <header class="top">
     <div class="brand">
-      <div class="title">HamCal Infra</div>
-      <div class="sub">Origin-link preference + contest summaries (v1)</div>
+      <div class="title">HamCal v3.1</div>
+      <div class="sub">Branch 3 · Canonical + Authority + Deadline Provenance</div>
     </div>
 
     <div class="controls">
@@ -48,6 +48,7 @@
     <div id="list" class="list"></div>
   </main>
 
-  <script src="infra-app.js"></script>
+  <!-- cache-bust during dev -->
+  <script src="infra-app.js?v=3.1.0"></script>
 </body>
 </html>
