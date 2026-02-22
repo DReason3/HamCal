@@ -15,6 +15,8 @@ GeoScope = Literal["worldwide", "region", "country", "state", "local", "unknown"
 LinkRel = Literal["rules", "sponsor", "log-upload", "announcement", "results", "info", "other"]
 LinkAuthority = Literal["originator", "authority", "directory", "unknown"]
 
+DeadlineSource = Literal["manual", "pattern", "upstream"]
+
 
 def utc_now_iso() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
@@ -31,23 +33,11 @@ def norm_space(s: str) -> str:
 
 
 def norm_name_key(name: str) -> str:
-    """
-    Name normalization for matching.
-    Keep it conservative; don't destroy meaning.
-    """
     s = norm_space(name).lower()
     s = re.sub(r"[^\w\s\-]+", "", s)  # drop punctuation except hyphen
     s = re.sub(r"\b(the|a|an)\b", "", s)
     s = norm_space(s)
     return s
-
-
-def clamp01(x: float) -> float:
-    if x < 0.0:
-        return 0.0
-    if x > 1.0:
-        return 1.0
-    return x
 
 
 @dataclass
@@ -117,9 +107,6 @@ class StagedEventV1:
         return norm_name_key(self.name)
 
     def primary_fingerprint(self) -> str:
-        """
-        v1 fingerprint: name_key + start date (YYYY-MM-DD) + duration bucket.
-        """
         start_date = self.start_utc[:10]
         dur_bucket = duration_bucket_minutes(self.start_utc, self.end_utc)
         base = f"{self.name_key()}|{start_date}|{dur_bucket}"
@@ -137,6 +124,11 @@ class HamCalEventV1:
 
     # Link preference output:
     primary_link: Optional[str] = None  # computed by link_policy.apply_primary_link()
+
+    # Display-only deadline support:
+    log_deadline_utc: Optional[str] = None  # ISO8601Z
+    log_deadline_source: Optional[DeadlineSource] = None  # manual|pattern|upstream
+    log_deadline_asof_utc: Optional[str] = None  # ISO8601Z when it was set
 
     timezone_hint: Optional[str] = None
     sponsor: Optional[SponsorV1] = None
@@ -158,14 +150,6 @@ class HamCalEventV1:
 
 
 def duration_bucket_minutes(start_utc: str, end_utc: str) -> str:
-    """
-    Buckets help matching even if slight time shifts occur:
-    - short: <= 3h
-    - halfday: <= 8h
-    - day: <= 28h
-    - weekend: <= 60h
-    - long: > 60h
-    """
     def parse(s: str) -> datetime:
         if s.endswith("Z"):
             s = s[:-1] + "+00:00"
@@ -186,7 +170,4 @@ def duration_bucket_minutes(start_utc: str, end_utc: str) -> str:
 
 
 def dataclass_to_json(obj: Any) -> str:
-    """
-    Stable JSON for NDJSON writing.
-    """
     return json.dumps(asdict(obj), ensure_ascii=False, sort_keys=True)

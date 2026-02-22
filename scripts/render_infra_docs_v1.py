@@ -13,7 +13,6 @@ def main() -> None:
     if not events:
         raise SystemExit("No canonical events found. Run build_registry_v1.py first.")
 
-    # Build a lightweight JSON view for the UI (safe for static hosting)
     out: List[Dict[str, Any]] = []
     for e in events:
         out.append({
@@ -24,6 +23,9 @@ def main() -> None:
             "end_utc": e.end_utc,
             "status": e.status,
             "primary_link": e.primary_link,
+            "log_deadline_utc": e.log_deadline_utc,
+            "log_deadline_source": e.log_deadline_source,
+            "log_deadline_asof_utc": e.log_deadline_asof_utc,
             "modes": e.modes,
             "bands": e.bands,
             "exchange": e.exchange,
@@ -39,7 +41,6 @@ def main() -> None:
     out_path = Path("docs/api/infra_events.v1.json")
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(out, ensure_ascii=False), encoding="utf-8")
-
     print(f"Wrote: {out_path} ({len(out)} events)")
 
 if __name__ == "__main__":

@@ -9,6 +9,7 @@
   const resourcesEl = $("resources");
 
   function fmtUtc(isoZ){
+    if(!isoZ) return "—";
     try{
       const d = new Date(isoZ);
       return d.toISOString().replace(".000Z","Z");
@@ -68,6 +69,13 @@
     return relLabel(a.rel).localeCompare(relLabel(b.rel));
   }
 
+  function deadlinePill(source, asof){
+    if(!source) return "";
+    const s = String(source).toLowerCase();
+    const a = asof ? ` as-of ${fmtUtc(asof)}` : "";
+    return `<span class="badge">deadline: <code>${s}</code>${a}</span>`;
+  }
+
   async function loadResources(){
     if(!resourcesEl) return;
     try{
@@ -107,6 +115,7 @@
       if(q){
         const hay = [
           ev.name, ev.exchange, ev.scoring, ev.notes,
+          ev.log_deadline_utc, ev.log_deadline_source, ev.log_deadline_asof_utc,
           (ev.modes||[]).join(" "),
           (ev.bands||[]).join(" "),
         ].join(" ").toLowerCase();
@@ -150,6 +159,7 @@
             </div>
             <div class="badges">
               ${ev.primary_link ? `<span class="badge">primary link: <code>origin-preferred</code></span>` : `<span class="badge">primary link: <code>none</code></span>`}
+              ${deadlinePill(ev.log_deadline_source, ev.log_deadline_asof_utc)}
             </div>
           </div>
 
@@ -171,8 +181,8 @@
               <div class="value">${safe(ev.scoring)}</div>
             </div>
             <div>
-              <div class="label">Geo scope</div>
-              <div class="value">${safe(ev.geo_scope)}</div>
+              <div class="label">Log deadline (UTC)</div>
+              <div class="value">${fmtUtc(ev.log_deadline_utc)}</div>
             </div>
             <div>
               <div class="label">Notes</div>
