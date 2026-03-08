@@ -40,8 +40,7 @@ UA = "HAMCAL/0.1 (+https://github.com/dreason3/hamcal) python-requests"
 
 # ---- Time window ----
 NOW_UTC = datetime.now(timezone.utc)
-HORIZON_END_UTC = NOW_UTC + timedelta(days=62)  # ~2 months
-
+HORIZON_END_UTC = NOW_UTC + timedelta(days=548)  # ~18 months
 # ---- Timezones ----
 CHI_TZ = ZoneInfo("America/Chicago")
 
