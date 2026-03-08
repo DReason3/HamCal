@@ -3,7 +3,7 @@
 HAMCAL - build pre-filtered iCal (.ics) calendars for ham contests + hamfests + Field Day.
 
 MVP:
-- Rolling ~2-month lookahead
+- Rolling ~18 month lookahead
 - 3 sources:
   1) WA7BNM via public Google Calendar ICS
   2) ARRL Contest Calendar (best-effort parse + Field Day rule)
