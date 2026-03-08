@@ -34,7 +34,7 @@ jobs:
 
       - name: Build HamCal
         run: |
-          python .github/workflows/rebuild-hamcal.yaml
+          python src/hamcal.py
 
       - name: Commit regenerated files if changed
         run: |
