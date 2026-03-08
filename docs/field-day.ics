@@ -6,10 +6,30 @@ X-WR-CALNAME:HAMCAL – Field Day
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:4cf551ab6bcb66499b0083808876406a@hamcal
-DTSTAMP:20260308T120108Z
+DTSTAMP:20260308T154049Z
 DTSTART:20260314T080000Z
 DTEND:20260315T100000Z
 SUMMARY:SARL Field Day Contest
 DESCRIPTION:<a href="http://www.contestcalendar.com/contestdetails.php?ref=186">Info</a>
 CATEGORIES:contest\,field-day
+END:VEVENT
+BEGIN:VEVENT
+UID:a1389ba771de9b5ebae51719151eb443@hamcal
+DTSTAMP:20260308T154049Z
+DTSTART:20260627T000000Z
+DTEND:20260629T000000Z
+SUMMARY:ARRL Field Day
+URL:https://www.arrl.org/field-day
+DESCRIPTION:Computed as the 4th full weekend of June (Sat-Sun).\n\nRules & details:\nhttps://www.arrl.org/field-day
+CATEGORIES:field-day
+END:VEVENT
+BEGIN:VEVENT
+UID:9be97184a95ed0f1efd9e8a71b74caba@hamcal
+DTSTAMP:20260308T154049Z
+DTSTART:20270626T000000Z
+DTEND:20270628T000000Z
+SUMMARY:ARRL Field Day
+URL:https://www.arrl.org/field-day
+DESCRIPTION:Computed as the 4th full weekend of June (Sat-Sun).\n\nRules & details:\nhttps://www.arrl.org/field-day
+CATEGORIES:field-day
 END:VEVENT
