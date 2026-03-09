@@ -3,7 +3,6 @@ name: Rebuild HamCal
 on:
   workflow_dispatch:
   schedule:
-    # 03:17 UTC every night
     - cron: "17 3 * * *"
 
 permissions:
@@ -20,6 +19,8 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -31,6 +32,7 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           if [ -f requirements-dev.txt ]; then pip install -r requirements-dev.txt; fi
+          pip install requests python-dateutil
 
       - name: Build HamCal
         run: |
@@ -49,4 +51,5 @@ jobs:
           fi
 
           git commit -m "Nightly HamCal rebuild"
-          git push
+          git pull --rebase origin main
+          git push origin main
