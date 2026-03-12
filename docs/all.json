@@ -1,8 +1,8 @@
 [
   {
-    "uid": "a3916cb090f07e1642a8dd3300db6fb3@hamcal",
-    "summary": "Novice Rig Roundup",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=605\">Info</a>",
+    "uid": "cb8c82210ffb00afc155036f1c953b87@hamcal",
+    "summary": "QCX Challenge",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=644\">Info</a>",
     "url": "",
     "location": "",
     "categories": [
@@ -11,14 +11,14 @@
     "mode": "",
     "sponsor": "WA7BNM",
     "callsign": "",
-    "start_utc": "2026-03-07T00:00:00Z",
-    "end_utc": "2026-03-15T23:59:00Z",
+    "start_utc": "2026-03-30T13:00:00Z",
+    "end_utc": "2026-03-30T14:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "36f7e4e8ab90f561edca4e1865a3929c@hamcal",
-    "summary": "Idaho QSO Party",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=305\">Info</a>",
+    "uid": "35b4d6e22d56f87397b910e1149c59a0@hamcal",
+    "summary": "Stew Perry Topband Challenge",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=207\">Info</a>",
     "url": "",
     "location": "",
     "categories": [
@@ -27,14 +27,14 @@
     "mode": "",
     "sponsor": "WA7BNM",
     "callsign": "",
-    "start_utc": "2026-03-15T14:00:00Z",
-    "end_utc": "2026-03-16T02:00:00Z",
+    "start_utc": "2026-03-14T15:00:00Z",
+    "end_utc": "2026-03-15T15:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "b2a37e39aa1b5e50caa0eef4401c6572@hamcal",
-    "summary": "Virginia QSO Party",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=302\">Info</a>",
+    "uid": "3146b5dafd3958fae2b8ca82cdbdca06@hamcal",
+    "summary": "NCCC Sprint",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=44\">Info</a>",
     "url": "",
     "location": "",
     "categories": [
@@ -43,44 +43,12 @@
     "mode": "",
     "sponsor": "WA7BNM",
     "callsign": "",
-    "start_utc": "2026-03-21T14:00:00Z",
-    "end_utc": "2026-03-22T04:00:00Z",
+    "start_utc": "2026-03-13T02:30:00Z",
+    "end_utc": "2026-03-13T03:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "6eef0a5f907627940e9433bffa812d29@hamcal",
-    "summary": "A1Club AWT",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=715\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-11T11:45:00Z",
-    "end_utc": "2026-03-11T13:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "9c69bbaec45cea18450530aa23b1cd8d@hamcal",
-    "summary": "SKCC Sprint",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=425\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-25T00:00:00Z",
-    "end_utc": "2026-03-25T02:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "7ef845d58d6c889cd2843f21834152fe@hamcal",
+    "uid": "69d0908359f9c835769fed16b1dc7505@hamcal",
     "summary": "CWops Test (CWT)",
     "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
     "url": "",
@@ -92,125 +60,8 @@
     "mode": "CW",
     "sponsor": "WA7BNM",
     "callsign": "",
-    "start_utc": "2026-03-11T19:00:00Z",
-    "end_utc": "2026-03-11T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "ea602540bbcd3281674bb8fa49f5a73e@hamcal",
-    "summary": "QRP Fox Hunt",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=518\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-27T01:00:00Z",
-    "end_utc": "2026-03-27T02:30:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "feb1437112af31972ca82aa9ccca882f@hamcal",
-    "summary": "Phone Weekly Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=593\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-18T02:30:00Z",
-    "end_utc": "2026-03-18T03:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "058c887d2511e1511fa89c6b6baa5239@hamcal",
-    "summary": "DIG QSO Party, SSB",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=690\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-15T07:00:00Z",
-    "end_utc": "2026-03-15T11:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "346009a98c40ab20ffe61d2b2d343ed2@hamcal",
-    "summary": "Bucharest Digital Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=427\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-16T18:00:00Z",
-    "end_utc": "2026-03-16T20:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "ff87426409b077a564b7415697080440@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=720\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-30T19:00:00Z",
-    "end_utc": "2026-03-30T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "7363861601b85cf07dc23de976319dec@hamcal",
-    "summary": "VHF-UHF FT8 Activity Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=674\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-11T17:00:00Z",
-    "end_utc": "2026-03-11T21:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "9080818a196ab928a1efdcab917a51cf@hamcal",
-    "summary": "Worldwide Sideband Activity Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=672\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-31T01:00:00Z",
-    "end_utc": "2026-03-31T01:59:00Z",
+    "start_utc": "2026-03-26T03:00:00Z",
+    "end_utc": "2026-03-26T04:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -231,9 +82,9 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "cabc4899b87dd3654d0b2fd8611a9341@hamcal",
-    "summary": "QRP Fox Hunt",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=518\">Info</a>",
+    "uid": "78bf5643e4120b7b2b705ab343dac024@hamcal",
+    "summary": "K1USN Slow Speed Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=681\">Info</a>",
     "url": "",
     "location": "",
     "categories": [
@@ -241,9 +92,9 @@
     ],
     "mode": "",
     "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-20T01:00:00Z",
-    "end_utc": "2026-03-20T02:30:00Z",
+    "callsign": "K1USN",
+    "start_utc": "2026-03-27T20:00:00Z",
+    "end_utc": "2026-03-27T21:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -264,6 +115,832 @@
     "source": "wa7bnm-gcal"
   },
   {
+    "uid": "c2225902054c6b8505916f289d828a73@hamcal",
+    "summary": "A1Club AWT",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=715\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-25T11:45:00Z",
+    "end_utc": "2026-03-25T13:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "346009a98c40ab20ffe61d2b2d343ed2@hamcal",
+    "summary": "Bucharest Digital Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=427\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-16T18:00:00Z",
+    "end_utc": "2026-03-16T20:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "1909442250db2e22431bb5de1f527394@hamcal",
+    "summary": "Mini-Test 80",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=712\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-25T18:00:00Z",
+    "end_utc": "2026-03-25T18:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "c4a6869ae5271e0cf0b750f30f5dc909@hamcal",
+    "summary": "Walk for the Bacon QRP Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=699\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-20T02:00:00Z",
+    "end_utc": "2026-03-20T03:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "94221ae6fe5756d6dfdd2d03acd03c4a@hamcal",
+    "summary": "CWops Test (CWT)",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-19T07:00:00Z",
+    "end_utc": "2026-03-19T08:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "9c69bbaec45cea18450530aa23b1cd8d@hamcal",
+    "summary": "SKCC Sprint",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=425\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-25T00:00:00Z",
+    "end_utc": "2026-03-25T02:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "b2a37e39aa1b5e50caa0eef4401c6572@hamcal",
+    "summary": "Virginia QSO Party",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=302\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-21T14:00:00Z",
+    "end_utc": "2026-03-22T04:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "0e9bb263ccd93f3783174f8157d1f5d3@hamcal",
+    "summary": "NTC QSO Party",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=713\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-19T19:00:00Z",
+    "end_utc": "2026-03-19T20:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "04db4f7656083a93e03ffb6c284ed209@hamcal",
+    "summary": "CWops Test (CWT)",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-18T19:00:00Z",
+    "end_utc": "2026-03-18T20:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "cb80ae0e5a6c204aaffb350f6c6304ba@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=720\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-24T03:00:00Z",
+    "end_utc": "2026-03-24T04:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "7631a3cb7575c945b60c1bc711cd7c3e@hamcal",
+    "summary": "SKCC Weekend Sprintathon",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=428\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-14T12:00:00Z",
+    "end_utc": "2026-03-15T23:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "25021c86f009726f48aa74344b6d9e15@hamcal",
+    "summary": "F9AA Cup, SSB",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=489\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "phone"
+    ],
+    "mode": "PHONE",
+    "sponsor": "WA7BNM",
+    "callsign": "F9AA",
+    "start_utc": "2026-03-14T12:00:00Z",
+    "end_utc": "2026-03-15T12:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "25a860b9e879128a8cf4cfdc2e8c9ff6@hamcal",
+    "summary": "Worldwide Sideband Activity Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=672\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-17T01:00:00Z",
+    "end_utc": "2026-03-17T01:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "9e3d02666d4a0726e589cece665912f9@hamcal",
+    "summary": "Run for the Bacon QRP Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=385\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-15T23:00:00Z",
+    "end_utc": "2026-03-16T01:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "bc044c66f1b33d74fa7cd9814b1ab85d@hamcal",
+    "summary": "TESLA Memorial HF CW Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=566\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-14T18:00:00Z",
+    "end_utc": "2026-03-15T05:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "d502dc1afacbe9135d4a4251255c13fb@hamcal",
+    "summary": "Bill Windle QSO Party",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=479\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-28T00:00:00Z",
+    "end_utc": "2026-03-28T23:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "27ceeaeb63edcfb7c58fa9f84f5fe523@hamcal",
+    "summary": "NCCC Sprint",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=44\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-20T02:30:00Z",
+    "end_utc": "2026-03-20T03:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "fce9d348086416d36a55acad9d1728d5@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=720\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-23T19:00:00Z",
+    "end_utc": "2026-03-23T20:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "c6fc454263adb0fd1cd190bcd8fb8395@hamcal",
+    "summary": "YB DX RTTY Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=642\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-14T00:00:00Z",
+    "end_utc": "2026-03-14T23:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "7c328c8dce0e2ac682d26cb0445b151d@hamcal",
+    "summary": "RSGB FT4 Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=653\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-16T20:00:00Z",
+    "end_utc": "2026-03-16T22:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "0bd68727621028300555a2674156e76b@hamcal",
+    "summary": "Weekly RTTY Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=753\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-20T01:45:00Z",
+    "end_utc": "2026-03-20T02:15:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "78267338b979564f62f487bce97ab54b@hamcal",
+    "summary": "Wisconsin QSO Party",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=330\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-15T18:00:00Z",
+    "end_utc": "2026-03-16T01:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "7e9a57f541cb33ed515d5c9469f1b31e@hamcal",
+    "summary": "EA PSK63 Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=403\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-14T12:00:00Z",
+    "end_utc": "2026-03-15T12:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "43f8ce207ac6f981125394ac024c8163@hamcal",
+    "summary": "Weekly RTTY Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=753\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-13T01:45:00Z",
+    "end_utc": "2026-03-13T02:15:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "d06ecbdd7a1423b95914ff67e56c43b2@hamcal",
+    "summary": "CWops Test (CWT)",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-25T13:00:00Z",
+    "end_utc": "2026-03-25T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "6f1e87e102955723254890a3e79ad01e@hamcal",
+    "summary": "K1USN Slow Speed Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=681\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "K1USN",
+    "start_utc": "2026-03-23T00:00:00Z",
+    "end_utc": "2026-03-23T01:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "7acc171fc97abadd82c1d86ebebc576b@hamcal",
+    "summary": "CWops Test (CWT)",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-18T13:00:00Z",
+    "end_utc": "2026-03-18T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "08acadcc2610ba97d0a785806d285cf6@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=720\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-23T13:00:00Z",
+    "end_utc": "2026-03-23T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "958be9404af2b4d5e8b3734fcb978ee9@hamcal",
+    "summary": "Mini-Test 40",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=711\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-25T17:00:00Z",
+    "end_utc": "2026-03-25T17:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "1c79c2864f36dbfc29f55e024a42e5eb@hamcal",
+    "summary": "K1USN Slow Speed Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=681\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "K1USN",
+    "start_utc": "2026-03-16T00:00:00Z",
+    "end_utc": "2026-03-16T01:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "9dc0eef77640913731412333a399ba2b@hamcal",
+    "summary": "Feld Hell Sprint",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=436\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-21T20:00:00Z",
+    "end_utc": "2026-03-21T21:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "1b22c4188232319a53ef7496f0685ac4@hamcal",
+    "summary": "NCCC Sprint",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=44\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-27T02:30:00Z",
+    "end_utc": "2026-03-27T03:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "ffc581097a5a2ed55041dc01edb95bbf@hamcal",
+    "summary": "OK1WC Memorial (MWC)",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=683\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "OK1WC",
+    "start_utc": "2026-03-16T16:30:00Z",
+    "end_utc": "2026-03-16T17:29:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "a72fb1a60f33a088300a39f0e38d3bac@hamcal",
+    "summary": "CWops Test (CWT)",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-12T07:00:00Z",
+    "end_utc": "2026-03-12T08:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "141b2278db5a761e200c7dffdaae6563@hamcal",
+    "summary": "AGCW VHF/UHF Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=214\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-21T14:00:00Z",
+    "end_utc": "2026-03-21T18:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "0846452f3a350ca474e9ecab9fe75452@hamcal",
+    "summary": "PODXS 070 Club St Patrick's Day Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=739\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-21T00:00:00Z",
+    "end_utc": "2026-03-21T23:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "9a81f060759420d130790f96e0fb07d2@hamcal",
+    "summary": "Oklahoma QSO Party",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=293\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-15T15:00:00Z",
+    "end_utc": "2026-03-15T22:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "ee8605700f3290447e0d38de9b53ce36@hamcal",
+    "summary": "DIG QSO Party, SSB",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=690\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "phone"
+    ],
+    "mode": "PHONE",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-14T12:00:00Z",
+    "end_utc": "2026-03-14T17:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "ff87426409b077a564b7415697080440@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=720\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-30T19:00:00Z",
+    "end_utc": "2026-03-30T20:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "003a002589420184c89270a03da4b6ee@hamcal",
+    "summary": "QRP Fox Hunt",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=518\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-25T01:00:00Z",
+    "end_utc": "2026-03-25T02:30:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "048e21c880e46d92223c26db1cd68035@hamcal",
+    "summary": "VHF-UHF FT8 Activity Contest-NA",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=784\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-19T00:00:00Z",
+    "end_utc": "2026-03-19T05:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "217a4f962a8394804194c97fd3f68b2b@hamcal",
+    "summary": "Oklahoma QSO Party",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=293\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-14T15:00:00Z",
+    "end_utc": "2026-03-15T02:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "c994bf132d2d7f1bbe58abb2d3fab392@hamcal",
+    "summary": "CWops Test (CWT)",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-26T07:00:00Z",
+    "end_utc": "2026-03-26T08:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "34cd6f3ee87d01fbebe2f9f79c2c866c@hamcal",
+    "summary": "Walk for the Bacon QRP Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=699\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-19T00:00:00Z",
+    "end_utc": "2026-03-19T01:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "956e0887e16de6b25357581abac01ee3@hamcal",
+    "summary": "North American Sprint, RTTY",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=155\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "phone",
+      "digital"
+    ],
+    "mode": "PHONE",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-15T00:00:00Z",
+    "end_utc": "2026-03-15T03:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "a3916cb090f07e1642a8dd3300db6fb3@hamcal",
+    "summary": "Novice Rig Roundup",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=605\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-07T00:00:00Z",
+    "end_utc": "2026-03-15T23:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "dfcbdf3ad07f74d23afd770efa40f75b@hamcal",
+    "summary": "CQ WW WPX Contest, SSB",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=291\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "phone"
+    ],
+    "mode": "PHONE",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-28T00:00:00Z",
+    "end_utc": "2026-03-29T23:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "1f7418502016577602c6943fbdc7edef@hamcal",
+    "summary": "NCCC FT4 Sprint",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=741\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-20T01:00:00Z",
+    "end_utc": "2026-03-20T01:30:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "969f7809d2e0a7260000fcc6782c5d2d@hamcal",
+    "summary": "Phone Weekly Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=593\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "phone"
+    ],
+    "mode": "PHONE",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-25T02:30:00Z",
+    "end_utc": "2026-03-25T03:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "52874f407fd8b67bf9a40ba8a5c34479@hamcal",
+    "summary": "K1USN Slow Speed Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=681\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "K1USN",
+    "start_utc": "2026-03-30T00:00:00Z",
+    "end_utc": "2026-03-30T01:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
     "uid": "25d9aa300d8bf25f6ba918df94d4e397@hamcal",
     "summary": "Sasquatch Stomp",
     "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=733\">Info</a>",
@@ -277,6 +954,171 @@
     "callsign": "",
     "start_utc": "2026-03-27T19:00:00Z",
     "end_utc": "2026-03-28T03:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "76fb76f9d5192d0dfa28df50853e899b@hamcal",
+    "summary": "IRTS 80m Counties Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=756\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-18T20:00:00Z",
+    "end_utc": "2026-03-18T21:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "4cf551ab6bcb66499b0083808876406a@hamcal",
+    "summary": "SARL Field Day Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=186\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "field-day"
+    ],
+    "mode": "FIELD-DAY",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-14T08:00:00Z",
+    "end_utc": "2026-03-15T10:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "4f5e36a677a4f6e1fbdeade446f30d65@hamcal",
+    "summary": "VHF-UHF FT8 Activity Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=674\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-18T17:00:00Z",
+    "end_utc": "2026-03-18T21:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "d4b880a403bb3244c271341810d8538b@hamcal",
+    "summary": "NCCC FT4 Sprint",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=741\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-13T01:00:00Z",
+    "end_utc": "2026-03-13T01:30:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "65339a63e1a307939d2684554cb9208b@hamcal",
+    "summary": "South America 10 Meter Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=598\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "phone"
+    ],
+    "mode": "PHONE",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-14T12:00:00Z",
+    "end_utc": "2026-03-15T12:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "5e97795de89c67922f31e3f7b08937d8@hamcal",
+    "summary": "NAQCC CW Sprint",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=358\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-19T00:30:00Z",
+    "end_utc": "2026-03-19T02:30:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "a48ddc8dd348294e16a08594006e2e46@hamcal",
+    "summary": "QCX Challenge",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=644\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-31T03:00:00Z",
+    "end_utc": "2026-03-31T04:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "5f634602b576c2fa577f8d5928f47f7a@hamcal",
+    "summary": "QRP Fox Hunt",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=518\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-18T01:00:00Z",
+    "end_utc": "2026-03-18T02:30:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "06f5a9499e14b1e10ddc1156d9b6dfbe@hamcal",
+    "summary": "YOTA Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=696\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-15T10:00:00Z",
+    "end_utc": "2026-03-15T21:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "bebea955e2061c7487e0d83937caf429@hamcal",
+    "summary": "UBA Spring Contest, 6m",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=298\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-15T07:00:00Z",
+    "end_utc": "2026-03-15T11:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -296,6 +1138,172 @@
     "source": "wa7bnm-gcal"
   },
   {
+    "uid": "dfcfaee9b89d6643c716e40ff0fa8fac@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=720\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-16T19:00:00Z",
+    "end_utc": "2026-03-16T20:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "84167aa9973062a9436e14ef82df1535@hamcal",
+    "summary": "CWops Test (CWT)",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-25T19:00:00Z",
+    "end_utc": "2026-03-25T20:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "5c2dcb9df4fcc2ddf0b0b43909316fec@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=720\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-16T13:00:00Z",
+    "end_utc": "2026-03-16T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "4d9c3c69cbea9a1d624e1c3e3564875d@hamcal",
+    "summary": "BARTG HF RTTY Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=309\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-21T02:00:00Z",
+    "end_utc": "2026-03-23T01:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "c3d4b828291cb713c19a917b3cf53ca1@hamcal",
+    "summary": "Idaho QSO Party",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=305\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-14T16:00:00Z",
+    "end_utc": "2026-03-15T04:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "3721c9cb37f5582bde37451b1de1a849@hamcal",
+    "summary": "Russian DX Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=310\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-21T12:00:00Z",
+    "end_utc": "2026-03-22T12:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "058c887d2511e1511fa89c6b6baa5239@hamcal",
+    "summary": "DIG QSO Party, SSB",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=690\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "phone"
+    ],
+    "mode": "PHONE",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-15T07:00:00Z",
+    "end_utc": "2026-03-15T11:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "e675f1f774eeaba4fbe031aba4e8966d@hamcal",
+    "summary": "UKEICC 80m Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=583\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-25T20:00:00Z",
+    "end_utc": "2026-03-25T21:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "6a052d7ef1411b84906378e1c918c6c6@hamcal",
+    "summary": "CWops Test (CWT)",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-19T03:00:00Z",
+    "end_utc": "2026-03-19T04:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "03479b09a274c3fcc630d0f75630ec48@hamcal",
+    "summary": "K1USN Slow Speed Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=681\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "K1USN",
+    "start_utc": "2026-03-13T20:00:00Z",
+    "end_utc": "2026-03-13T21:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
     "uid": "ede5519431174a4a2f71204fc0cfc08e@hamcal",
     "summary": "Popov Memorial Contest",
     "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=775\">Info</a>",
@@ -309,6 +1317,138 @@
     "callsign": "",
     "start_utc": "2026-03-21T05:00:00Z",
     "end_utc": "2026-03-21T08:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "dadfa62a6a9cd695832223c34656a02e@hamcal",
+    "summary": "NCCC FT4 Sprint",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=741\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-27T01:00:00Z",
+    "end_utc": "2026-03-27T01:30:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "d733e98fbb315a8410641fbb21c80292@hamcal",
+    "summary": "OK1WC Memorial (MWC)",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=683\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "OK1WC",
+    "start_utc": "2026-03-23T16:30:00Z",
+    "end_utc": "2026-03-23T17:29:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "732d46e97db24b4ca843a701860d990c@hamcal",
+    "summary": "Worldwide Sideband Activity Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=672\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-24T01:00:00Z",
+    "end_utc": "2026-03-24T01:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "cabc4899b87dd3654d0b2fd8611a9341@hamcal",
+    "summary": "QRP Fox Hunt",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=518\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-20T01:00:00Z",
+    "end_utc": "2026-03-20T02:30:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "ba2e30953de3f60b8fd141840f7d86a8@hamcal",
+    "summary": "Weekly RTTY Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=753\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-27T01:45:00Z",
+    "end_utc": "2026-03-27T02:15:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "0285c4a81a9ca18c80db9e071e1e4d86@hamcal",
+    "summary": "Commonwealth (BERU) Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=282\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-14T10:00:00Z",
+    "end_utc": "2026-03-15T10:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "b384ecf12719ef6b93d977f8564366e0@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=720\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-17T03:00:00Z",
+    "end_utc": "2026-03-17T04:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "feb1437112af31972ca82aa9ccca882f@hamcal",
+    "summary": "Phone Weekly Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=593\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest",
+      "phone"
+    ],
+    "mode": "PHONE",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-18T02:30:00Z",
+    "end_utc": "2026-03-18T03:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -345,239 +1485,6 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "1a659bce2738563b1f12ad35ae631450@hamcal",
-    "summary": "QCX Challenge",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=644\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-30T19:00:00Z",
-    "end_utc": "2026-03-30T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "4cf551ab6bcb66499b0083808876406a@hamcal",
-    "summary": "SARL Field Day Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=186\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "field-day"
-    ],
-    "mode": "FIELD-DAY",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-14T08:00:00Z",
-    "end_utc": "2026-03-15T10:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "1f7418502016577602c6943fbdc7edef@hamcal",
-    "summary": "NCCC FT4 Sprint",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=741\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-20T01:00:00Z",
-    "end_utc": "2026-03-20T01:30:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "6a052d7ef1411b84906378e1c918c6c6@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-19T03:00:00Z",
-    "end_utc": "2026-03-19T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "76fb76f9d5192d0dfa28df50853e899b@hamcal",
-    "summary": "IRTS 80m Counties Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=756\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-18T20:00:00Z",
-    "end_utc": "2026-03-18T21:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "348996b1b2118e74c172fb009ee2b4f4@hamcal",
-    "summary": "K1USN Slow Speed Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=681\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "K1USN",
-    "start_utc": "2026-03-20T20:00:00Z",
-    "end_utc": "2026-03-20T21:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "08acadcc2610ba97d0a785806d285cf6@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=720\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-23T13:00:00Z",
-    "end_utc": "2026-03-23T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "84167aa9973062a9436e14ef82df1535@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-25T19:00:00Z",
-    "end_utc": "2026-03-25T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "04db4f7656083a93e03ffb6c284ed209@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-18T19:00:00Z",
-    "end_utc": "2026-03-18T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "ffc581097a5a2ed55041dc01edb95bbf@hamcal",
-    "summary": "OK1WC Memorial (MWC)",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=683\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "OK1WC",
-    "start_utc": "2026-03-16T16:30:00Z",
-    "end_utc": "2026-03-16T17:29:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "d06ecbdd7a1423b95914ff67e56c43b2@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-25T13:00:00Z",
-    "end_utc": "2026-03-25T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "bc044c66f1b33d74fa7cd9814b1ab85d@hamcal",
-    "summary": "TESLA Memorial HF CW Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=566\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-14T18:00:00Z",
-    "end_utc": "2026-03-15T05:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "7c328c8dce0e2ac682d26cb0445b151d@hamcal",
-    "summary": "RSGB FT4 Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=653\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-16T20:00:00Z",
-    "end_utc": "2026-03-16T22:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "cb8c82210ffb00afc155036f1c953b87@hamcal",
-    "summary": "QCX Challenge",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=644\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-30T13:00:00Z",
-    "end_utc": "2026-03-30T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
     "uid": "5cfd641ef4610620e85ab435a42e1766@hamcal",
     "summary": "Mini-Test 40",
     "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=711\">Info</a>",
@@ -591,716 +1498,6 @@
     "callsign": "",
     "start_utc": "2026-03-18T17:00:00Z",
     "end_utc": "2026-03-18T17:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "5f634602b576c2fa577f8d5928f47f7a@hamcal",
-    "summary": "QRP Fox Hunt",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=518\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-18T01:00:00Z",
-    "end_utc": "2026-03-18T02:30:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "43f8ce207ac6f981125394ac024c8163@hamcal",
-    "summary": "Weekly RTTY Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=753\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-13T01:45:00Z",
-    "end_utc": "2026-03-13T02:15:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "278eb1a1e4182cf07dd5a0ad4e79cd7a@hamcal",
-    "summary": "Mini-Test 80",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=712\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-11T18:00:00Z",
-    "end_utc": "2026-03-11T18:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "69d0908359f9c835769fed16b1dc7505@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-26T03:00:00Z",
-    "end_utc": "2026-03-26T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "80d1e854dbcc42664550a4d24c57388b@hamcal",
-    "summary": "RSGB 80m Club Championship, CW",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=275\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw",
-      "phone"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-11T20:00:00Z",
-    "end_utc": "2026-03-11T21:30:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "956e0887e16de6b25357581abac01ee3@hamcal",
-    "summary": "North American Sprint, RTTY",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=155\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "phone",
-      "digital"
-    ],
-    "mode": "PHONE",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-15T00:00:00Z",
-    "end_utc": "2026-03-15T03:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "cdf0f67e5e74915441039ca752f83831@hamcal",
-    "summary": "Classic Exchange, CW",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=493\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-10T13:00:00Z",
-    "end_utc": "2026-03-11T07:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "52874f407fd8b67bf9a40ba8a5c34479@hamcal",
-    "summary": "K1USN Slow Speed Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=681\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "K1USN",
-    "start_utc": "2026-03-30T00:00:00Z",
-    "end_utc": "2026-03-30T01:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "bebea955e2061c7487e0d83937caf429@hamcal",
-    "summary": "UBA Spring Contest, 6m",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=298\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-15T07:00:00Z",
-    "end_utc": "2026-03-15T11:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "06f5a9499e14b1e10ddc1156d9b6dfbe@hamcal",
-    "summary": "YOTA Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=696\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-15T10:00:00Z",
-    "end_utc": "2026-03-15T21:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "003a002589420184c89270a03da4b6ee@hamcal",
-    "summary": "QRP Fox Hunt",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=518\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-25T01:00:00Z",
-    "end_utc": "2026-03-25T02:30:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "969f7809d2e0a7260000fcc6782c5d2d@hamcal",
-    "summary": "Phone Weekly Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=593\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-25T02:30:00Z",
-    "end_utc": "2026-03-25T03:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "a72fb1a60f33a088300a39f0e38d3bac@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-12T07:00:00Z",
-    "end_utc": "2026-03-12T08:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "1909442250db2e22431bb5de1f527394@hamcal",
-    "summary": "Mini-Test 80",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=712\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-25T18:00:00Z",
-    "end_utc": "2026-03-25T18:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "3721c9cb37f5582bde37451b1de1a849@hamcal",
-    "summary": "Russian DX Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=310\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-21T12:00:00Z",
-    "end_utc": "2026-03-22T12:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "9e3d02666d4a0726e589cece665912f9@hamcal",
-    "summary": "Run for the Bacon QRP Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=385\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-15T23:00:00Z",
-    "end_utc": "2026-03-16T01:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "78bf5643e4120b7b2b705ab343dac024@hamcal",
-    "summary": "K1USN Slow Speed Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=681\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "K1USN",
-    "start_utc": "2026-03-27T20:00:00Z",
-    "end_utc": "2026-03-27T21:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "00ad39a72db884c0ef5bad72aed71bb8@hamcal",
-    "summary": "UBA Spring Contest, SSB",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=296\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-22T07:00:00Z",
-    "end_utc": "2026-03-22T11:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "65339a63e1a307939d2684554cb9208b@hamcal",
-    "summary": "South America 10 Meter Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=598\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-14T12:00:00Z",
-    "end_utc": "2026-03-15T12:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "5c2dcb9df4fcc2ddf0b0b43909316fec@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=720\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-16T13:00:00Z",
-    "end_utc": "2026-03-16T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "7e9a57f541cb33ed515d5c9469f1b31e@hamcal",
-    "summary": "EA PSK63 Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=403\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-14T12:00:00Z",
-    "end_utc": "2026-03-15T12:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "35b4d6e22d56f87397b910e1149c59a0@hamcal",
-    "summary": "Stew Perry Topband Challenge",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=207\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-14T15:00:00Z",
-    "end_utc": "2026-03-15T15:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "dadfa62a6a9cd695832223c34656a02e@hamcal",
-    "summary": "NCCC FT4 Sprint",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=741\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-27T01:00:00Z",
-    "end_utc": "2026-03-27T01:30:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "c3d4b828291cb713c19a917b3cf53ca1@hamcal",
-    "summary": "Idaho QSO Party",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=305\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-14T16:00:00Z",
-    "end_utc": "2026-03-15T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "94221ae6fe5756d6dfdd2d03acd03c4a@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-19T07:00:00Z",
-    "end_utc": "2026-03-19T08:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "b384ecf12719ef6b93d977f8564366e0@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=720\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-17T03:00:00Z",
-    "end_utc": "2026-03-17T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "78267338b979564f62f487bce97ab54b@hamcal",
-    "summary": "Wisconsin QSO Party",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=330\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-15T18:00:00Z",
-    "end_utc": "2026-03-16T01:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "cf1d7918fe51969c05dd664aa30bacc3@hamcal",
-    "summary": "Africa All Mode International DX Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=578\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-28T12:00:00Z",
-    "end_utc": "2026-03-29T12:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "9a81f060759420d130790f96e0fb07d2@hamcal",
-    "summary": "Oklahoma QSO Party",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=293\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-15T15:00:00Z",
-    "end_utc": "2026-03-15T22:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "ba2e30953de3f60b8fd141840f7d86a8@hamcal",
-    "summary": "Weekly RTTY Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=753\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-27T01:45:00Z",
-    "end_utc": "2026-03-27T02:15:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "c2225902054c6b8505916f289d828a73@hamcal",
-    "summary": "A1Club AWT",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=715\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-25T11:45:00Z",
-    "end_utc": "2026-03-25T13:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "217a4f962a8394804194c97fd3f68b2b@hamcal",
-    "summary": "Oklahoma QSO Party",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=293\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-14T15:00:00Z",
-    "end_utc": "2026-03-15T02:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "0e9bb263ccd93f3783174f8157d1f5d3@hamcal",
-    "summary": "NTC QSO Party",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=713\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-19T19:00:00Z",
-    "end_utc": "2026-03-19T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "25a860b9e879128a8cf4cfdc2e8c9ff6@hamcal",
-    "summary": "Worldwide Sideband Activity Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=672\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-17T01:00:00Z",
-    "end_utc": "2026-03-17T01:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "0285c4a81a9ca18c80db9e071e1e4d86@hamcal",
-    "summary": "Commonwealth (BERU) Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=282\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-14T10:00:00Z",
-    "end_utc": "2026-03-15T10:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "f90305bde3558a37908827edace995f4@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=720\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-30T13:00:00Z",
-    "end_utc": "2026-03-30T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "0846452f3a350ca474e9ecab9fe75452@hamcal",
-    "summary": "PODXS 070 Club St Patrick's Day Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=739\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-21T00:00:00Z",
-    "end_utc": "2026-03-21T23:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "d502dc1afacbe9135d4a4251255c13fb@hamcal",
-    "summary": "Bill Windle QSO Party",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=479\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-28T00:00:00Z",
-    "end_utc": "2026-03-28T23:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "25021c86f009726f48aa74344b6d9e15@hamcal",
-    "summary": "F9AA Cup, SSB",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=489\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "sponsor": "WA7BNM",
-    "callsign": "F9AA",
-    "start_utc": "2026-03-14T12:00:00Z",
-    "end_utc": "2026-03-15T12:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "7acc171fc97abadd82c1d86ebebc576b@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-18T13:00:00Z",
-    "end_utc": "2026-03-18T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "c994bf132d2d7f1bbe58abb2d3fab392@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-26T07:00:00Z",
-    "end_utc": "2026-03-26T08:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "1c79c2864f36dbfc29f55e024a42e5eb@hamcal",
-    "summary": "K1USN Slow Speed Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=681\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "K1USN",
-    "start_utc": "2026-03-16T00:00:00Z",
-    "end_utc": "2026-03-16T01:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "2b7414079534dbb61985a321e13d3bf0@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-12T03:00:00Z",
-    "end_utc": "2026-03-12T04:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -1321,9 +1518,57 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "141b2278db5a761e200c7dffdaae6563@hamcal",
-    "summary": "AGCW VHF/UHF Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=214\">Info</a>",
+    "uid": "348996b1b2118e74c172fb009ee2b4f4@hamcal",
+    "summary": "K1USN Slow Speed Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=681\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "K1USN",
+    "start_utc": "2026-03-20T20:00:00Z",
+    "end_utc": "2026-03-20T21:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "36f7e4e8ab90f561edca4e1865a3929c@hamcal",
+    "summary": "Idaho QSO Party",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=305\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-15T14:00:00Z",
+    "end_utc": "2026-03-16T02:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "9080818a196ab928a1efdcab917a51cf@hamcal",
+    "summary": "Worldwide Sideband Activity Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=672\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-31T01:00:00Z",
+    "end_utc": "2026-03-31T01:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "f90305bde3558a37908827edace995f4@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=720\">Info</a>",
     "url": "",
     "location": "",
     "categories": [
@@ -1333,41 +1578,8 @@
     "mode": "CW",
     "sponsor": "WA7BNM",
     "callsign": "",
-    "start_utc": "2026-03-21T14:00:00Z",
-    "end_utc": "2026-03-21T18:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "e675f1f774eeaba4fbe031aba4e8966d@hamcal",
-    "summary": "UKEICC 80m Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=583\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-25T20:00:00Z",
-    "end_utc": "2026-03-25T21:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "c6fc454263adb0fd1cd190bcd8fb8395@hamcal",
-    "summary": "YB DX RTTY Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=642\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-14T00:00:00Z",
-    "end_utc": "2026-03-14T23:59:00Z",
+    "start_utc": "2026-03-30T13:00:00Z",
+    "end_utc": "2026-03-30T14:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -1387,105 +1599,6 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "60533fe8470ee8a185eb63f737a17139@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=498\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-11T13:00:00Z",
-    "end_utc": "2026-03-11T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "62b0dc5d9bcc25e0ee16497c8554f82b@hamcal",
-    "summary": "Virginia QSO Party",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=302\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-22T12:00:00Z",
-    "end_utc": "2026-03-22T23:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "cb80ae0e5a6c204aaffb350f6c6304ba@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=720\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-24T03:00:00Z",
-    "end_utc": "2026-03-24T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "d733e98fbb315a8410641fbb21c80292@hamcal",
-    "summary": "OK1WC Memorial (MWC)",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=683\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "OK1WC",
-    "start_utc": "2026-03-23T16:30:00Z",
-    "end_utc": "2026-03-23T17:29:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "dfcfaee9b89d6643c716e40ff0fa8fac@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=720\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-16T19:00:00Z",
-    "end_utc": "2026-03-16T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "958be9404af2b4d5e8b3734fcb978ee9@hamcal",
-    "summary": "Mini-Test 40",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=711\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-25T17:00:00Z",
-    "end_utc": "2026-03-25T17:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
     "uid": "ee35db5f4b790522bdcfa5757573839e@hamcal",
     "summary": "A1Club AWT",
     "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=715\">Info</a>",
@@ -1499,286 +1612,6 @@
     "callsign": "",
     "start_utc": "2026-03-18T11:45:00Z",
     "end_utc": "2026-03-18T13:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "732d46e97db24b4ca843a701860d990c@hamcal",
-    "summary": "Worldwide Sideband Activity Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=672\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-24T01:00:00Z",
-    "end_utc": "2026-03-24T01:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "a48ddc8dd348294e16a08594006e2e46@hamcal",
-    "summary": "QCX Challenge",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=644\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-31T03:00:00Z",
-    "end_utc": "2026-03-31T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "4f5e36a677a4f6e1fbdeade446f30d65@hamcal",
-    "summary": "VHF-UHF FT8 Activity Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=674\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-18T17:00:00Z",
-    "end_utc": "2026-03-18T21:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "5e97795de89c67922f31e3f7b08937d8@hamcal",
-    "summary": "NAQCC CW Sprint",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=358\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-19T00:30:00Z",
-    "end_utc": "2026-03-19T02:30:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "1b22c4188232319a53ef7496f0685ac4@hamcal",
-    "summary": "NCCC Sprint",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=44\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-27T02:30:00Z",
-    "end_utc": "2026-03-27T03:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "ee8605700f3290447e0d38de9b53ce36@hamcal",
-    "summary": "DIG QSO Party, SSB",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=690\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-14T12:00:00Z",
-    "end_utc": "2026-03-14T17:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "7f9195219773c5e1826d0e1719b54a6c@hamcal",
-    "summary": "Mini-Test 40",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=711\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-11T17:00:00Z",
-    "end_utc": "2026-03-11T17:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "c4a6869ae5271e0cf0b750f30f5dc909@hamcal",
-    "summary": "Walk for the Bacon QRP Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=699\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-20T02:00:00Z",
-    "end_utc": "2026-03-20T03:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "03479b09a274c3fcc630d0f75630ec48@hamcal",
-    "summary": "K1USN Slow Speed Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=681\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "K1USN",
-    "start_utc": "2026-03-13T20:00:00Z",
-    "end_utc": "2026-03-13T21:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "0bd68727621028300555a2674156e76b@hamcal",
-    "summary": "Weekly RTTY Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=753\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-20T01:45:00Z",
-    "end_utc": "2026-03-20T02:15:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "dfcbdf3ad07f74d23afd770efa40f75b@hamcal",
-    "summary": "CQ WW WPX Contest, SSB",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=291\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-28T00:00:00Z",
-    "end_utc": "2026-03-29T23:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "27ceeaeb63edcfb7c58fa9f84f5fe523@hamcal",
-    "summary": "NCCC Sprint",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=44\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-20T02:30:00Z",
-    "end_utc": "2026-03-20T03:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "048e21c880e46d92223c26db1cd68035@hamcal",
-    "summary": "VHF-UHF FT8 Activity Contest-NA",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=784\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-19T00:00:00Z",
-    "end_utc": "2026-03-19T05:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "d4b880a403bb3244c271341810d8538b@hamcal",
-    "summary": "NCCC FT4 Sprint",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=741\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-13T01:00:00Z",
-    "end_utc": "2026-03-13T01:30:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "fce9d348086416d36a55acad9d1728d5@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=720\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-23T19:00:00Z",
-    "end_utc": "2026-03-23T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "34cd6f3ee87d01fbebe2f9f79c2c866c@hamcal",
-    "summary": "Walk for the Bacon QRP Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=699\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-19T00:00:00Z",
-    "end_utc": "2026-03-19T01:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "7631a3cb7575c945b60c1bc711cd7c3e@hamcal",
-    "summary": "SKCC Weekend Sprintathon",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=428\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "",
-    "start_utc": "2026-03-14T12:00:00Z",
-    "end_utc": "2026-03-15T23:59:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -1799,26 +1632,58 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "4d9c3c69cbea9a1d624e1c3e3564875d@hamcal",
-    "summary": "BARTG HF RTTY Contest",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=309\">Info</a>",
+    "uid": "62b0dc5d9bcc25e0ee16497c8554f82b@hamcal",
+    "summary": "Virginia QSO Party",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=302\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-22T12:00:00Z",
+    "end_utc": "2026-03-22T23:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "1a659bce2738563b1f12ad35ae631450@hamcal",
+    "summary": "QCX Challenge",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=644\">Info</a>",
+    "url": "",
+    "location": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "sponsor": "WA7BNM",
+    "callsign": "",
+    "start_utc": "2026-03-30T19:00:00Z",
+    "end_utc": "2026-03-30T20:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "00ad39a72db884c0ef5bad72aed71bb8@hamcal",
+    "summary": "UBA Spring Contest, SSB",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=296\">Info</a>",
     "url": "",
     "location": "",
     "categories": [
       "contest",
-      "digital"
+      "phone"
     ],
-    "mode": "DIGITAL",
+    "mode": "PHONE",
     "sponsor": "WA7BNM",
     "callsign": "",
-    "start_utc": "2026-03-21T02:00:00Z",
-    "end_utc": "2026-03-23T01:59:00Z",
+    "start_utc": "2026-03-22T07:00:00Z",
+    "end_utc": "2026-03-22T11:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "9dc0eef77640913731412333a399ba2b@hamcal",
-    "summary": "Feld Hell Sprint",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=436\">Info</a>",
+    "uid": "ea602540bbcd3281674bb8fa49f5a73e@hamcal",
+    "summary": "QRP Fox Hunt",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=518\">Info</a>",
     "url": "",
     "location": "",
     "categories": [
@@ -1827,14 +1692,14 @@
     "mode": "",
     "sponsor": "WA7BNM",
     "callsign": "",
-    "start_utc": "2026-03-21T20:00:00Z",
-    "end_utc": "2026-03-21T21:59:00Z",
+    "start_utc": "2026-03-27T01:00:00Z",
+    "end_utc": "2026-03-27T02:30:00Z",
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "3146b5dafd3958fae2b8ca82cdbdca06@hamcal",
-    "summary": "NCCC Sprint",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=44\">Info</a>",
+    "uid": "cf1d7918fe51969c05dd664aa30bacc3@hamcal",
+    "summary": "Africa All Mode International DX Contest",
+    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=578\">Info</a>",
     "url": "",
     "location": "",
     "categories": [
@@ -1843,24 +1708,8 @@
     "mode": "",
     "sponsor": "WA7BNM",
     "callsign": "",
-    "start_utc": "2026-03-13T02:30:00Z",
-    "end_utc": "2026-03-13T03:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "6f1e87e102955723254890a3e79ad01e@hamcal",
-    "summary": "K1USN Slow Speed Test",
-    "description": "<a href=\"http://www.contestcalendar.com/contestdetails.php?ref=681\">Info</a>",
-    "url": "",
-    "location": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "sponsor": "WA7BNM",
-    "callsign": "K1USN",
-    "start_utc": "2026-03-23T00:00:00Z",
-    "end_utc": "2026-03-23T01:00:00Z",
+    "start_utc": "2026-03-28T12:00:00Z",
+    "end_utc": "2026-03-29T12:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
