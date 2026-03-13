@@ -67,7 +67,7 @@
   const MAX_ADD_ALL = 200;
 
   // NEW: List view result limiter
-  const LIST_RESULTS_LIMIT = 7;
+  const LIST_RESULTS_LIMIT = 10;
 
   // ---------- Data ----------
   let ALL = [];
@@ -114,55 +114,6 @@
     return safeString(evt.description || evt.desc || evt.details || "");
   }
 
-  // Extract first http(s) URL from HTML in description like: <a href="http://...">Info</a>
-  function extractHrefFromHtml(html) {
-    const s = safeString(html);
-    // href='...' or href="..."
-    const m = s.match(/href\s*=\s*["'](https?:\/\/[^"']+)["']/i);
-    if (m && m[1]) return m[1].trim();
-
-    // fallback: any http(s) in text
-    const m2 = s.match(/https?:\/\/[^\s"'<>)\]]+/i);
-    if (m2 && m2[0]) return m2[0].trim();
-
-    return "";
-  }
-
-  // Robust URL detection:
-  // 1) explicit url/link fields
-  // 2) else href inside HTML description
-  function getURL(evt) {
-    const candidates = [
-      evt.url,
-      evt.link,
-      evt.href,
-      evt.website,
-      evt.web,
-      evt.page,
-      evt.details_url,
-      evt.detail_url,
-      evt.info_url,
-      evt.more_info_url,
-      evt.event_url,
-      evt.eventUrl,
-      evt.contest_url,
-      evt.contestUrl,
-      evt.registration_url,
-      evt.registrationUrl,
-    ];
-
-    for (const c of candidates) {
-      const u = safeString(c).trim();
-      if (u && (u.startsWith("http://") || u.startsWith("https://"))) return u;
-    }
-
-    // WA7BNM style: description contains an <a href="...">
-    const fromDesc = extractHrefFromHtml(getDescription(evt));
-    if (fromDesc && (fromDesc.startsWith("http://") || fromDesc.startsWith("https://"))) return fromDesc;
-
-    return "";
-  }
-
   function getSponsor(evt) {
     return safeString(evt.sponsor || evt.organizer || evt.host || evt.by || "");
   }
@@ -188,6 +139,48 @@
     if (x.includes("phone") || x.includes("ssb") || x.includes("voice")) return "phone";
     if (x.includes("dig") || x.includes("rtty") || x.includes("ft8") || x.includes("psk")) return "digital";
     return x;
+  }
+
+  function extractHrefFromHtml(html) {
+    const s = safeString(html);
+    const m = s.match(/href\s*=\s*["'](https?:\/\/[^"']+)["']/i);
+    if (m && m[1]) return m[1].trim();
+
+    const m2 = s.match(/https?:\/\/[^\s"'<>)\]]+/i);
+    if (m2 && m2[0]) return m2[0].trim();
+
+    return "";
+  }
+
+  function getURL(evt) {
+    const candidates = [
+      evt.url,
+      evt.link,
+      evt.href,
+      evt.website,
+      evt.web,
+      evt.page,
+      evt.details_url,
+      evt.detail_url,
+      evt.info_url,
+      evt.more_info_url,
+      evt.event_url,
+      evt.eventUrl,
+      evt.contest_url,
+      evt.contestUrl,
+      evt.registration_url,
+      evt.registrationUrl,
+    ];
+
+    for (const c of candidates) {
+      const u = safeString(c).trim();
+      if (u && (u.startsWith("http://") || u.startsWith("https://"))) return u;
+    }
+
+    const fromDesc = extractHrefFromHtml(getDescription(evt));
+    if (fromDesc && (fromDesc.startsWith("http://") || fromDesc.startsWith("https://"))) return fromDesc;
+
+    return "";
   }
 
   function formatDateRange(evt, tzMode) {
@@ -240,6 +233,30 @@
     ].map((x) => safeString(x).toLowerCase());
 
     return fields.some((f) => f.includes(needle));
+  }
+
+  function startOfMonth(d) {
+    const x = new Date(d);
+    x.setDate(1);
+    x.setHours(0, 0, 0, 0);
+    return x;
+  }
+
+  function addMonths(d, n) {
+    const x = new Date(d);
+    x.setMonth(x.getMonth() + n);
+    return startOfMonth(x);
+  }
+
+  function monthLabel(d) {
+    return new Intl.DateTimeFormat(undefined, { year: "numeric", month: "long" }).format(d);
+  }
+
+  function dateKeyLocal(d) {
+    const y = d.getFullYear();
+    const m = String(d.getMonth() + 1).padStart(2, "0");
+    const dd = String(d.getDate()).padStart(2, "0");
+    return `${y}-${m}-${dd}`;
   }
 
   // ---------- LocalStorage ----------
@@ -355,7 +372,6 @@
     addAllFilteredEl.textContent = `Add all filtered (${n})`;
   }
 
-  // NEW: More/Less for list results
   function updateResultsMoreUI() {
     if (!resultsMoreWrapEl || !resultsMoreBtnEl || !resultsMoreMetaEl) return;
 
@@ -414,7 +430,6 @@
 
   function renderList() {
     const tzMode = tzEl.value || "local";
-
     const data = resultsExpanded ? FILTERED : FILTERED.slice(0, LIST_RESULTS_LIMIT);
     const items = data.map((evt) => renderEventCard(evt, tzMode)).join("");
 
@@ -538,7 +553,8 @@
         if (!uid) return;
         selectedUIDs.delete(uid);
         renderSelected();
-        if (viewModeEl.value === "list") renderList(); else renderMonth();
+        if (viewModeEl.value === "list") renderList();
+        else renderMonth();
       });
     });
   }
@@ -592,30 +608,6 @@
   }
 
   // ---------- Month View ----------
-  function startOfMonth(d) {
-    const x = new Date(d);
-    x.setDate(1);
-    x.setHours(0, 0, 0, 0);
-    return x;
-  }
-
-  function addMonths(d, n) {
-    const x = new Date(d);
-    x.setMonth(x.getMonth() + n);
-    return startOfMonth(x);
-  }
-
-  function monthLabel(d) {
-    return new Intl.DateTimeFormat(undefined, { year: "numeric", month: "long" }).format(d);
-  }
-
-  function dateKeyLocal(d) {
-    const y = d.getFullYear();
-    const m = String(d.getMonth() + 1).padStart(2, "0");
-    const dd = String(d.getDate()).padStart(2, "0");
-    return `${y}-${m}-${dd}`;
-  }
-
   function renderMonth() {
     monthTitleEl.textContent = monthLabel(monthCursor);
 
@@ -748,26 +740,6 @@
     return null;
   }
 
-  function copyShareLink() {
-    const uids = Array.from(selectedUIDs);
-    if (uids.length === 0) {
-      alert("Nothing selected to share.");
-      return;
-    }
-
-    const payload = { uids };
-    const encoded = base64UrlEncodeUTF8(JSON.stringify(payload));
-    const url = `${location.origin}${location.pathname}#sel=${encoded}`;
-
-    if (navigator.clipboard && navigator.clipboard.writeText) {
-      navigator.clipboard.writeText(url)
-        .then(() => alert("Share link copied to clipboard."))
-        .catch(() => prompt("Copy this share link:", url));
-    } else {
-      prompt("Copy this share link:", url);
-    }
-  }
-
   // ---------- ICS generation ----------
   function pad2(n) { return String(n).padStart(2, "0"); }
 
@@ -817,14 +789,22 @@
     if (!ss) return selectedEvents;
     return selectedEvents.filter((evt) => eventMatchesSelectedSearch(evt, ss));
   }
-  function listSelectedAllEvents() { return ALL.filter((evt) => selectedUIDs.has(getUID(evt))); }
-  function listFilteredEvents() { return FILTERED.slice(); }
+
+  function listSelectedAllEvents() {
+    return ALL.filter((evt) => selectedUIDs.has(getUID(evt)));
+  }
+
+  function listFilteredEvents() {
+    return FILTERED.slice();
+  }
+
   function listUnionEvents() {
     const byUid = new Map();
     for (const evt of listSelectedAllEvents()) byUid.set(getUID(evt), evt);
     for (const evt of listFilteredEvents()) byUid.set(getUID(evt), evt);
     return Array.from(byUid.values());
   }
+
   function eventsForExportMode() {
     const mode = exportModeEl.value || "selected_visible";
     if (mode === "selected_all") return listSelectedAllEvents();
@@ -999,8 +979,13 @@
       render();
     });
 
-    selectedSearchEl.addEventListener("input", () => { renderSelected(); });
-    exportModeEl.addEventListener("change", () => { saveExportMode(); });
+    selectedSearchEl.addEventListener("input", () => {
+      renderSelected();
+    });
+
+    exportModeEl.addEventListener("change", () => {
+      saveExportMode();
+    });
 
     clearSelectedEl.addEventListener("click", () => {
       selectedUIDs.clear();
@@ -1008,7 +993,9 @@
       render();
     });
 
-    copyShareLinkEl.addEventListener("click", () => { copyShareLink(); });
+    copyShareLinkEl.addEventListener("click", () => {
+      copyShareLink();
+    });
 
     downloadCustomIcsEl.addEventListener("click", () => {
       const mode = exportModeEl.value || "selected_visible";
@@ -1022,18 +1009,46 @@
       downloadText(filename, ics);
     });
 
-    addAllFilteredEl.addEventListener("click", () => { addAllFiltered(); });
+    addAllFilteredEl.addEventListener("click", () => {
+      addAllFiltered();
+    });
 
-    monthPrevEl.addEventListener("click", () => { monthCursor = addMonths(monthCursor, -1); render(); });
-    monthNextEl.addEventListener("click", () => { monthCursor = addMonths(monthCursor, 1); render(); });
+    monthPrevEl.addEventListener("click", () => {
+      monthCursor = addMonths(monthCursor, -1);
+      render();
+    });
 
-    // NEW: More/Less toggle
+    monthNextEl.addEventListener("click", () => {
+      monthCursor = addMonths(monthCursor, 1);
+      render();
+    });
+
     if (resultsMoreBtnEl) {
       resultsMoreBtnEl.addEventListener("click", () => {
         resultsExpanded = !resultsExpanded;
         saveResultsExpanded();
-        renderList(); // list view only
+        renderList();
       });
+    }
+  }
+
+  function copyShareLink() {
+    const uids = Array.from(selectedUIDs);
+    if (uids.length === 0) {
+      alert("Nothing selected to share.");
+      return;
+    }
+
+    const payload = { uids };
+    const encoded = base64UrlEncodeUTF8(JSON.stringify(payload));
+    const url = `${location.origin}${location.pathname}#sel=${encoded}`;
+
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url)
+        .then(() => alert("Share link copied to clipboard."))
+        .catch(() => prompt("Copy this share link:", url));
+    } else {
+      prompt("Copy this share link:", url);
     }
   }
 
@@ -1091,42 +1106,6 @@
       renderSelected();
       bootResources();
     }
-  }
-
-  // ---------- Month helpers (unchanged location; required above) ----------
-  function startOfMonth(d) {
-    const x = new Date(d);
-    x.setDate(1);
-    x.setHours(0, 0, 0, 0);
-    return x;
-  }
-
-  function addMonths(d, n) {
-    const x = new Date(d);
-    x.setMonth(x.getMonth() + n);
-    return startOfMonth(x);
-  }
-
-  function parseSelectionFromHash() {
-    const h = (location.hash || "").replace(/^#/, "");
-    if (!h) return null;
-
-    const parts = h.split("&");
-    for (const p of parts) {
-      const [k, v] = p.split("=");
-      if (k === "sel" && v) {
-        try {
-          const json = base64UrlDecodeUTF8(v);
-          const obj = JSON.parse(json);
-          if (obj && Array.isArray(obj.uids)) {
-            return obj.uids.filter((x) => typeof x === "string" && x.length);
-          }
-        } catch {
-          return null;
-        }
-      }
-    }
-    return null;
   }
 
   main();
