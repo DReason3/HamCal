@@ -304,6 +304,68 @@ def unfold_ics_text(value: str) -> str:
     return v.strip()
 
 
+
+#----------------- Ingest: SM3CER ANNUAL CALENDAR------------------------------
+
+def fetch_sm3cer_contests():
+    """
+    SM3CER Contest Calendar
+    https://www.sm3cer.com/contest/
+
+    Provides long-horizon global contest list.
+    """
+
+    url = "https://www.sm3cer.com/contest/"
+    events = []
+
+    try:
+        r = requests.get(url, timeout=30)
+        r.raise_for_status()
+
+        soup = BeautifulSoup(r.text, "html.parser")
+
+        rows = soup.select("table tr")
+
+        for tr in rows:
+            tds = tr.find_all("td")
+            if len(tds) < 3:
+                continue
+
+            date_text = tds[0].get_text(strip=True)
+            title = tds[1].get_text(strip=True)
+
+            if not title:
+                continue
+
+            # example: "Mar 7"
+            try:
+                dt = dateparser.parse(date_text)
+            except Exception:
+                continue
+
+            if not dt:
+                continue
+
+            start = dt.replace(tzinfo=timezone.utc)
+            end = start + timedelta(hours=48)
+
+            events.append({
+                "uid": f"sm3cer-{title}-{start.isoformat()}",
+                "title": title,
+                "start_utc": start.isoformat(),
+                "end_utc": end.isoformat(),
+                "mode": "",
+                "source": "sm3cer",
+                "url": url
+            })
+
+    except Exception as e:
+        print(f"[warn] SM3CER scrape failed: {e}")
+
+    print(f"[ok] SM3CER events: {len(events)}")
+    return events
+
+
 # ---------------- Ingest: ARRL contest calendar (best-effort) ----------------
 
 def ingest_arrl_contests() -> List[Event]:
