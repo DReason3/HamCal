@@ -41,6 +41,7 @@ UA = "HAMCAL/0.1 (+https://github.com/dreason3/hamcal) python-requests"
 # ---- Time window ----
 NOW_UTC = datetime.now(timezone.utc)
 HORIZON_END_UTC = NOW_UTC + timedelta(days=548)  # ~18 months
+
 # ---- Timezones ----
 CHI_TZ = ZoneInfo("America/Chicago")
 
@@ -82,7 +83,8 @@ class Event:
     def add_category(self, c: str) -> None:
         if c not in self.categories:
             self.categories.append(c)
-          
+
+
 # ---------------- JSON export (for client-side search/filter) ----------------
 
 _CALLSIGN_RE = re.compile(r"\b([A-Z]{1,2}\d[A-Z]{1,3}|[A-Z]\d[A-Z]{1,3})\b", re.IGNORECASE)
@@ -338,7 +340,7 @@ def ingest_arrl_contests() -> List[Event]:
             if e.is_in_window():
                 events.append(e)
 
-    # Always add Field Day by rule (only included if it falls inside the 2-month window)
+    # Always add Field Day by rule
     events.extend(add_field_day_fixed())
 
     return events
@@ -523,7 +525,7 @@ def build_summary_html(all_events: List[Event]) -> str:
 <body>
   <h1>HAMCAL – Monthly Summary</h1>
   <div class="meta">
-    Rolling lookahead: now → next ~2 months.<br/>
+    Rolling lookahead: now → next ~18 months.<br/>
     Times shown as: <strong>Zulu (UTC)</strong> | <strong>Central Time</strong> (CST/CDT auto).<br/>
     Duration shown in parentheses.
   </div>
@@ -641,7 +643,7 @@ def build_index_page() -> str:
 
     <hr />
     <p class="note">
-      Notes: rolling ~2-month lookahead. Times in the summary show both UTC (Zulu) and Central (CST/CDT auto).
+      Notes: rolling ~18-month lookahead. Times in the summary show both UTC (Zulu) and Central (CST/CDT auto).
     </p>
   </div>
 
@@ -726,7 +728,7 @@ def main() -> int:
     write_file(os.path.join(OUT_DIR, "hamfests.ics"), build_ics("HAMCAL – Hamfests", cals["hamfests"]))
     write_file(os.path.join(OUT_DIR, "field-day.ics"), build_ics("HAMCAL – Field Day", cals["field-day"]))
 
-    # NEW: printable monthly summary with UTC + Central + duration
+    # printable monthly summary with UTC + Central + duration
     write_file(os.path.join(OUT_DIR, "summary.html"), build_summary_html(all_events))
 
     # Subscribe page (links + checkboxes)
