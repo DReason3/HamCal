@@ -41,7 +41,7 @@ WA7BNM_GCAL_ICS = f"https://calendar.google.com/calendar/ical/{WA7BNM_GCAL_ID}/p
 ARRL_CONTEST_CAL_URL = "https://www.arrl.org/contest-calendar"
 ARRL_HAMFEST_PAGE_URL = "https://www.arrl.org/hamfests/search/page:{page}/model:event"
 
-SM3CER_URL = "https://www.sm3cer.com/contest/"
+SM3CER_URL = "https://www.sk3bg.se/contest/"
 
 OUT_DIR = os.path.join("docs")
 
