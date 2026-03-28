@@ -1,6 +1,19 @@
 [
   {
-    "uid": "cb8c82210ffb00afc155036f1c953b87@hamcal",
+    "uid": "9080818a196ab928a1efdcab917a51cf@hamcal",
+    "summary": "Worldwide Sideband Activity Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-03-31T01:00:00Z",
+    "end_utc": "2026-03-31T01:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "a48ddc8dd348294e16a08594006e2e46@hamcal",
     "summary": "QCX Challenge",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
@@ -8,8 +21,8 @@
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-03-30T13:00:00Z",
-    "end_utc": "2026-03-30T14:00:00Z",
+    "start_utc": "2026-03-31T03:00:00Z",
+    "end_utc": "2026-03-31T04:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -27,60 +40,7 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "ff87426409b077a564b7415697080440@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-03-30T19:00:00Z",
-    "end_utc": "2026-03-30T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "25d9aa300d8bf25f6ba918df94d4e397@hamcal",
-    "summary": "Sasquatch Stomp",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-27T19:00:00Z",
-    "end_utc": "2026-03-28T03:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "cf1d7918fe51969c05dd664aa30bacc3@hamcal",
-    "summary": "Africa All Mode International DX Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-28T12:00:00Z",
-    "end_utc": "2026-03-29T12:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "d502dc1afacbe9135d4a4251255c13fb@hamcal",
-    "summary": "Bill Windle QSO Party",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-28T00:00:00Z",
-    "end_utc": "2026-03-28T23:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "1a659bce2738563b1f12ad35ae631450@hamcal",
+    "uid": "cb8c82210ffb00afc155036f1c953b87@hamcal",
     "summary": "QCX Challenge",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
@@ -88,8 +48,8 @@
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-03-30T19:00:00Z",
-    "end_utc": "2026-03-30T20:00:00Z",
+    "start_utc": "2026-03-30T13:00:00Z",
+    "end_utc": "2026-03-30T14:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -121,42 +81,17 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "a48ddc8dd348294e16a08594006e2e46@hamcal",
-    "summary": "QCX Challenge",
+    "uid": "ff87426409b077a564b7415697080440@hamcal",
+    "summary": "ICWC Medium Speed Test",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
-      "contest"
+      "contest",
+      "cw"
     ],
-    "mode": "",
-    "start_utc": "2026-03-31T03:00:00Z",
-    "end_utc": "2026-03-31T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "394b70caa8e4917fea28c00b3d7fb297@hamcal",
-    "summary": "OK1WC Memorial (MWC)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-30T16:30:00Z",
-    "end_utc": "2026-03-30T17:29:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "78bf5643e4120b7b2b705ab343dac024@hamcal",
-    "summary": "K1USN Slow Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-27T20:00:00Z",
-    "end_utc": "2026-03-27T21:00:00Z",
+    "mode": "CW",
+    "start_utc": "2026-03-30T19:00:00Z",
+    "end_utc": "2026-03-30T20:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -173,16 +108,55 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "9080818a196ab928a1efdcab917a51cf@hamcal",
-    "summary": "Worldwide Sideband Activity Contest",
+    "uid": "394b70caa8e4917fea28c00b3d7fb297@hamcal",
+    "summary": "OK1WC Memorial (MWC)",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-03-31T01:00:00Z",
-    "end_utc": "2026-03-31T01:59:00Z",
+    "start_utc": "2026-03-30T16:30:00Z",
+    "end_utc": "2026-03-30T17:29:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "d502dc1afacbe9135d4a4251255c13fb@hamcal",
+    "summary": "Bill Windle QSO Party",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-03-28T00:00:00Z",
+    "end_utc": "2026-03-28T23:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "1a659bce2738563b1f12ad35ae631450@hamcal",
+    "summary": "QCX Challenge",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-03-30T19:00:00Z",
+    "end_utc": "2026-03-30T20:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "cf1d7918fe51969c05dd664aa30bacc3@hamcal",
+    "summary": "Africa All Mode International DX Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-03-28T12:00:00Z",
+    "end_utc": "2026-03-29T12:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -223,19 +197,6 @@
     "start_utc": "2027-06-26T00:00:00Z",
     "end_utc": "2027-06-28T00:00:00Z",
     "source": "arrl-field-day"
-  },
-  {
-    "uid": "5e94919c36fc320bd1d7e4ee5dbf1f16@hamcal",
-    "summary": "03/28/2026\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-27T00:00:00Z",
-    "end_utc": "2026-03-28T00:00:00Z",
-    "source": "arrl-hamfest"
   },
   {
     "uid": "0fcae8b3a1165ee47529422dfa93ece1@hamcal",
@@ -617,6 +578,19 @@
   {
     "uid": "83625d361ad0909a71376348d718c2ce@hamcal",
     "summary": "Greeneville Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-18T00:00:00Z",
+    "end_utc": "2026-04-19T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "4bfc53439d3c0a32999c7a668e306920@hamcal",
+    "summary": "Lakes Region Spring HamFest 2026\t\t\t\r",
     "description": "",
     "url": "https://www.arrl.org/hamfests/search",
     "categories": [
@@ -1421,6 +1395,19 @@
     "source": "arrl-hamfest"
   },
   {
+    "uid": "a73fbefea44f3a9968056a6e33fcd309@hamcal",
+    "summary": "Montrose ARC Tail Gate Party\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-06-06T00:00:00Z",
+    "end_utc": "2026-06-07T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
     "uid": "d04941d01de58512ba16ca9dfea38667@hamcal",
     "summary": "Riverland ARC Swapfest\t\t\t\r",
     "description": "",
@@ -1444,32 +1431,6 @@
     "mode": "",
     "start_utc": "2026-06-06T00:00:00Z",
     "end_utc": "2026-06-07T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "0eed118a676883b0da9ffdc69ce0a4c4@hamcal",
-    "summary": "Long Island Outdoor  Hamfest and Electronics Fair\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-06-07T00:00:00Z",
-    "end_utc": "2026-06-08T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "c85eaaedb048e91886099ebc53a1dd24@hamcal",
-    "summary": "Starved Rock Radio Club Hamfest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-06-07T00:00:00Z",
-    "end_utc": "2026-06-08T00:00:00Z",
     "source": "arrl-hamfest"
   }
 ]
