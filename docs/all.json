@@ -1,5 +1,18 @@
 [
   {
+    "uid": "52874f407fd8b67bf9a40ba8a5c34479@hamcal",
+    "summary": "K1USN Slow Speed Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-03-30T00:00:00Z",
+    "end_utc": "2026-03-30T01:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
     "uid": "9080818a196ab928a1efdcab917a51cf@hamcal",
     "summary": "Worldwide Sideband Activity Contest",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
@@ -13,7 +26,7 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "a48ddc8dd348294e16a08594006e2e46@hamcal",
+    "uid": "cb8c82210ffb00afc155036f1c953b87@hamcal",
     "summary": "QCX Challenge",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
@@ -21,8 +34,21 @@
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-03-31T03:00:00Z",
-    "end_utc": "2026-03-31T04:00:00Z",
+    "start_utc": "2026-03-30T13:00:00Z",
+    "end_utc": "2026-03-30T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "1a659bce2738563b1f12ad35ae631450@hamcal",
+    "summary": "QCX Challenge",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-03-30T19:00:00Z",
+    "end_utc": "2026-03-30T20:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -40,30 +66,16 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "cb8c82210ffb00afc155036f1c953b87@hamcal",
-    "summary": "QCX Challenge",
+    "uid": "394b70caa8e4917fea28c00b3d7fb297@hamcal",
+    "summary": "OK1WC Memorial (MWC)",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-03-30T13:00:00Z",
-    "end_utc": "2026-03-30T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "f90305bde3558a37908827edace995f4@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-03-30T13:00:00Z",
-    "end_utc": "2026-03-30T14:00:00Z",
+    "start_utc": "2026-03-30T16:30:00Z",
+    "end_utc": "2026-03-30T17:29:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -81,60 +93,7 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "ff87426409b077a564b7415697080440@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-03-30T19:00:00Z",
-    "end_utc": "2026-03-30T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "52874f407fd8b67bf9a40ba8a5c34479@hamcal",
-    "summary": "K1USN Slow Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-30T00:00:00Z",
-    "end_utc": "2026-03-30T01:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "394b70caa8e4917fea28c00b3d7fb297@hamcal",
-    "summary": "OK1WC Memorial (MWC)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-30T16:30:00Z",
-    "end_utc": "2026-03-30T17:29:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "d502dc1afacbe9135d4a4251255c13fb@hamcal",
-    "summary": "Bill Windle QSO Party",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-28T00:00:00Z",
-    "end_utc": "2026-03-28T23:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "1a659bce2738563b1f12ad35ae631450@hamcal",
+    "uid": "a48ddc8dd348294e16a08594006e2e46@hamcal",
     "summary": "QCX Challenge",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
@@ -142,8 +101,8 @@
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-03-30T19:00:00Z",
-    "end_utc": "2026-03-30T20:00:00Z",
+    "start_utc": "2026-03-31T03:00:00Z",
+    "end_utc": "2026-03-31T04:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -160,17 +119,32 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "03a0add66c1d9e063890e7ebf816c8b9@hamcal",
-    "summary": "20",
-    "description": "",
-    "url": "https://www.sk3bg.se/contest/",
+    "uid": "ff87426409b077a564b7415697080440@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
     "categories": [
-      "contest"
+      "contest",
+      "cw"
     ],
-    "mode": "",
-    "start_utc": "2026-03-30T00:00:00Z",
-    "end_utc": "2026-04-01T00:00:00Z",
-    "source": "sm3cer"
+    "mode": "CW",
+    "start_utc": "2026-03-30T19:00:00Z",
+    "end_utc": "2026-03-30T20:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "f90305bde3558a37908827edace995f4@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-03-30T13:00:00Z",
+    "end_utc": "2026-03-30T14:00:00Z",
+    "source": "wa7bnm-gcal"
   },
   {
     "uid": "a1389ba771de9b5ebae51719151eb443@hamcal",
@@ -197,110 +171,6 @@
     "start_utc": "2027-06-26T00:00:00Z",
     "end_utc": "2027-06-28T00:00:00Z",
     "source": "arrl-field-day"
-  },
-  {
-    "uid": "0fcae8b3a1165ee47529422dfa93ece1@hamcal",
-    "summary": "Altus Oklahoma Hamfest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-28T00:00:00Z",
-    "end_utc": "2026-03-29T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "8552d53eaa583c869c72cf99647a50d8@hamcal",
-    "summary": "Central Dakota Amateur Radio Club 36th Hamfest and ARRL North Dakota State Convention\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-28T00:00:00Z",
-    "end_utc": "2026-03-29T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "a50cf569f08505871d25244ad3a331cc@hamcal",
-    "summary": "Columbus Amateur Radio Club Hamfest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-28T00:00:00Z",
-    "end_utc": "2026-03-29T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "bfea7f4011e39ea63b38b3a9783086fd@hamcal",
-    "summary": "DeKalb County Amateur Radio Swap Meet / Hamfest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-28T00:00:00Z",
-    "end_utc": "2026-03-29T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "0ed56787298a64ac0029b7d33caf2912@hamcal",
-    "summary": "Ozarks Amateur Radio Society Hamfest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-28T00:00:00Z",
-    "end_utc": "2026-03-29T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "ff479b4a573b90d165cf14d8802a1942@hamcal",
-    "summary": "Sierra Foothills / Loomis Hamfest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-28T00:00:00Z",
-    "end_utc": "2026-03-29T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "7e7108f5287ba7d29564a00e9f460f12@hamcal",
-    "summary": "Wabash Valley Amateur Radio Association, Inc.\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-28T00:00:00Z",
-    "end_utc": "2026-03-29T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "3946f9fb7727c54fcb2030291aaca3eb@hamcal",
-    "summary": "WEARSFEST\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-28T00:00:00Z",
-    "end_utc": "2026-03-29T00:00:00Z",
-    "source": "arrl-hamfest"
   },
   {
     "uid": "760f20b7ebf9511bc34e80f68455cf7f@hamcal",
@@ -1431,6 +1301,110 @@
     "mode": "",
     "start_utc": "2026-06-06T00:00:00Z",
     "end_utc": "2026-06-07T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "0eed118a676883b0da9ffdc69ce0a4c4@hamcal",
+    "summary": "Long Island Outdoor  Hamfest and Electronics Fair\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-06-07T00:00:00Z",
+    "end_utc": "2026-06-08T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "c85eaaedb048e91886099ebc53a1dd24@hamcal",
+    "summary": "Starved Rock Radio Club Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-06-07T00:00:00Z",
+    "end_utc": "2026-06-08T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "824e87491550110d40af4b65103f096d@hamcal",
+    "summary": "06/13/2026\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-06-12T00:00:00Z",
+    "end_utc": "2026-06-13T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "efe4aad11e88a9795ca3602401a151fb@hamcal",
+    "summary": "Bloomsburg Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-06-13T00:00:00Z",
+    "end_utc": "2026-06-14T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "780313c77a763a566921abe7103b7d7c@hamcal",
+    "summary": "Cortland Hamfest & Technology Fair\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-06-13T00:00:00Z",
+    "end_utc": "2026-06-14T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "f6d12f2067d54c15a0fb93261522d048@hamcal",
+    "summary": "Knoxville Hamfest, ARRL Tennessee State Convention\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-06-13T00:00:00Z",
+    "end_utc": "2026-06-14T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "4d65c2f3e121709ae98d19dac1c209f3@hamcal",
+    "summary": "Monroe County (IN) Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-06-13T00:00:00Z",
+    "end_utc": "2026-06-14T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "24fc220a6dede4486d46e08d20b94686@hamcal",
+    "summary": "BreezeShooters Hamfest, Computer and Electronics Show, ARRL Western Pennsylvania Section Convention \t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-06-14T00:00:00Z",
+    "end_utc": "2026-06-15T00:00:00Z",
     "source": "arrl-hamfest"
   }
 ]
