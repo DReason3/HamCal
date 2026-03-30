@@ -1,57 +1,5 @@
 [
   {
-    "uid": "52874f407fd8b67bf9a40ba8a5c34479@hamcal",
-    "summary": "K1USN Slow Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-30T00:00:00Z",
-    "end_utc": "2026-03-30T01:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "9080818a196ab928a1efdcab917a51cf@hamcal",
-    "summary": "Worldwide Sideband Activity Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-31T01:00:00Z",
-    "end_utc": "2026-03-31T01:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "cb8c82210ffb00afc155036f1c953b87@hamcal",
-    "summary": "QCX Challenge",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-30T13:00:00Z",
-    "end_utc": "2026-03-30T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "1a659bce2738563b1f12ad35ae631450@hamcal",
-    "summary": "QCX Challenge",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-30T19:00:00Z",
-    "end_utc": "2026-03-30T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
     "uid": "b4002c95dc54c04ce0880eacbba23e9b@hamcal",
     "summary": "ICWC Medium Speed Test",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
@@ -76,46 +24,6 @@
     "mode": "",
     "start_utc": "2026-03-30T16:30:00Z",
     "end_utc": "2026-03-30T17:29:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "a126281da260e8c55007ab186994a752@hamcal",
-    "summary": "CQ WW WPX Contest\\, SSB",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "start_utc": "2026-03-28T00:00:00Z",
-    "end_utc": "2026-03-29T23:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "a48ddc8dd348294e16a08594006e2e46@hamcal",
-    "summary": "QCX Challenge",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-31T03:00:00Z",
-    "end_utc": "2026-03-31T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "cf1d7918fe51969c05dd664aa30bacc3@hamcal",
-    "summary": "Africa All Mode International DX Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-03-28T12:00:00Z",
-    "end_utc": "2026-03-29T12:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -145,6 +53,71 @@
     "start_utc": "2026-03-30T13:00:00Z",
     "end_utc": "2026-03-30T14:00:00Z",
     "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "9080818a196ab928a1efdcab917a51cf@hamcal",
+    "summary": "Worldwide Sideband Activity Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-03-31T01:00:00Z",
+    "end_utc": "2026-03-31T01:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "1a659bce2738563b1f12ad35ae631450@hamcal",
+    "summary": "QCX Challenge",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-03-30T19:00:00Z",
+    "end_utc": "2026-03-30T20:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "cb8c82210ffb00afc155036f1c953b87@hamcal",
+    "summary": "QCX Challenge",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-03-30T13:00:00Z",
+    "end_utc": "2026-03-30T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "a48ddc8dd348294e16a08594006e2e46@hamcal",
+    "summary": "QCX Challenge",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-03-31T03:00:00Z",
+    "end_utc": "2026-03-31T04:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "03a0add66c1d9e063890e7ebf816c8b9@hamcal",
+    "summary": "20",
+    "description": "",
+    "url": "https://www.sk3bg.se/contest/",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-03-30T00:00:00Z",
+    "end_utc": "2026-04-01T00:00:00Z",
+    "source": "sm3cer"
   },
   {
     "uid": "a1389ba771de9b5ebae51719151eb443@hamcal",
