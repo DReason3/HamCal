@@ -1,32 +1,5 @@
 [
   {
-    "uid": "fa6cc7fe4933a1230e44cb9ef4c843bb@hamcal",
-    "summary": "QCX Challenge",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-27T13:00:00Z",
-    "end_utc": "2026-04-27T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "713be2df3035a36cb575ef82bca44f87@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-04-27T13:00:00Z",
-    "end_utc": "2026-04-27T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
     "uid": "ab88d482dfc803b54632f4e0d193bf9d@hamcal",
     "summary": "UK/EI DX Contest\\, CW",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
@@ -38,153 +11,6 @@
     "mode": "CW",
     "start_utc": "2026-04-25T12:00:00Z",
     "end_utc": "2026-04-26T12:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "8580f6fb659a9b2361399b9e846cf417@hamcal",
-    "summary": "Nebraska QSO Party",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-25T14:00:00Z",
-    "end_utc": "2026-04-27T02:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "95623cdbc6fda6cf82afc3933d7c54a7@hamcal",
-    "summary": "K1USN Slow Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-27T00:00:00Z",
-    "end_utc": "2026-04-27T01:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "704bce477d217e80164ce46c27dbd0f9@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-04-30T03:00:00Z",
-    "end_utc": "2026-04-30T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "227fb3ee7a325b173bb3e8884366c5dd@hamcal",
-    "summary": "RSGB 80m Club Championship\\, Data",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "start_utc": "2026-04-30T19:00:00Z",
-    "end_utc": "2026-04-30T20:30:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "dca95b231e677b8f30feb0529ec2f0bf@hamcal",
-    "summary": "BARTG Sprint 75",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-26T17:00:00Z",
-    "end_utc": "2026-04-26T20:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "92354e36cc5991ad21b83899054bc23b@hamcal",
-    "summary": "UA1DZ Memorial Cup",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-26T13:00:00Z",
-    "end_utc": "2026-04-26T18:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "532f81cff126f9449ee99e46544e18a5@hamcal",
-    "summary": "432 MHz Spring Sprint",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-29T23:00:00Z",
-    "end_utc": "2026-04-30T06:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "1f07ab4c5ba02ef62ab78d05dc34ef85@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-04-27T19:00:00Z",
-    "end_utc": "2026-04-27T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "b368cb47da02515deb9e09c5a7f4b28b@hamcal",
-    "summary": "Tipalayo DX Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-25T08:00:00Z",
-    "end_utc": "2026-04-26T11:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "7d83759f69bcba8c7966965b193394de@hamcal",
-    "summary": "OK1WC Memorial (MWC)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-27T16:30:00Z",
-    "end_utc": "2026-04-27T17:29:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "93cd8cdf09750eb0b96bdbcab9b22972@hamcal",
-    "summary": "Phone Weekly Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "start_utc": "2026-04-29T02:30:00Z",
-    "end_utc": "2026-04-29T03:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -201,83 +27,16 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "85b0db16069f6c58b75e299b094f778d@hamcal",
-    "summary": "Helvetia Contest",
+    "uid": "a1a72bb3db7a042659861ec726c64034@hamcal",
+    "summary": "Worldwide Sideband Activity Contest",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-04-25T13:00:00Z",
-    "end_utc": "2026-04-26T12:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "e0b57373e0dcf5aa83acd77b087bab15@hamcal",
-    "summary": "Mini-Test 40",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-29T17:00:00Z",
-    "end_utc": "2026-04-29T17:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "bd51205050fddf8e8296e58052d8b40c@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-04-29T13:00:00Z",
-    "end_utc": "2026-04-29T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "42d762cd258f0c46f5e1f310f30009ec@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-04-29T19:00:00Z",
-    "end_utc": "2026-04-29T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "cc01e2fef5df4d1bbc47a914ce2fbaa1@hamcal",
-    "summary": "QCX Challenge",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-27T19:00:00Z",
-    "end_utc": "2026-04-27T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "940f0a1913733a5aba42b8639f3cbc00@hamcal",
-    "summary": "Florida QSO Party",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-26T12:00:00Z",
-    "end_utc": "2026-04-26T21:59:00Z",
+    "start_utc": "2026-04-28T01:00:00Z",
+    "end_utc": "2026-04-28T01:59:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -294,7 +53,46 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "5fad26e2b7e4e384dce8fc3a4c486e7b@hamcal",
+    "uid": "92354e36cc5991ad21b83899054bc23b@hamcal",
+    "summary": "UA1DZ Memorial Cup",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-26T13:00:00Z",
+    "end_utc": "2026-04-26T18:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "7d83759f69bcba8c7966965b193394de@hamcal",
+    "summary": "OK1WC Memorial (MWC)",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-27T16:30:00Z",
+    "end_utc": "2026-04-27T17:29:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "fa6cc7fe4933a1230e44cb9ef4c843bb@hamcal",
+    "summary": "QCX Challenge",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-27T13:00:00Z",
+    "end_utc": "2026-04-27T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "940f0a1913733a5aba42b8639f3cbc00@hamcal",
     "summary": "Florida QSO Party",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
@@ -302,22 +100,8 @@
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-04-25T16:00:00Z",
-    "end_utc": "2026-04-26T01:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "e078b66b32affb2e8f8f1e4f1a365bce@hamcal",
-    "summary": "RSGB FT4 Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "start_utc": "2026-04-27T19:00:00Z",
-    "end_utc": "2026-04-27T21:00:00Z",
+    "start_utc": "2026-04-26T12:00:00Z",
+    "end_utc": "2026-04-26T21:59:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -335,29 +119,110 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "770efa5fbafe7d1dc49def0d1f1d0a04@hamcal",
-    "summary": "A1Club AWT",
+    "uid": "93cd8cdf09750eb0b96bdbcab9b22972@hamcal",
+    "summary": "Phone Weekly Test",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
-      "contest"
+      "contest",
+      "phone"
     ],
-    "mode": "",
-    "start_utc": "2026-04-29T11:45:00Z",
-    "end_utc": "2026-04-29T13:00:00Z",
+    "mode": "PHONE",
+    "start_utc": "2026-04-29T02:30:00Z",
+    "end_utc": "2026-04-29T03:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "a1a72bb3db7a042659861ec726c64034@hamcal",
-    "summary": "Worldwide Sideband Activity Contest",
+    "uid": "b368cb47da02515deb9e09c5a7f4b28b@hamcal",
+    "summary": "Tipalayo DX Contest",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-04-28T01:00:00Z",
-    "end_utc": "2026-04-28T01:59:00Z",
+    "start_utc": "2026-04-25T08:00:00Z",
+    "end_utc": "2026-04-26T11:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "1f07ab4c5ba02ef62ab78d05dc34ef85@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-04-27T19:00:00Z",
+    "end_utc": "2026-04-27T20:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "bd51205050fddf8e8296e58052d8b40c@hamcal",
+    "summary": "CWops Test (CWT)",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-04-29T13:00:00Z",
+    "end_utc": "2026-04-29T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "5d88f523954255813ebb1abec6fa13c0@hamcal",
+    "summary": "UKEICC 80m Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-29T20:00:00Z",
+    "end_utc": "2026-04-29T21:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "cc01e2fef5df4d1bbc47a914ce2fbaa1@hamcal",
+    "summary": "QCX Challenge",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-27T19:00:00Z",
+    "end_utc": "2026-04-27T20:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "532f81cff126f9449ee99e46544e18a5@hamcal",
+    "summary": "432 MHz Spring Sprint",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-29T23:00:00Z",
+    "end_utc": "2026-04-30T06:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "8580f6fb659a9b2361399b9e846cf417@hamcal",
+    "summary": "Nebraska QSO Party",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-25T14:00:00Z",
+    "end_utc": "2026-04-27T02:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -371,6 +236,87 @@
     "mode": "",
     "start_utc": "2026-04-29T18:00:00Z",
     "end_utc": "2026-04-29T18:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "e0b57373e0dcf5aa83acd77b087bab15@hamcal",
+    "summary": "Mini-Test 40",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-29T17:00:00Z",
+    "end_utc": "2026-04-29T17:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "227fb3ee7a325b173bb3e8884366c5dd@hamcal",
+    "summary": "RSGB 80m Club Championship\\, Data",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "phone"
+    ],
+    "mode": "PHONE",
+    "start_utc": "2026-04-30T19:00:00Z",
+    "end_utc": "2026-04-30T20:30:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "e078b66b32affb2e8f8f1e4f1a365bce@hamcal",
+    "summary": "RSGB FT4 Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "start_utc": "2026-04-27T19:00:00Z",
+    "end_utc": "2026-04-27T21:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "42d762cd258f0c46f5e1f310f30009ec@hamcal",
+    "summary": "CWops Test (CWT)",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-04-29T19:00:00Z",
+    "end_utc": "2026-04-29T20:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "85b0db16069f6c58b75e299b094f778d@hamcal",
+    "summary": "Helvetia Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-25T13:00:00Z",
+    "end_utc": "2026-04-26T12:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "dca95b231e677b8f30feb0529ec2f0bf@hamcal",
+    "summary": "BARTG Sprint 75",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-26T17:00:00Z",
+    "end_utc": "2026-04-26T20:59:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -388,16 +334,57 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "5d88f523954255813ebb1abec6fa13c0@hamcal",
-    "summary": "UKEICC 80m Contest",
+    "uid": "770efa5fbafe7d1dc49def0d1f1d0a04@hamcal",
+    "summary": "A1Club AWT",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-04-29T20:00:00Z",
-    "end_utc": "2026-04-29T21:00:00Z",
+    "start_utc": "2026-04-29T11:45:00Z",
+    "end_utc": "2026-04-29T13:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "713be2df3035a36cb575ef82bca44f87@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-04-27T13:00:00Z",
+    "end_utc": "2026-04-27T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "704bce477d217e80164ce46c27dbd0f9@hamcal",
+    "summary": "CWops Test (CWT)",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-04-30T03:00:00Z",
+    "end_utc": "2026-04-30T04:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "95623cdbc6fda6cf82afc3933d7c54a7@hamcal",
+    "summary": "K1USN Slow Speed Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-27T00:00:00Z",
+    "end_utc": "2026-04-27T01:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -452,188 +439,6 @@
     "start_utc": "2027-06-26T00:00:00Z",
     "end_utc": "2027-06-28T00:00:00Z",
     "source": "arrl-field-day"
-  },
-  {
-    "uid": "050fa9853299ef3615c86491fcf4ec83@hamcal",
-    "summary": "Calhoun Hamfest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-25T00:00:00Z",
-    "end_utc": "2026-04-26T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "953ef3b9c2fcdeddd8a68fe1f06f4082@hamcal",
-    "summary": "Des Moines Radio Amateurs Association Hamfest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-25T00:00:00Z",
-    "end_utc": "2026-04-26T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "2ad46f182f0b2614a08ccd7bac276943@hamcal",
-    "summary": "Emory Tailgate Hamfest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-25T00:00:00Z",
-    "end_utc": "2026-04-26T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "9b9e09af7734bc17e3986542d9de56f9@hamcal",
-    "summary": "Grand Forks Hamfest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-25T00:00:00Z",
-    "end_utc": "2026-04-26T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "008cb587e00f7feb8b3b54030edf2386@hamcal",
-    "summary": "Kansas City Regional Hambash\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-25T00:00:00Z",
-    "end_utc": "2026-04-26T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "1b7523e94477192445d5ae7877a531f3@hamcal",
-    "summary": "Kootenai Amateur Radio Society \"KARS\" Hamfest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-25T00:00:00Z",
-    "end_utc": "2026-04-26T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "93ec7afeab282308b476d097a9a7c07c@hamcal",
-    "summary": "ORC 46th Annual Spring Indoor Swapfest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-25T00:00:00Z",
-    "end_utc": "2026-04-26T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "65b6dfd6a1e133326fd6b21ddedcca64@hamcal",
-    "summary": "Savannah Hamfest and Swapmeet\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-25T00:00:00Z",
-    "end_utc": "2026-04-26T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "897c69c796911f24c0581aae7617122d@hamcal",
-    "summary": "Sullivan Hamfest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-25T00:00:00Z",
-    "end_utc": "2026-04-26T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "7649f04d6663ebf309c747568048d003@hamcal",
-    "summary": "TARCFest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-25T00:00:00Z",
-    "end_utc": "2026-04-26T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "a9ab5cfd3b4bd5d818b7cf0cbb6fe3b2@hamcal",
-    "summary": "Tusco Amateur Radio Club's 2026 Hamfest, Computer & Electronics Show\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-25T00:00:00Z",
-    "end_utc": "2026-04-26T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "658ed820f9172f50da1fc41d52ee98e6@hamcal",
-    "summary": "Winston-Salem Spring Fest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-25T00:00:00Z",
-    "end_utc": "2026-04-26T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "c1962217a1d39fb2399f27c9759e58db@hamcal",
-    "summary": "Wiregrass ARC - Spring Tailgate\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-25T00:00:00Z",
-    "end_utc": "2026-04-26T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "ed028e9d47887b961f07494965f68345@hamcal",
-    "summary": "York Hamfest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-25T00:00:00Z",
-    "end_utc": "2026-04-26T00:00:00Z",
-    "source": "arrl-hamfest"
   },
   {
     "uid": "4be5ea42eee732036ab43e062d602486@hamcal",
@@ -1673,6 +1478,188 @@
     "mode": "",
     "start_utc": "2026-07-11T00:00:00Z",
     "end_utc": "2026-07-12T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "d72028279e7a56e36e5b4784292d04ed@hamcal",
+    "summary": "Intercity Amateur Radio Club Hamfest \t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-07-11T00:00:00Z",
+    "end_utc": "2026-07-12T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "612b8ffe1443764c0859561fe1b8f490@hamcal",
+    "summary": "Magic Repeater Tailgate \t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-07-11T00:00:00Z",
+    "end_utc": "2026-07-12T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "5145e3ebf084a783eb18250f20029fdf@hamcal",
+    "summary": "NW PA Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-07-11T00:00:00Z",
+    "end_utc": "2026-07-12T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "61e9079f5a82e357134c9d864e7efce6@hamcal",
+    "summary": "Roger's RAGS Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-07-11T00:00:00Z",
+    "end_utc": "2026-07-12T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "215ad21789fee267f98c80369ba04048@hamcal",
+    "summary": "Socorro HamFest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-07-11T00:00:00Z",
+    "end_utc": "2026-07-12T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "a3c58e248a1343102105ca338181011d@hamcal",
+    "summary": "SVARC Hamfest, ARRL North Dakota Section Convention\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-07-11T00:00:00Z",
+    "end_utc": "2026-07-12T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "ba0b927890a6f299b1d9c1b8a319368d@hamcal",
+    "summary": "Tidelands Texas City Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-07-11T00:00:00Z",
+    "end_utc": "2026-07-12T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "472c674ceeee8107bfd3979da4e9b0a8@hamcal",
+    "summary": "Tune-Up\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-07-11T00:00:00Z",
+    "end_utc": "2026-07-12T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "40d645d74115f93f2210cb702b15c482@hamcal",
+    "summary": "WI9SM Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-07-11T00:00:00Z",
+    "end_utc": "2026-07-12T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "5c46aa5cd27650cfbeb2b674ed01b10e@hamcal",
+    "summary": "Sussex County ARC Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-07-12T00:00:00Z",
+    "end_utc": "2026-07-13T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "bc9944020e5ee88f18456eafc28642dd@hamcal",
+    "summary": "Utah Valley Ham Radio Fair\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-07-16T00:00:00Z",
+    "end_utc": "2026-07-17T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "6624b8f6a420494c1dbe650b3abdcbb4@hamcal",
+    "summary": "53rd Annual Cary Mid-Summer Swapfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-07-18T00:00:00Z",
+    "end_utc": "2026-07-19T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "b32db92e20b9edb726c5355d571f9339@hamcal",
+    "summary": "Auburn Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-07-18T00:00:00Z",
+    "end_utc": "2026-07-19T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "794439d51b834fb4aa96c7502b7f26f6@hamcal",
+    "summary": "Batavia  Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-07-18T00:00:00Z",
+    "end_utc": "2026-07-19T00:00:00Z",
     "source": "arrl-hamfest"
   }
 ]
