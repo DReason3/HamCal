@@ -1,125 +1,5 @@
 [
   {
-    "uid": "b74cb00b2bf15bf06ad678c01366ccda@hamcal",
-    "summary": "Mini-Test 80",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-29T18:00:00Z",
-    "end_utc": "2026-04-29T18:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "770efa5fbafe7d1dc49def0d1f1d0a04@hamcal",
-    "summary": "A1Club AWT",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-29T11:45:00Z",
-    "end_utc": "2026-04-29T13:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "713be2df3035a36cb575ef82bca44f87@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-04-27T13:00:00Z",
-    "end_utc": "2026-04-27T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "a1a72bb3db7a042659861ec726c64034@hamcal",
-    "summary": "Worldwide Sideband Activity Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-28T01:00:00Z",
-    "end_utc": "2026-04-28T01:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "963f0be3b900281b30d25b8592964325@hamcal",
-    "summary": "ZL Sprint",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-28T08:00:00Z",
-    "end_utc": "2026-04-28T09:29:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "f7a0f6a2e5d8f1ddcfaa95e64d1f91f7@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-04-28T03:00:00Z",
-    "end_utc": "2026-04-28T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "552db3eb87a6140826d10c788dbab559@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-04-30T07:00:00Z",
-    "end_utc": "2026-04-30T08:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "fa6cc7fe4933a1230e44cb9ef4c843bb@hamcal",
-    "summary": "QCX Challenge",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-27T13:00:00Z",
-    "end_utc": "2026-04-27T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "7d83759f69bcba8c7966965b193394de@hamcal",
-    "summary": "OK1WC Memorial (MWC)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-27T16:30:00Z",
-    "end_utc": "2026-04-27T17:29:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
     "uid": "227fb3ee7a325b173bb3e8884366c5dd@hamcal",
     "summary": "RSGB 80m Club Championship\\, Data",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
@@ -131,59 +11,6 @@
     "mode": "PHONE",
     "start_utc": "2026-04-30T19:00:00Z",
     "end_utc": "2026-04-30T20:30:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "d81037c05c932ff6e3e2a4654e8e31e0@hamcal",
-    "summary": "QCX Challenge",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-28T03:00:00Z",
-    "end_utc": "2026-04-28T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "532f81cff126f9449ee99e46544e18a5@hamcal",
-    "summary": "432 MHz Spring Sprint",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-29T23:00:00Z",
-    "end_utc": "2026-04-30T06:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "5d88f523954255813ebb1abec6fa13c0@hamcal",
-    "summary": "UKEICC 80m Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-29T20:00:00Z",
-    "end_utc": "2026-04-29T21:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "93cd8cdf09750eb0b96bdbcab9b22972@hamcal",
-    "summary": "Phone Weekly Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "start_utc": "2026-04-29T02:30:00Z",
-    "end_utc": "2026-04-29T03:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -201,61 +28,6 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "bd51205050fddf8e8296e58052d8b40c@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-04-29T13:00:00Z",
-    "end_utc": "2026-04-29T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "cc01e2fef5df4d1bbc47a914ce2fbaa1@hamcal",
-    "summary": "QCX Challenge",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-27T19:00:00Z",
-    "end_utc": "2026-04-27T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "e078b66b32affb2e8f8f1e4f1a365bce@hamcal",
-    "summary": "RSGB FT4 Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "start_utc": "2026-04-27T19:00:00Z",
-    "end_utc": "2026-04-27T21:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "1f07ab4c5ba02ef62ab78d05dc34ef85@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-04-27T19:00:00Z",
-    "end_utc": "2026-04-27T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
     "uid": "704bce477d217e80164ce46c27dbd0f9@hamcal",
     "summary": "CWops Test (CWT)",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
@@ -270,6 +42,60 @@
     "source": "wa7bnm-gcal"
   },
   {
+    "uid": "770efa5fbafe7d1dc49def0d1f1d0a04@hamcal",
+    "summary": "A1Club AWT",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-29T11:45:00Z",
+    "end_utc": "2026-04-29T13:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "93cd8cdf09750eb0b96bdbcab9b22972@hamcal",
+    "summary": "Phone Weekly Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "phone"
+    ],
+    "mode": "PHONE",
+    "start_utc": "2026-04-29T02:30:00Z",
+    "end_utc": "2026-04-29T03:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "5d88f523954255813ebb1abec6fa13c0@hamcal",
+    "summary": "UKEICC 80m Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-29T20:00:00Z",
+    "end_utc": "2026-04-29T21:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "bd51205050fddf8e8296e58052d8b40c@hamcal",
+    "summary": "CWops Test (CWT)",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-04-29T13:00:00Z",
+    "end_utc": "2026-04-29T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
     "uid": "e0b57373e0dcf5aa83acd77b087bab15@hamcal",
     "summary": "Mini-Test 40",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
@@ -280,6 +106,59 @@
     "mode": "",
     "start_utc": "2026-04-29T17:00:00Z",
     "end_utc": "2026-04-29T17:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "b74cb00b2bf15bf06ad678c01366ccda@hamcal",
+    "summary": "Mini-Test 80",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-29T18:00:00Z",
+    "end_utc": "2026-04-29T18:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "963f0be3b900281b30d25b8592964325@hamcal",
+    "summary": "ZL Sprint",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-28T08:00:00Z",
+    "end_utc": "2026-04-28T09:29:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "552db3eb87a6140826d10c788dbab559@hamcal",
+    "summary": "CWops Test (CWT)",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-04-30T07:00:00Z",
+    "end_utc": "2026-04-30T08:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "532f81cff126f9449ee99e46544e18a5@hamcal",
+    "summary": "432 MHz Spring Sprint",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-29T23:00:00Z",
+    "end_utc": "2026-04-30T06:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
