@@ -1,16 +1,42 @@
 [
   {
-    "uid": "227fb3ee7a325b173bb3e8884366c5dd@hamcal",
-    "summary": "RSGB 80m Club Championship\\, Data",
+    "uid": "bd51205050fddf8e8296e58052d8b40c@hamcal",
+    "summary": "CWops Test (CWT)",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest",
-      "phone"
+      "cw"
     ],
-    "mode": "PHONE",
-    "start_utc": "2026-04-30T19:00:00Z",
-    "end_utc": "2026-04-30T20:30:00Z",
+    "mode": "CW",
+    "start_utc": "2026-04-29T13:00:00Z",
+    "end_utc": "2026-04-29T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "770efa5fbafe7d1dc49def0d1f1d0a04@hamcal",
+    "summary": "A1Club AWT",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-29T11:45:00Z",
+    "end_utc": "2026-04-29T13:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "5d88f523954255813ebb1abec6fa13c0@hamcal",
+    "summary": "UKEICC 80m Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-29T20:00:00Z",
+    "end_utc": "2026-04-29T21:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -28,7 +54,20 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "704bce477d217e80164ce46c27dbd0f9@hamcal",
+    "uid": "b74cb00b2bf15bf06ad678c01366ccda@hamcal",
+    "summary": "Mini-Test 80",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-04-29T18:00:00Z",
+    "end_utc": "2026-04-29T18:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "552db3eb87a6140826d10c788dbab559@hamcal",
     "summary": "CWops Test (CWT)",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
@@ -37,62 +76,8 @@
       "cw"
     ],
     "mode": "CW",
-    "start_utc": "2026-04-30T03:00:00Z",
-    "end_utc": "2026-04-30T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "770efa5fbafe7d1dc49def0d1f1d0a04@hamcal",
-    "summary": "A1Club AWT",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-29T11:45:00Z",
-    "end_utc": "2026-04-29T13:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "93cd8cdf09750eb0b96bdbcab9b22972@hamcal",
-    "summary": "Phone Weekly Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "start_utc": "2026-04-29T02:30:00Z",
-    "end_utc": "2026-04-29T03:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "5d88f523954255813ebb1abec6fa13c0@hamcal",
-    "summary": "UKEICC 80m Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-29T20:00:00Z",
-    "end_utc": "2026-04-29T21:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "bd51205050fddf8e8296e58052d8b40c@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-04-29T13:00:00Z",
-    "end_utc": "2026-04-29T14:00:00Z",
+    "start_utc": "2026-04-30T07:00:00Z",
+    "end_utc": "2026-04-30T08:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -109,33 +94,21 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "b74cb00b2bf15bf06ad678c01366ccda@hamcal",
-    "summary": "Mini-Test 80",
+    "uid": "227fb3ee7a325b173bb3e8884366c5dd@hamcal",
+    "summary": "RSGB 80m Club Championship\\, Data",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
-      "contest"
+      "contest",
+      "phone"
     ],
-    "mode": "",
-    "start_utc": "2026-04-29T18:00:00Z",
-    "end_utc": "2026-04-29T18:59:00Z",
+    "mode": "PHONE",
+    "start_utc": "2026-04-30T19:00:00Z",
+    "end_utc": "2026-04-30T20:30:00Z",
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "963f0be3b900281b30d25b8592964325@hamcal",
-    "summary": "ZL Sprint",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-04-28T08:00:00Z",
-    "end_utc": "2026-04-28T09:29:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "552db3eb87a6140826d10c788dbab559@hamcal",
+    "uid": "704bce477d217e80164ce46c27dbd0f9@hamcal",
     "summary": "CWops Test (CWT)",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
@@ -144,8 +117,8 @@
       "cw"
     ],
     "mode": "CW",
-    "start_utc": "2026-04-30T07:00:00Z",
-    "end_utc": "2026-04-30T08:00:00Z",
+    "start_utc": "2026-04-30T03:00:00Z",
+    "end_utc": "2026-04-30T04:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
