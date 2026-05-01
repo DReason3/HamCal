@@ -1,34 +1,6 @@
 [
   {
-    "uid": "227fb3ee7a325b173bb3e8884366c5dd@hamcal",
-    "summary": "RSGB 80m Club Championship\\, Data",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "start_utc": "2026-04-30T19:00:00Z",
-    "end_utc": "2026-04-30T20:30:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "552db3eb87a6140826d10c788dbab559@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-04-30T07:00:00Z",
-    "end_utc": "2026-04-30T08:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "7b9ee1c855d9169c70e07b768b705b24@hamcal",
+    "uid": "5eb2a07dfb0fd0f977088be1e67c7ffb@hamcal",
     "summary": "20",
     "description": "",
     "url": "https://www.sk3bg.se/contest/",
@@ -36,8 +8,34 @@
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-04-30T00:00:00Z",
-    "end_utc": "2026-05-02T00:00:00Z",
+    "start_utc": "2026-05-30T00:00:00Z",
+    "end_utc": "2026-06-01T00:00:00Z",
+    "source": "sm3cer"
+  },
+  {
+    "uid": "543cafb211d7328bf26882f5012e78cf@hamcal",
+    "summary": "12",
+    "description": "",
+    "url": "https://www.sk3bg.se/contest/",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-05-15T00:00:00Z",
+    "end_utc": "2026-05-17T00:00:00Z",
+    "source": "sm3cer"
+  },
+  {
+    "uid": "d2b5768f981c56a7bded5968d3459db7@hamcal",
+    "summary": "2",
+    "description": "",
+    "url": "https://www.sk3bg.se/contest/",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-05-06T00:00:00Z",
+    "end_utc": "2026-05-08T00:00:00Z",
     "source": "sm3cer"
   },
   {
@@ -821,6 +819,19 @@
     "source": "arrl-hamfest"
   },
   {
+    "uid": "f301c3992d4358000fc12e2aba6545ac@hamcal",
+    "summary": "Port Ludlow ARC Tailgater Swap Meet\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-06-13T00:00:00Z",
+    "end_utc": "2026-06-14T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
     "uid": "24fc220a6dede4486d46e08d20b94686@hamcal",
     "summary": "BreezeShooters Hamfest, Computer and Electronics Show, ARRL Western Pennsylvania Section Convention \t\t\t\r",
     "description": "",
@@ -1018,6 +1029,19 @@
   {
     "uid": "0ae3db7001bacf3495d708c9df853b22@hamcal",
     "summary": "28th Annual Pioneer Amateur Radio Club Flea Market\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-07-11T00:00:00Z",
+    "end_utc": "2026-07-12T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "d3c89e2bab72caaf631e55743cfe132e@hamcal",
+    "summary": "39th Annual Hermon Hamfest\t\t\t\r",
     "description": "",
     "url": "https://www.arrl.org/hamfests/search",
     "categories": [
@@ -1265,32 +1289,6 @@
   {
     "uid": "241ee2e665270c795fe682a0513faa4c@hamcal",
     "summary": "McMinn County ARC Ham Fest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-07-18T00:00:00Z",
-    "end_utc": "2026-07-19T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "ee215675353b53c109e798372b29b8f4@hamcal",
-    "summary": "Southwest Iowa Amateur Radio Association Ham Fest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-07-18T00:00:00Z",
-    "end_utc": "2026-07-19T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "272475c3975dfdaa0e3a846c80e120ff@hamcal",
-    "summary": "Warrensburg Area Amateur Radio Club, Inc. Hamfest 2026\t\t\t\r",
     "description": "",
     "url": "https://www.arrl.org/hamfests/search",
     "categories": [
