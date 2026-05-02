@@ -65,19 +65,6 @@
     "source": "arrl-field-day"
   },
   {
-    "uid": "917e05b2bfabef703a21d5739d72687d@hamcal",
-    "summary": "05/02/2026\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-05-01T00:00:00Z",
-    "end_utc": "2026-05-02T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
     "uid": "3817d887782369e07bbbf32a4de45a55@hamcal",
     "summary": "25th Annual PARC Hamfest\t\t\t\r",
     "description": "",
@@ -93,19 +80,6 @@
   {
     "uid": "6adfe0ed193d8e5301450c8906bfe05a@hamcal",
     "summary": "A.R.A.C. Hamfest\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-05-02T00:00:00Z",
-    "end_utc": "2026-05-03T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "ed6871943a23996bd3ec6cdd3b158624@hamcal",
-    "summary": "BRARS Radio Rally 2026\t\t\t\r",
     "description": "",
     "url": "https://www.arrl.org/hamfests/search",
     "categories": [
@@ -1289,6 +1263,19 @@
   {
     "uid": "241ee2e665270c795fe682a0513faa4c@hamcal",
     "summary": "McMinn County ARC Ham Fest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-07-18T00:00:00Z",
+    "end_utc": "2026-07-19T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "ee215675353b53c109e798372b29b8f4@hamcal",
+    "summary": "Southwest Iowa Amateur Radio Association Ham Fest\t\t\t\r",
     "description": "",
     "url": "https://www.arrl.org/hamfests/search",
     "categories": [
