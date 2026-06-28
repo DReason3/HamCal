@@ -1,18 +1,5 @@
 [
   {
-    "uid": "121e82d8026ca4d723ec1aedcf2cbb7e@hamcal",
-    "summary": "K1USN Slow Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-06-29T00:00:00Z",
-    "end_utc": "2026-06-29T01:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
     "uid": "02a8bc4e13dc8e25e83b4742de4312c0@hamcal",
     "summary": "QCX Challenge",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
@@ -23,6 +10,19 @@
     "mode": "",
     "start_utc": "2026-06-30T03:00:00Z",
     "end_utc": "2026-06-30T04:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "121e82d8026ca4d723ec1aedcf2cbb7e@hamcal",
+    "summary": "K1USN Slow Speed Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-06-29T00:00:00Z",
+    "end_utc": "2026-06-29T01:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -40,7 +40,7 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "5c84868cc02a3f6c3d23018542e56495@hamcal",
+    "uid": "96841426e3beacab692e48b7a6c3e7b5@hamcal",
     "summary": "ICWC Medium Speed Test",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
@@ -49,60 +49,8 @@
       "cw"
     ],
     "mode": "CW",
-    "start_utc": "2026-06-30T03:00:00Z",
-    "end_utc": "2026-06-30T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "39c654e61498ac3bc1b890ac4ced533a@hamcal",
-    "summary": "QCX Challenge",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
     "start_utc": "2026-06-29T13:00:00Z",
     "end_utc": "2026-06-29T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "d02d6714561cc825b34072036aed5012@hamcal",
-    "summary": "Tuesday's Telegraphy Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-06-30T19:30:00Z",
-    "end_utc": "2026-06-30T20:30:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "7bb268db804051114ad853f1f0e72d38@hamcal",
-    "summary": "UFT QRP Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-06-27T14:00:00Z",
-    "end_utc": "2026-06-27T17:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "9b17d53b59a9e717e30f01635c1467a1@hamcal",
-    "summary": "OK1WC Memorial (MWC)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-06-29T16:30:00Z",
-    "end_utc": "2026-06-29T17:29:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -120,6 +68,46 @@
     "source": "wa7bnm-gcal"
   },
   {
+    "uid": "39c654e61498ac3bc1b890ac4ced533a@hamcal",
+    "summary": "QCX Challenge",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-06-29T13:00:00Z",
+    "end_utc": "2026-06-29T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "9b17d53b59a9e717e30f01635c1467a1@hamcal",
+    "summary": "OK1WC Memorial (MWC)",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-06-29T16:30:00Z",
+    "end_utc": "2026-06-29T17:29:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "5c84868cc02a3f6c3d23018542e56495@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-06-30T03:00:00Z",
+    "end_utc": "2026-06-30T04:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
     "uid": "7964959d4bbf660b542d04c4320272c1@hamcal",
     "summary": "ARRL Field Day",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
@@ -134,16 +122,16 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "89ef268ea717392172993230025ac448@hamcal",
-    "summary": "UFT QRP Contest",
+    "uid": "d02d6714561cc825b34072036aed5012@hamcal",
+    "summary": "Tuesday's Telegraphy Contest",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-06-27T06:00:00Z",
-    "end_utc": "2026-06-27T09:00:00Z",
+    "start_utc": "2026-06-30T19:30:00Z",
+    "end_utc": "2026-06-30T20:30:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -157,20 +145,6 @@
     "mode": "",
     "start_utc": "2026-06-30T01:00:00Z",
     "end_utc": "2026-06-30T01:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "96841426e3beacab692e48b7a6c3e7b5@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-06-29T13:00:00Z",
-    "end_utc": "2026-06-29T14:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -224,19 +198,6 @@
     "start_utc": "2027-06-26T00:00:00Z",
     "end_utc": "2027-06-28T00:00:00Z",
     "source": "arrl-field-day"
-  },
-  {
-    "uid": "2484b9a56279a1aea08fbc34570e3805@hamcal",
-    "summary": "W8ACW-Trunk Sale/Field Day\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-06-27T00:00:00Z",
-    "end_utc": "2026-06-28T00:00:00Z",
-    "source": "arrl-hamfest"
   },
   {
     "uid": "b05d67dc26976260359aa3505a376e39@hamcal",
@@ -1450,6 +1411,19 @@
   {
     "uid": "b629659b40c06df07dd4bcf48d3fe97c@hamcal",
     "summary": "Lancaster Hamfest \t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-12T00:00:00Z",
+    "end_utc": "2026-09-13T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "799b76c0d67641e0102eb3742742be6f@hamcal",
+    "summary": "MARC Tailgate Hamfest\t\t\t\r",
     "description": "",
     "url": "https://www.arrl.org/hamfests/search",
     "categories": [
