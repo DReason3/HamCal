@@ -13,42 +13,14 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "121e82d8026ca4d723ec1aedcf2cbb7e@hamcal",
-    "summary": "K1USN Slow Speed Test",
+    "uid": "39c654e61498ac3bc1b890ac4ced533a@hamcal",
+    "summary": "QCX Challenge",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-06-29T00:00:00Z",
-    "end_utc": "2026-06-29T01:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "653b04e122c48733304cccb3ceb89eee@hamcal",
-    "summary": "His Maj. King of Spain Contest\\, SSB",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "start_utc": "2026-06-27T12:00:00Z",
-    "end_utc": "2026-06-28T12:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "96841426e3beacab692e48b7a6c3e7b5@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
     "start_utc": "2026-06-29T13:00:00Z",
     "end_utc": "2026-06-29T14:00:00Z",
     "source": "wa7bnm-gcal"
@@ -68,7 +40,33 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "39c654e61498ac3bc1b890ac4ced533a@hamcal",
+    "uid": "d2dc3bf80718159da0cea9b14546bac9@hamcal",
+    "summary": "Worldwide Sideband Activity Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-06-30T01:00:00Z",
+    "end_utc": "2026-06-30T01:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "d02d6714561cc825b34072036aed5012@hamcal",
+    "summary": "Tuesday's Telegraphy Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-06-30T19:30:00Z",
+    "end_utc": "2026-06-30T20:30:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "8b05ffbbba8a6e3c62f80d0ce858ccdf@hamcal",
     "summary": "QCX Challenge",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
@@ -76,8 +74,8 @@
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-06-29T13:00:00Z",
-    "end_utc": "2026-06-29T14:00:00Z",
+    "start_utc": "2026-06-29T19:00:00Z",
+    "end_utc": "2026-06-29T20:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -108,56 +106,17 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "7964959d4bbf660b542d04c4320272c1@hamcal",
-    "summary": "ARRL Field Day",
+    "uid": "96841426e3beacab692e48b7a6c3e7b5@hamcal",
+    "summary": "ICWC Medium Speed Test",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest",
-      "field-day"
+      "cw"
     ],
-    "mode": "",
-    "start_utc": "2026-06-27T18:00:00Z",
-    "end_utc": "2026-06-28T21:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "d02d6714561cc825b34072036aed5012@hamcal",
-    "summary": "Tuesday's Telegraphy Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-06-30T19:30:00Z",
-    "end_utc": "2026-06-30T20:30:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "d2dc3bf80718159da0cea9b14546bac9@hamcal",
-    "summary": "Worldwide Sideband Activity Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-06-30T01:00:00Z",
-    "end_utc": "2026-06-30T01:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "8b05ffbbba8a6e3c62f80d0ce858ccdf@hamcal",
-    "summary": "QCX Challenge",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-06-29T19:00:00Z",
-    "end_utc": "2026-06-29T20:00:00Z",
+    "mode": "CW",
+    "start_utc": "2026-06-29T13:00:00Z",
+    "end_utc": "2026-06-29T14:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
