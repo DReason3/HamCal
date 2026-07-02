@@ -1222,6 +1222,19 @@
     "source": "arrl-hamfest"
   },
   {
+    "uid": "c9130d53375290311dfe24b6e8d9672d@hamcal",
+    "summary": "East Tennessee Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-12T00:00:00Z",
+    "end_utc": "2026-09-13T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
     "uid": "e460b6c879bcfc2d5123dd25d32ff867@hamcal",
     "summary": "ECMARC Rush City Radio Rendezvous\t\t\t\r",
     "description": "",
@@ -1276,19 +1289,6 @@
   {
     "uid": "b629659b40c06df07dd4bcf48d3fe97c@hamcal",
     "summary": "Lancaster Hamfest \t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-09-12T00:00:00Z",
-    "end_utc": "2026-09-13T00:00:00Z",
-    "source": "arrl-hamfest"
-  },
-  {
-    "uid": "799b76c0d67641e0102eb3742742be6f@hamcal",
-    "summary": "MARC Tailgate Hamfest\t\t\t\r",
     "description": "",
     "url": "https://www.arrl.org/hamfests/search",
     "categories": [
