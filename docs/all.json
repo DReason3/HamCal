@@ -1,5 +1,32 @@
 [
   {
+    "uid": "8122483a23fea86924cf1c455601285a@hamcal",
+    "summary": "AWA Amplitude Modulation QSO Party",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "phone"
+    ],
+    "mode": "PHONE",
+    "start_utc": "2026-09-26T20:00:00Z",
+    "end_utc": "2026-09-27T23:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "b60080e757c94d8f0ce8dec9ad9336d9@hamcal",
+    "summary": "222 MHz Fall Sprint",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-29T23:00:00Z",
+    "end_utc": "2026-09-30T06:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
     "uid": "4088eae0d48f407bb938846a2dfbdd6f@hamcal",
     "summary": "QCX Challenge",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
@@ -13,16 +40,69 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "e1a9cd6650c529dd53a426e9e0f8783f@hamcal",
-    "summary": "UBA ON Contest\\, 6m",
+    "uid": "cbb6bb33bb09ddbd537703aa5bef4e8f@hamcal",
+    "summary": "AGCW VHF/UHF Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-09-26T14:00:00Z",
+    "end_utc": "2026-09-26T18:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "4e86b9e1b86662d6c4e70605b4570183@hamcal",
+    "summary": "Tuesday's Telegraphy Contest",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-09-27T07:00:00Z",
-    "end_utc": "2026-09-27T10:00:00Z",
+    "start_utc": "2026-09-29T19:30:00Z",
+    "end_utc": "2026-09-29T20:20:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "d8fdef748a1989ffc2effca95bb0480c@hamcal",
+    "summary": "QCX Challenge",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-29T03:00:00Z",
+    "end_utc": "2026-09-29T04:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "11a6c4437e7f090a0f08de39898e9da2@hamcal",
+    "summary": "Maine QSO Party",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-26T12:00:00Z",
+    "end_utc": "2026-09-27T12:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "d079840a6958dbd0e51994db6a3e7d28@hamcal",
+    "summary": "Bill Windle QSO Party",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-26T00:00:00Z",
+    "end_utc": "2026-09-26T23:59:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -52,100 +132,6 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "cbb6bb33bb09ddbd537703aa5bef4e8f@hamcal",
-    "summary": "AGCW VHF/UHF Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-09-26T14:00:00Z",
-    "end_utc": "2026-09-26T18:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "11a6c4437e7f090a0f08de39898e9da2@hamcal",
-    "summary": "Maine QSO Party",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-09-26T12:00:00Z",
-    "end_utc": "2026-09-27T12:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "d8fdef748a1989ffc2effca95bb0480c@hamcal",
-    "summary": "QCX Challenge",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-09-29T03:00:00Z",
-    "end_utc": "2026-09-29T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "e5c72ed89cf3be9095d40f4d849846e5@hamcal",
-    "summary": "A1Club AWT",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-09-30T11:45:00Z",
-    "end_utc": "2026-09-30T13:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "d36673c09b0354111275793dfe1bb624@hamcal",
-    "summary": "RSGB FT4 Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "start_utc": "2026-09-28T19:00:00Z",
-    "end_utc": "2026-09-28T21:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "d83c807ed486e6b6395f72c48218bec6@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-09-28T19:00:00Z",
-    "end_utc": "2026-09-28T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "1a1eae94e8ce7d3e2e179eaadc8d8da2@hamcal",
-    "summary": "K1USN Slow Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-09-25T20:00:00Z",
-    "end_utc": "2026-09-25T21:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
     "uid": "803424b5f3b34b43f0d97a6512e1e575@hamcal",
     "summary": "CQ Worldwide DX Contest\\, RTTY",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
@@ -157,141 +143,6 @@
     "mode": "DIGITAL",
     "start_utc": "2026-09-26T00:00:00Z",
     "end_utc": "2026-09-27T23:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "b506694f4c300dc636b4b3264ff6f288@hamcal",
-    "summary": "OK1WC Memorial (MWC)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-09-28T16:30:00Z",
-    "end_utc": "2026-09-28T17:29:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "d079840a6958dbd0e51994db6a3e7d28@hamcal",
-    "summary": "Bill Windle QSO Party",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-09-26T00:00:00Z",
-    "end_utc": "2026-09-26T23:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "4e86b9e1b86662d6c4e70605b4570183@hamcal",
-    "summary": "Tuesday's Telegraphy Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-09-29T19:30:00Z",
-    "end_utc": "2026-09-29T20:20:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "8122483a23fea86924cf1c455601285a@hamcal",
-    "summary": "AWA Amplitude Modulation QSO Party",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "start_utc": "2026-09-26T20:00:00Z",
-    "end_utc": "2026-09-27T23:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "b60080e757c94d8f0ce8dec9ad9336d9@hamcal",
-    "summary": "222 MHz Fall Sprint",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-09-29T23:00:00Z",
-    "end_utc": "2026-09-30T06:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "d98c84c2e7f93d834123c62a73f172ff@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-09-30T13:00:00Z",
-    "end_utc": "2026-09-30T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "f1e8cb603f8187c37c959ae76da0d8dc@hamcal",
-    "summary": "Phone Weekly Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "start_utc": "2026-09-30T02:30:00Z",
-    "end_utc": "2026-09-30T03:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "5309433cc1d9283e5529c15a26e56cb9@hamcal",
-    "summary": "Masonic Lodges on the Air",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-09-26T14:00:00Z",
-    "end_utc": "2026-09-26T22:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "7cdb3adeef5c260af92db7356dbd1184@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-09-29T03:00:00Z",
-    "end_utc": "2026-09-29T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "b3480b5e4e874b7fbb3ede62b40b964d@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-09-28T13:00:00Z",
-    "end_utc": "2026-09-28T14:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -322,16 +173,29 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "906569d67a57a5128f861fa67b09adce@hamcal",
-    "summary": "Worldwide Sideband Activity Contest",
+    "uid": "b506694f4c300dc636b4b3264ff6f288@hamcal",
+    "summary": "OK1WC Memorial (MWC)",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-09-29T01:00:00Z",
-    "end_utc": "2026-09-29T01:59:00Z",
+    "start_utc": "2026-09-28T16:30:00Z",
+    "end_utc": "2026-09-28T17:29:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "e5c72ed89cf3be9095d40f4d849846e5@hamcal",
+    "summary": "A1Club AWT",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-30T11:45:00Z",
+    "end_utc": "2026-09-30T13:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -348,16 +212,16 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "e988ca8e488f787d0a892f46497abdf2@hamcal",
-    "summary": "QCX Challenge",
+    "uid": "e1a9cd6650c529dd53a426e9e0f8783f@hamcal",
+    "summary": "UBA ON Contest\\, 6m",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-09-28T13:00:00Z",
-    "end_utc": "2026-09-28T14:00:00Z",
+    "start_utc": "2026-09-27T07:00:00Z",
+    "end_utc": "2026-09-27T10:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -371,6 +235,129 @@
     "mode": "",
     "start_utc": "2026-09-28T00:00:00Z",
     "end_utc": "2026-09-28T01:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "d98c84c2e7f93d834123c62a73f172ff@hamcal",
+    "summary": "CWops Test (CWT)",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-09-30T13:00:00Z",
+    "end_utc": "2026-09-30T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "d83c807ed486e6b6395f72c48218bec6@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-09-28T19:00:00Z",
+    "end_utc": "2026-09-28T20:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "e988ca8e488f787d0a892f46497abdf2@hamcal",
+    "summary": "QCX Challenge",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-28T13:00:00Z",
+    "end_utc": "2026-09-28T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "5309433cc1d9283e5529c15a26e56cb9@hamcal",
+    "summary": "Masonic Lodges on the Air",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-26T14:00:00Z",
+    "end_utc": "2026-09-26T22:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "b3480b5e4e874b7fbb3ede62b40b964d@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-09-28T13:00:00Z",
+    "end_utc": "2026-09-28T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "7cdb3adeef5c260af92db7356dbd1184@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-09-29T03:00:00Z",
+    "end_utc": "2026-09-29T04:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "906569d67a57a5128f861fa67b09adce@hamcal",
+    "summary": "Worldwide Sideband Activity Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-29T01:00:00Z",
+    "end_utc": "2026-09-29T01:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "d36673c09b0354111275793dfe1bb624@hamcal",
+    "summary": "RSGB FT4 Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "start_utc": "2026-09-28T19:00:00Z",
+    "end_utc": "2026-09-28T21:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "f1e8cb603f8187c37c959ae76da0d8dc@hamcal",
+    "summary": "Phone Weekly Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "phone"
+    ],
+    "mode": "PHONE",
+    "start_utc": "2026-09-30T02:30:00Z",
+    "end_utc": "2026-09-30T03:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -411,5 +398,1214 @@
     "start_utc": "2027-06-26T00:00:00Z",
     "end_utc": "2027-06-28T00:00:00Z",
     "source": "arrl-field-day"
+  },
+  {
+    "uid": "01d0255d9e645cae9e630d9e8a6352f9@hamcal",
+    "summary": "Top of Michigan Amateur Radio Club and Thunder Bay Amateur Radio Club Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-26T00:00:00Z",
+    "end_utc": "2026-09-27T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "8e92227964e4a3ae9bad99e564eefd8f@hamcal",
+    "summary": "2026 Elmira HAMFEST\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-26T00:00:00Z",
+    "end_utc": "2026-09-27T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "18d381958fb62654e53855b366181590@hamcal",
+    "summary": "ARANCI Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-26T00:00:00Z",
+    "end_utc": "2026-09-27T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "c0e587e8f93d245776a1123fca5829a2@hamcal",
+    "summary": "CANCELED - Garden State ARA Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-26T00:00:00Z",
+    "end_utc": "2026-09-27T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "a4c51bb81894439e45c88cb0d84ac39a@hamcal",
+    "summary": "Central Arkansas Hamfest & Swap Meet\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-26T00:00:00Z",
+    "end_utc": "2026-09-27T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "5ba508fbdbbce42d5dd7cbd68066c6dc@hamcal",
+    "summary": "Lexington Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-26T00:00:00Z",
+    "end_utc": "2026-09-27T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "5be446daa8b0f27c16488cc50ea19828@hamcal",
+    "summary": "Middle Tennessee Ham Co-op Event\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-26T00:00:00Z",
+    "end_utc": "2026-09-27T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "25ee612ca6a786c12cd980ac07bcb1ae@hamcal",
+    "summary": "Paintsville Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-26T00:00:00Z",
+    "end_utc": "2026-09-27T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "d7c21c90a89a25843ff6ca4924232343@hamcal",
+    "summary": "Red River Radio Amateurs Hamfest, ARRL Minnesota State Convention\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-26T00:00:00Z",
+    "end_utc": "2026-09-27T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "b3a5c4e996b9493b864b2359e0c9fbbd@hamcal",
+    "summary": "Sioux City Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-26T00:00:00Z",
+    "end_utc": "2026-09-27T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "0f47465eac06a24ae3befb99efb2a1dc@hamcal",
+    "summary": "Utah Valley Swapmeet\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-26T00:00:00Z",
+    "end_utc": "2026-09-27T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "9ea851fd432c6e30bf8f0b07cd6ac91c@hamcal",
+    "summary": "Cleveland Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-27T00:00:00Z",
+    "end_utc": "2026-09-28T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "c400d4bbbefd9dabde176864563b4613@hamcal",
+    "summary": "Radio Expo\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-09-27T00:00:00Z",
+    "end_utc": "2026-09-28T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "ea4df5677058703038f629137dc93e91@hamcal",
+    "summary": "10/02/2026\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-01T00:00:00Z",
+    "end_utc": "2026-10-02T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "eab3993fab26e8907e8a264e4a0aed48@hamcal",
+    "summary": "10/03/2026\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-02T00:00:00Z",
+    "end_utc": "2026-10-03T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "a73dbbd4f17fff36827493b4d930c994@hamcal",
+    "summary": "21st Annual Central Wisconsin SwapFest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-03T00:00:00Z",
+    "end_utc": "2026-10-04T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "78cf45096728abbf4dacc841b1bece28@hamcal",
+    "summary": "Copper Country Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-03T00:00:00Z",
+    "end_utc": "2026-10-04T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "1c6bb4dc6b92c8cf3de9ff16786bcd80@hamcal",
+    "summary": "Ham Expo\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-03T00:00:00Z",
+    "end_utc": "2026-10-04T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "39e34ff7db062725626bf00fff296fd2@hamcal",
+    "summary": "Kalamazoo Hamfest and Vintage Electronic Expo\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-03T00:00:00Z",
+    "end_utc": "2026-10-04T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "d9447247cd69d444405f30e94e01846e@hamcal",
+    "summary": "Northwest Ohio Amateur Radio Club 2026 Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-03T00:00:00Z",
+    "end_utc": "2026-10-04T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "c8f6c80a4660c271b1e5750c35feba97@hamcal",
+    "summary": "Red Rose Repeater Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-03T00:00:00Z",
+    "end_utc": "2026-10-04T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "51b0d2beefc051b571badf571617faa6@hamcal",
+    "summary": "Rock Hill Hamfest, ARRL South Carolina Section Convention\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-03T00:00:00Z",
+    "end_utc": "2026-10-04T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "8add6c49b10261ce31d2f905b836d6d1@hamcal",
+    "summary": "Shelbyville Tailgate\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-03T00:00:00Z",
+    "end_utc": "2026-10-04T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "8e59c7c6a759314866acce7f97194879@hamcal",
+    "summary": "Third Annual Micro Expo, ARRL Santa Barbara Section Convention\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-03T00:00:00Z",
+    "end_utc": "2026-10-04T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "08895c26e35d2e1fa4e2e8ced259f04c@hamcal",
+    "summary": "Wichita Area Hamfest, ARRL Kansas Section Convention\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-03T00:00:00Z",
+    "end_utc": "2026-10-04T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "f3ab95386df6faa3155b3f289f2ecc9f@hamcal",
+    "summary": "BARCfest Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-04T00:00:00Z",
+    "end_utc": "2026-10-05T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "e416b0760e9b0cd8bd9836c87e6432d2@hamcal",
+    "summary": "CARA Fest 2026\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-04T00:00:00Z",
+    "end_utc": "2026-10-05T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "aec5e8a583e006f33090d483a0674e56@hamcal",
+    "summary": "Southeast Iowa Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-04T00:00:00Z",
+    "end_utc": "2026-10-05T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "c729bb422e3c4cfe18b1880ad4c345f8@hamcal",
+    "summary": "RV Radio Network Fall Rally \t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-05T00:00:00Z",
+    "end_utc": "2026-10-06T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "e46fe5a9684331dd7b774a8b8cea1b5f@hamcal",
+    "summary": "10/10/2026\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-09T00:00:00Z",
+    "end_utc": "2026-10-10T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "7fcd34f0515560106bbe68fd69e933c0@hamcal",
+    "summary": "2nd Annual Dutch Fork Amateur Radio Group Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-10T00:00:00Z",
+    "end_utc": "2026-10-11T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "412e01b88e8ef7156ef50ad3a84626b6@hamcal",
+    "summary": "Atlanta Ham Expo\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-10T00:00:00Z",
+    "end_utc": "2026-10-11T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "9d89369decaa0a7856638b8a05eae253@hamcal",
+    "summary": "BARA Bergen Amateur Radio Assoc Fall Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-10T00:00:00Z",
+    "end_utc": "2026-10-11T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "a871862ea9c4fc6dc3fa4c09b686bc50@hamcal",
+    "summary": "Hagerstown TailgateFest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-10T00:00:00Z",
+    "end_utc": "2026-10-11T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "bf2b22a8f0643a0aea504d069124766b@hamcal",
+    "summary": "KCARC Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-10T00:00:00Z",
+    "end_utc": "2026-10-11T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "dcc8f30c387f87d7dd6566fe9eb98d1d@hamcal",
+    "summary": "NOARC Annual Hamfest \t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-10T00:00:00Z",
+    "end_utc": "2026-10-11T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "351eac39fc7a217cca35ec7d8c777751@hamcal",
+    "summary": "North Star Radio Convention, ARRL Dakota Division Convention\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-10T00:00:00Z",
+    "end_utc": "2026-10-11T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "d8f37efe6c0fcc96d7147215b72c6457@hamcal",
+    "summary": "Redding 2026 Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-10T00:00:00Z",
+    "end_utc": "2026-10-11T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "419b1d26a65761c1676604aa2aa5caca@hamcal",
+    "summary": "SMCfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-10T00:00:00Z",
+    "end_utc": "2026-10-11T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "a2ed53ddb58993e6ca1abdaf22887cea@hamcal",
+    "summary": "Swaptoberfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-10T00:00:00Z",
+    "end_utc": "2026-10-11T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "c0f67cc4ea79115e489730a389f61aa2@hamcal",
+    "summary": "The Hoosier Hills Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-10T00:00:00Z",
+    "end_utc": "2026-10-11T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "565b046564d0755980655f6104eb690a@hamcal",
+    "summary": "Williams County ARA Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-10T00:00:00Z",
+    "end_utc": "2026-10-11T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "4c5a09967729fada71ed0b1aab69e6b8@hamcal",
+    "summary": "Winston-Salem Fall Fest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-10T00:00:00Z",
+    "end_utc": "2026-10-11T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "09dd60064eb21871ebb88977bfad0027@hamcal",
+    "summary": "Wisconsin ARES/RACES Conference\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-10T00:00:00Z",
+    "end_utc": "2026-10-11T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "40d257a6515ef796d93b84e2b87d879c@hamcal",
+    "summary": "Ashland Trunkfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-11T00:00:00Z",
+    "end_utc": "2026-10-12T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "1f8d1a78a947ed6110da7a24e9ecc2f0@hamcal",
+    "summary": "HamFest, ARRL Southern New Jersey Section Convention\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-11T00:00:00Z",
+    "end_utc": "2026-10-12T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "7a5a9cde18c596934337c86ef7cf8445@hamcal",
+    "summary": "Maysville Hamfest \t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-11T00:00:00Z",
+    "end_utc": "2026-10-12T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "168e02a4219363dfbf2c98af419b74c3@hamcal",
+    "summary": "Nutmeg Hamfest, ARRL Connecticut State Convention\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-11T00:00:00Z",
+    "end_utc": "2026-10-12T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "9091df09c7001d17030cc2f63132ca5c@hamcal",
+    "summary": "10/17/2026\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-16T00:00:00Z",
+    "end_utc": "2026-10-17T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "1a2c5b0264401ca0be417b01c0c52cbb@hamcal",
+    "summary": "10/18/2026\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-16T00:00:00Z",
+    "end_utc": "2026-10-17T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "87e173817dff424334ad84d285375b95@hamcal",
+    "summary": "3900 Club Hamboree\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-17T00:00:00Z",
+    "end_utc": "2026-10-18T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "d8cea8aa76e8785ef3fc45655c82b97e@hamcal",
+    "summary": "CANCELED - Short Mountain Repeater Club Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-17T00:00:00Z",
+    "end_utc": "2026-10-18T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "4379f8e4d74a8a458aa8c9ae73d957f0@hamcal",
+    "summary": "Hamtober Fest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-17T00:00:00Z",
+    "end_utc": "2026-10-18T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "553a5b72623f527adc0dbdc1e5e7e3c0@hamcal",
+    "summary": "Hidden Valleys Amateur Radio Club FREE HAMFEST\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-17T00:00:00Z",
+    "end_utc": "2026-10-18T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "c16c42f9c0fcd578c64636b551508beb@hamcal",
+    "summary": "Mount Beacon Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-17T00:00:00Z",
+    "end_utc": "2026-10-18T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "e862358ea4039125bc9b2e77a731832e@hamcal",
+    "summary": "Muskegon Color Tour Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-17T00:00:00Z",
+    "end_utc": "2026-10-18T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "001caf9fe1c281f21c7f91b003c10e94@hamcal",
+    "summary": "Papa Jack's Trade Day\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-17T00:00:00Z",
+    "end_utc": "2026-10-18T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "ef54cd97554cc86afa51f56bcf1701fb@hamcal",
+    "summary": "SMCARA Tailgate\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-17T00:00:00Z",
+    "end_utc": "2026-10-18T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "6ec500b6549b1a2bbd7238e5a0159c55@hamcal",
+    "summary": "Swaptoberfest 2026\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-17T00:00:00Z",
+    "end_utc": "2026-10-18T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "9e4a22982236f089b43d1d6a46459c90@hamcal",
+    "summary": "RF Hill ARC Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-18T00:00:00Z",
+    "end_utc": "2026-10-19T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "5b91e42d7263622d667a381697b433e1@hamcal",
+    "summary": "ARRL Day in the Park, ARRL Mississippi Section Convention\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-24T00:00:00Z",
+    "end_utc": "2026-10-25T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "ae7ed59a6b26ffb72f020fac0224ba27@hamcal",
+    "summary": "Oktoberfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-24T00:00:00Z",
+    "end_utc": "2026-10-25T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "317d04d9db432362679e2d68414889e7@hamcal",
+    "summary": "SECARS Auction\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-24T00:00:00Z",
+    "end_utc": "2026-10-25T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "e6d7a9cc4c5f74b1b9baf373efd88e31@hamcal",
+    "summary": "Texoma Hamarama 2026\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-24T00:00:00Z",
+    "end_utc": "2026-10-25T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "85dc64998e4556f8468a26cfa5a398b0@hamcal",
+    "summary": "10/31/2026\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-30T00:00:00Z",
+    "end_utc": "2026-10-31T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "ccc22c0c49da00a9e12af883073cb6c4@hamcal",
+    "summary": "33rd Halloween Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-31T00:00:00Z",
+    "end_utc": "2026-11-01T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "ab74303f47577076306f44f5bc67b91c@hamcal",
+    "summary": "Kentucky Mountains Amateur Radio Club Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-31T00:00:00Z",
+    "end_utc": "2026-11-01T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "75d5333d22a39524e70e43cf81e7e335@hamcal",
+    "summary": "Parker County Hamfest & Emergency Preparedness Expo\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-31T00:00:00Z",
+    "end_utc": "2026-11-01T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "a092925ce3516679ab69bc6c9f381a46@hamcal",
+    "summary": "2026 Massillon ARC Hamfest at MAPS\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-01T00:00:00Z",
+    "end_utc": "2026-11-02T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "cca23d025096d64c003f1fc3ab3f51a5@hamcal",
+    "summary": "37th Annual JARSfest 2026\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-07T00:00:00Z",
+    "end_utc": "2026-11-08T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "936a790f8aa68333e17a06ddf730aa44@hamcal",
+    "summary": "Amateur Radio Festval and Tailgate\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-07T00:00:00Z",
+    "end_utc": "2026-11-08T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "576a314857afe876127263dd7789faf2@hamcal",
+    "summary": "EPARS Fall Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-07T00:00:00Z",
+    "end_utc": "2026-11-08T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "e26156ceaadc5b54f256e27ff9e94566@hamcal",
+    "summary": "FARAFest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-07T00:00:00Z",
+    "end_utc": "2026-11-08T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "abb8eebdf63ae50115e165dba9db9990@hamcal",
+    "summary": "Foley Fall Tailgater\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-07T00:00:00Z",
+    "end_utc": "2026-11-08T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "0ec07a5393c6647070d4175a2dfd84de@hamcal",
+    "summary": "Georgetown / Grant ARC Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-07T00:00:00Z",
+    "end_utc": "2026-11-08T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "936b80bff3db52bbfff46149fefb899c@hamcal",
+    "summary": "Harkfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-07T00:00:00Z",
+    "end_utc": "2026-11-08T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "30d5c5b78aa9c60ade1cf3344d002c69@hamcal",
+    "summary": "Sullivan Fall Swapmeet\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-07T00:00:00Z",
+    "end_utc": "2026-11-08T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "8c5e71db3474ef3dbbebf8a1c7aacf83@hamcal",
+    "summary": "Superstition ARC Superfest, ARRL Arizona State Convention\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-07T00:00:00Z",
+    "end_utc": "2026-11-08T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "b468c1a9e2ce23990d6850ff1a6bc9d8@hamcal",
+    "summary": "FCARC Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-08T00:00:00Z",
+    "end_utc": "2026-11-09T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "6962e15423b98178c4809bf03abd3dd9@hamcal",
+    "summary": "Long Island Hamfest and Electronics Fair\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-08T00:00:00Z",
+    "end_utc": "2026-11-09T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "305dc431d821656ee01e6c1fc0eace5e@hamcal",
+    "summary": "11/14/2026\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-13T00:00:00Z",
+    "end_utc": "2026-11-14T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "f3057a5d869ce5bf1bc4ac815cff212e@hamcal",
+    "summary": "Fannin County ARC Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-14T00:00:00Z",
+    "end_utc": "2026-11-15T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "c52e410e12db676cf742302f39788f48@hamcal",
+    "summary": "K4KDI Tailgate\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-14T00:00:00Z",
+    "end_utc": "2026-11-15T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "f4bd7f29b9289d74261c7b011ace3932@hamcal",
+    "summary": "Montgomery Hamfest, ARRL Alabama State Convention\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-14T00:00:00Z",
+    "end_utc": "2026-11-15T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "4bb6ed931b05c870ddd7dd10c7c8d155@hamcal",
+    "summary": "Nixa ARC Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-14T00:00:00Z",
+    "end_utc": "2026-11-15T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "978002f3c0a1e5e11792ab477dbc1310@hamcal",
+    "summary": "Southern Arizona Fall Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-14T00:00:00Z",
+    "end_utc": "2026-11-15T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "21edc8337125b86920b910f371f562a2@hamcal",
+    "summary": "SPARCFest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-14T00:00:00Z",
+    "end_utc": "2026-11-15T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "832d830545ffb818d09280d0a79052ad@hamcal",
+    "summary": "NJARC Hamfest Swapmeet Show\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-15T00:00:00Z",
+    "end_utc": "2026-11-16T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "8724d7c9a86eb64ffb5fd70eeed42c3a@hamcal",
+    "summary": "Flamingo Net Flea at U. of Miami\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-21T00:00:00Z",
+    "end_utc": "2026-11-22T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "b046f2d2799060820c6ce1f773bb1663@hamcal",
+    "summary": "Fort Wayne Hamfest & Computer Expo\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-21T00:00:00Z",
+    "end_utc": "2026-11-22T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "cb2e858950b3f05f30d394f112da3409@hamcal",
+    "summary": "Northeast Nebraska Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-21T00:00:00Z",
+    "end_utc": "2026-11-22T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "a8ad28201e8cb650e8c452dda3a5422a@hamcal",
+    "summary": "PARC Annual Swampfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-21T00:00:00Z",
+    "end_utc": "2026-11-22T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "d9ca3779d63f5b7d68946af464c895af@hamcal",
+    "summary": "Wabash Valley Amateur Radio Association, Inc. (WVARA) Turkeyfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-28T00:00:00Z",
+    "end_utc": "2026-11-29T00:00:00Z",
+    "source": "arrl-hamfest"
   }
 ]
