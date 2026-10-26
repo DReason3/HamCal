@@ -1,60 +1,6 @@
 [
   {
-    "uid": "7c8b432c1c445074fe20c74d13d99342@hamcal",
-    "summary": "Phone Weekly Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "start_utc": "2026-10-28T02:30:00Z",
-    "end_utc": "2026-10-28T03:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "f2e4d4e9fc0a494374ff796e903e1dab@hamcal",
-    "summary": "Zombie Shuffle",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-10-30T15:00:00Z",
-    "end_utc": "2026-10-30T23:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "9d30645bce3335caab616ad5d340f234@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-10-29T07:00:00Z",
-    "end_utc": "2026-10-29T08:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "bc7cd79f18f1bbd4d88d4b9805f73b5b@hamcal",
-    "summary": "OK1WC Memorial (MWC)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-10-26T16:30:00Z",
-    "end_utc": "2026-10-26T17:29:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "5a559be1e10f33a48d0f8221102fd853@hamcal",
+    "uid": "53f0042b64306510ab963d40ee641647@hamcal",
     "summary": "QCX Challenge",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
@@ -62,118 +8,8 @@
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-10-26T13:00:00Z",
-    "end_utc": "2026-10-26T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "c2212c1d21c800e49b7926dbfa1b7cbf@hamcal",
-    "summary": "Weekly RTTY Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "start_utc": "2026-10-30T01:45:00Z",
-    "end_utc": "2026-10-30T02:15:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "29e0ac398ac2610ed27eb30c399afb8b@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-10-28T13:00:00Z",
-    "end_utc": "2026-10-28T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "71d19a8ceceef2502b8e697664edfdeb@hamcal",
-    "summary": "NCCC Sprint",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-10-30T02:30:00Z",
-    "end_utc": "2026-10-30T03:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "10f1dbcd7897e369f4aa140bbe265d38@hamcal",
-    "summary": "CQ Worldwide DX Contest\\, SSB",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "phone"
-    ],
-    "mode": "PHONE",
-    "start_utc": "2026-10-24T00:00:00Z",
-    "end_utc": "2026-10-25T23:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "30029fb347fed2d06ee3eeabfd0c98b3@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-10-28T19:00:00Z",
-    "end_utc": "2026-10-28T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "ac6c65ed1ef9d5578dc28e597ed17fef@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-10-27T03:00:00Z",
-    "end_utc": "2026-10-27T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "bd8b04e8a10842a1d3b328b541f826a1@hamcal",
-    "summary": "NCCC FT4 Sprint",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "start_utc": "2026-10-30T01:00:00Z",
-    "end_utc": "2026-10-30T01:30:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "7ef15153239c6000d54bb01b8a1003a1@hamcal",
-    "summary": "Russian WW MultiMode Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-10-31T12:00:00Z",
-    "end_utc": "2026-11-01T11:59:00Z",
+    "start_utc": "2026-10-26T19:00:00Z",
+    "end_utc": "2026-10-26T20:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -187,19 +23,6 @@
     "mode": "",
     "start_utc": "2026-10-30T20:00:00Z",
     "end_utc": "2026-10-30T21:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "c13ec2a8fbbf1eb6ca7a4e1f6f80feab@hamcal",
-    "summary": "SKCC Sprint",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-10-28T00:00:00Z",
-    "end_utc": "2026-10-28T02:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -230,30 +53,29 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "453ffb5dbc70e38e751d94c9eded95f2@hamcal",
-    "summary": "CWops Test (CWT)",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-10-29T03:00:00Z",
-    "end_utc": "2026-10-29T04:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "d813a354dfd48ac9ecf7d85cd5643edb@hamcal",
-    "summary": "ARRL EME Contest",
+    "uid": "7ef15153239c6000d54bb01b8a1003a1@hamcal",
+    "summary": "Russian WW MultiMode Contest",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-10-31T00:00:00Z",
-    "end_utc": "2026-11-01T23:59:00Z",
+    "start_utc": "2026-10-31T12:00:00Z",
+    "end_utc": "2026-11-01T11:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "f2e4d4e9fc0a494374ff796e903e1dab@hamcal",
+    "summary": "Zombie Shuffle",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-30T15:00:00Z",
+    "end_utc": "2026-10-30T23:59:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -270,32 +92,6 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "89580b4a68704b485f4657eb27c2f238@hamcal",
-    "summary": "UKEICC 80m Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-10-28T20:00:00Z",
-    "end_utc": "2026-10-28T21:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "53f0042b64306510ab963d40ee641647@hamcal",
-    "summary": "QCX Challenge",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-10-26T19:00:00Z",
-    "end_utc": "2026-10-26T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
     "uid": "ae83a39e062f6fe39c6e5e1540303bcc@hamcal",
     "summary": "Mini-Test 80",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
@@ -306,6 +102,60 @@
     "mode": "",
     "start_utc": "2026-10-28T18:00:00Z",
     "end_utc": "2026-10-28T18:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "5a559be1e10f33a48d0f8221102fd853@hamcal",
+    "summary": "QCX Challenge",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-26T13:00:00Z",
+    "end_utc": "2026-10-26T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "29e0ac398ac2610ed27eb30c399afb8b@hamcal",
+    "summary": "CWops Test (CWT)",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-10-28T13:00:00Z",
+    "end_utc": "2026-10-28T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "ac6c65ed1ef9d5578dc28e597ed17fef@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-10-27T03:00:00Z",
+    "end_utc": "2026-10-27T04:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "d813a354dfd48ac9ecf7d85cd5643edb@hamcal",
+    "summary": "ARRL EME Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-31T00:00:00Z",
+    "end_utc": "2026-11-01T23:59:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -323,16 +173,17 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "34fa8edcad8766a3a3e65fd05d7932b8@hamcal",
-    "summary": "Worldwide Sideband Activity Contest",
+    "uid": "30029fb347fed2d06ee3eeabfd0c98b3@hamcal",
+    "summary": "CWops Test (CWT)",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
-      "contest"
+      "contest",
+      "cw"
     ],
-    "mode": "",
-    "start_utc": "2026-10-27T01:00:00Z",
-    "end_utc": "2026-10-27T01:59:00Z",
+    "mode": "CW",
+    "start_utc": "2026-10-28T19:00:00Z",
+    "end_utc": "2026-10-28T20:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -349,21 +200,35 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "bcd39385016e99aa1a4f1ee7614498b2@hamcal",
-    "summary": "K1USN Slow Speed Test",
+    "uid": "bd8b04e8a10842a1d3b328b541f826a1@hamcal",
+    "summary": "NCCC FT4 Sprint",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "start_utc": "2026-10-30T01:00:00Z",
+    "end_utc": "2026-10-30T01:30:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "89580b4a68704b485f4657eb27c2f238@hamcal",
+    "summary": "UKEICC 80m Contest",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-10-26T00:00:00Z",
-    "end_utc": "2026-10-26T01:00:00Z",
+    "start_utc": "2026-10-28T20:00:00Z",
+    "end_utc": "2026-10-28T21:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "69d8bf0b5faec43d790f7c26a5198288@hamcal",
-    "summary": "UK/EI DX Contest\\, SSB",
+    "uid": "7c8b432c1c445074fe20c74d13d99342@hamcal",
+    "summary": "Phone Weekly Test",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
@@ -371,8 +236,89 @@
       "phone"
     ],
     "mode": "PHONE",
-    "start_utc": "2026-10-31T12:00:00Z",
-    "end_utc": "2026-11-01T12:00:00Z",
+    "start_utc": "2026-10-28T02:30:00Z",
+    "end_utc": "2026-10-28T03:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "bc7cd79f18f1bbd4d88d4b9805f73b5b@hamcal",
+    "summary": "OK1WC Memorial (MWC)",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-26T16:30:00Z",
+    "end_utc": "2026-10-26T17:29:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "c2212c1d21c800e49b7926dbfa1b7cbf@hamcal",
+    "summary": "Weekly RTTY Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "start_utc": "2026-10-30T01:45:00Z",
+    "end_utc": "2026-10-30T02:15:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "0331b00e522064b880f360008170bd26@hamcal",
+    "summary": "RSGB FT4 Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "digital"
+    ],
+    "mode": "DIGITAL",
+    "start_utc": "2026-10-26T20:00:00Z",
+    "end_utc": "2026-10-26T22:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "c13ec2a8fbbf1eb6ca7a4e1f6f80feab@hamcal",
+    "summary": "SKCC Sprint",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-28T00:00:00Z",
+    "end_utc": "2026-10-28T02:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "9d30645bce3335caab616ad5d340f234@hamcal",
+    "summary": "CWops Test (CWT)",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-10-29T07:00:00Z",
+    "end_utc": "2026-10-29T08:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "34fa8edcad8766a3a3e65fd05d7932b8@hamcal",
+    "summary": "Worldwide Sideband Activity Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-27T01:00:00Z",
+    "end_utc": "2026-10-27T01:59:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -389,17 +335,44 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "0331b00e522064b880f360008170bd26@hamcal",
-    "summary": "RSGB FT4 Contest",
+    "uid": "453ffb5dbc70e38e751d94c9eded95f2@hamcal",
+    "summary": "CWops Test (CWT)",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest",
-      "digital"
+      "cw"
     ],
-    "mode": "DIGITAL",
-    "start_utc": "2026-10-26T20:00:00Z",
-    "end_utc": "2026-10-26T22:00:00Z",
+    "mode": "CW",
+    "start_utc": "2026-10-29T03:00:00Z",
+    "end_utc": "2026-10-29T04:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "71d19a8ceceef2502b8e697664edfdeb@hamcal",
+    "summary": "NCCC Sprint",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-10-30T02:30:00Z",
+    "end_utc": "2026-10-30T03:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "69d8bf0b5faec43d790f7c26a5198288@hamcal",
+    "summary": "UK/EI DX Contest\\, SSB",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "phone"
+    ],
+    "mode": "PHONE",
+    "start_utc": "2026-10-31T12:00:00Z",
+    "end_utc": "2026-11-01T12:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
