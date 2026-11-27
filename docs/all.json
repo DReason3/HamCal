@@ -1,7 +1,20 @@
 [
   {
-    "uid": "91c7e8398806abf3732f48e8048da89e@hamcal",
-    "summary": "RSGB 80m Autumn Series\\, CW",
+    "uid": "2601a09394699c45cc42a3ed7ae27aec@hamcal",
+    "summary": "QCX Challenge",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-30T13:00:00Z",
+    "end_utc": "2026-11-30T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "3f86fd7ba783c3b721cbc365dc37bab6@hamcal",
+    "summary": "ICWC Medium Speed Test",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
@@ -9,8 +22,34 @@
       "cw"
     ],
     "mode": "CW",
-    "start_utc": "2026-11-26T20:00:00Z",
-    "end_utc": "2026-11-26T21:30:00Z",
+    "start_utc": "2026-11-30T13:00:00Z",
+    "end_utc": "2026-11-30T14:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "1d44c0c6ecb6f34ee00181016249e366@hamcal",
+    "summary": "ARRL EME Contest",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-28T00:00:00Z",
+    "end_utc": "2026-11-29T23:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "19dcf17c8ab3838b43a5e091483f58b2@hamcal",
+    "summary": "K1USN Slow Speed Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-30T00:00:00Z",
+    "end_utc": "2026-11-30T01:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -25,20 +64,6 @@
     "mode": "CW",
     "start_utc": "2026-11-30T19:00:00Z",
     "end_utc": "2026-11-30T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "9dd4d596c6f3688f04eb3bbd419d7b03@hamcal",
-    "summary": "NCCC FT4 Sprint",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "start_utc": "2026-11-27T01:00:00Z",
-    "end_utc": "2026-11-27T01:30:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -68,20 +93,6 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "3e3c6390743c8feb10e37d071e95cee3@hamcal",
-    "summary": "Weekly RTTY Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "digital"
-    ],
-    "mode": "DIGITAL",
-    "start_utc": "2026-11-27T01:45:00Z",
-    "end_utc": "2026-11-27T02:15:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
     "uid": "3def828f2de6903ede166d2f4d923dc9@hamcal",
     "summary": "CQ Worldwide DX Contest\\, CW",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
@@ -96,32 +107,6 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "2601a09394699c45cc42a3ed7ae27aec@hamcal",
-    "summary": "QCX Challenge",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-11-30T13:00:00Z",
-    "end_utc": "2026-11-30T14:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "19dcf17c8ab3838b43a5e091483f58b2@hamcal",
-    "summary": "K1USN Slow Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-11-30T00:00:00Z",
-    "end_utc": "2026-11-30T01:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
     "uid": "a607eca3d24b2e5cbcfcdb3c98ae1a5e@hamcal",
     "summary": "OK1WC Memorial (MWC)",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
@@ -132,46 +117,6 @@
     "mode": "",
     "start_utc": "2026-11-30T16:30:00Z",
     "end_utc": "2026-11-30T17:29:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "1d44c0c6ecb6f34ee00181016249e366@hamcal",
-    "summary": "ARRL EME Contest",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-11-28T00:00:00Z",
-    "end_utc": "2026-11-29T23:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "c59aca39a5993363471657b781c2bb74@hamcal",
-    "summary": "NCCC Sprint",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-11-27T02:30:00Z",
-    "end_utc": "2026-11-27T03:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "3f86fd7ba783c3b721cbc365dc37bab6@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-11-30T13:00:00Z",
-    "end_utc": "2026-11-30T14:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
