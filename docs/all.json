@@ -1,15 +1,56 @@
 [
   {
-    "uid": "2601a09394699c45cc42a3ed7ae27aec@hamcal",
-    "summary": "QCX Challenge",
+    "uid": "19dcf17c8ab3838b43a5e091483f58b2@hamcal",
+    "summary": "K1USN Slow Speed Test",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-11-30T13:00:00Z",
-    "end_utc": "2026-11-30T14:00:00Z",
+    "start_utc": "2026-11-30T00:00:00Z",
+    "end_utc": "2026-11-30T01:00:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "a607eca3d24b2e5cbcfcdb3c98ae1a5e@hamcal",
+    "summary": "OK1WC Memorial (MWC)",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest"
+    ],
+    "mode": "",
+    "start_utc": "2026-11-30T16:30:00Z",
+    "end_utc": "2026-11-30T17:29:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "3def828f2de6903ede166d2f4d923dc9@hamcal",
+    "summary": "CQ Worldwide DX Contest\\, CW",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-11-28T00:00:00Z",
+    "end_utc": "2026-11-29T23:59:00Z",
+    "source": "wa7bnm-gcal"
+  },
+  {
+    "uid": "dab78fdf343813e06f747d5da38480a1@hamcal",
+    "summary": "ICWC Medium Speed Test",
+    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
+    "url": "",
+    "categories": [
+      "contest",
+      "cw"
+    ],
+    "mode": "CW",
+    "start_utc": "2026-11-30T19:00:00Z",
+    "end_utc": "2026-11-30T20:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -40,46 +81,6 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "19dcf17c8ab3838b43a5e091483f58b2@hamcal",
-    "summary": "K1USN Slow Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-11-30T00:00:00Z",
-    "end_utc": "2026-11-30T01:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "dab78fdf343813e06f747d5da38480a1@hamcal",
-    "summary": "ICWC Medium Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-11-30T19:00:00Z",
-    "end_utc": "2026-11-30T20:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "f5e996454512c4fe3dd353694506edd2@hamcal",
-    "summary": "K1USN Slow Speed Test",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest"
-    ],
-    "mode": "",
-    "start_utc": "2026-11-27T20:00:00Z",
-    "end_utc": "2026-11-27T21:00:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
     "uid": "5a0332aa79ff280573aeeae53bf107d1@hamcal",
     "summary": "QCX Challenge",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
@@ -93,30 +94,16 @@
     "source": "wa7bnm-gcal"
   },
   {
-    "uid": "3def828f2de6903ede166d2f4d923dc9@hamcal",
-    "summary": "CQ Worldwide DX Contest\\, CW",
-    "description": "//www.contestcalendar.com/contestdetails.php?ref=",
-    "url": "",
-    "categories": [
-      "contest",
-      "cw"
-    ],
-    "mode": "CW",
-    "start_utc": "2026-11-28T00:00:00Z",
-    "end_utc": "2026-11-29T23:59:00Z",
-    "source": "wa7bnm-gcal"
-  },
-  {
-    "uid": "a607eca3d24b2e5cbcfcdb3c98ae1a5e@hamcal",
-    "summary": "OK1WC Memorial (MWC)",
+    "uid": "2601a09394699c45cc42a3ed7ae27aec@hamcal",
+    "summary": "QCX Challenge",
     "description": "//www.contestcalendar.com/contestdetails.php?ref=",
     "url": "",
     "categories": [
       "contest"
     ],
     "mode": "",
-    "start_utc": "2026-11-30T16:30:00Z",
-    "end_utc": "2026-11-30T17:29:00Z",
+    "start_utc": "2026-11-30T13:00:00Z",
+    "end_utc": "2026-11-30T14:00:00Z",
     "source": "wa7bnm-gcal"
   },
   {
@@ -157,19 +144,6 @@
     "start_utc": "2027-06-26T00:00:00Z",
     "end_utc": "2027-06-28T00:00:00Z",
     "source": "arrl-field-day"
-  },
-  {
-    "uid": "0715a6eac164b9da3ed3c0d90768c188@hamcal",
-    "summary": "Ham Radio Auction\t\t\t\r",
-    "description": "",
-    "url": "https://www.arrl.org/hamfests/search",
-    "categories": [
-      "hamfest"
-    ],
-    "mode": "",
-    "start_utc": "2026-11-27T00:00:00Z",
-    "end_utc": "2026-11-28T00:00:00Z",
-    "source": "arrl-hamfest"
   },
   {
     "uid": "d9ca3779d63f5b7d68946af464c895af@hamcal",
@@ -1391,6 +1365,19 @@
     "mode": "",
     "start_utc": "2027-07-17T00:00:00Z",
     "end_utc": "2027-07-18T00:00:00Z",
+    "source": "arrl-hamfest"
+  },
+  {
+    "uid": "c507d7374ab860072cbfb6cbaef8b113@hamcal",
+    "summary": "Van Wert Hamfest\t\t\t\r",
+    "description": "",
+    "url": "https://www.arrl.org/hamfests/search",
+    "categories": [
+      "hamfest"
+    ],
+    "mode": "",
+    "start_utc": "2027-07-18T00:00:00Z",
+    "end_utc": "2027-07-19T00:00:00Z",
     "source": "arrl-hamfest"
   }
 ]
